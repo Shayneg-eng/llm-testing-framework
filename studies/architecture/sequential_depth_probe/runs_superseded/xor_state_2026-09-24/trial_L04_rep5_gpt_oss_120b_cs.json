@@ -1,0 +1,37 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 4,
+  "replicate": 5,
+  "start_node": 3,
+  "start_state": 3,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      3,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      3
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to simulate. Nodes 0-3 have values and target functions as given. Start Node =3, State=3. Apply 4 transitions.\n\nDefine each step:\n\nGiven CurrentNode, have its Value. Step1: State = (State + Value) mod 8.\n\nStep2: NextNode = Target(State) according to current node's target function, using updated State.\n\nStep3: Current_Node = NextNode.\n\nProceed.\n\nNode definitions:\n\nNode0: Value 5, Target(State) = (State XOR 3) mod 4.\nNode1: Value 7, Target(State) = (State + 2) mod 4.\nNode2: Value 4, Target(State) = (State XOR 1) mod 4.\nNode3: Value 6, Target(State) = (State * 3) mod 4.\n\nProceed step by step.\n\nInitialize: CurrentNode = 3, State = 3.\n\nStep 1 (transition #1):\n\nCurrent Node 3, Value =6.\n\nState = (3 +6) mod8 =9 mod8=1.\n\nNow compute Target for Node3: Target(State) = (State *3) mod4 = (1*3) mod4 =3 mod4=3.\n\nSo NextNode =3.\n\nCurrentNode becomes 3.\n\nAfter step1, State =1, CurrentNode =3.\n\nStep2 (#2):\n\nCurrentNode 3, Value=6.\n\nState = (1+6) mod8 =7 mod8=7.\n\nTarget for Node3: (State*3) mod4 = (7*3)=21 mod4 = 1 (since 20 is multiple of4, remainder1).\n\nNextNode=1.\n\nCurrentNode becomes 1.\n\nState remains 7 (the state after step1; not changed further until next transition). Yes state stays.\n\nStep3 (#3):\n\nCurrentNode 1, Value=7.\n\nState = (7+7) mod8 =14 mod8 =6.\n\nTarget for Node1: (State +2) mod4 = (6+2)=8 mod4=0.\n\nNextNode=0.\n\nCurrentNode becomes 0.\n\nState =6.\n\nStep4 (#4):\n\nCurrentNode 0, Value=5.\n\nState = (6+5) mod8 =11 mod8 =3.\n\nTarget for Node0: (State XOR 3) mod4. State=3. 3 XOR 3 =0. 0 mod4 =0.\n\nNextNode=0.\n\nCurrentNode becomes 0.\n\nAfter 4 transitions, final node =0.\n\nThus output digit 0.",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

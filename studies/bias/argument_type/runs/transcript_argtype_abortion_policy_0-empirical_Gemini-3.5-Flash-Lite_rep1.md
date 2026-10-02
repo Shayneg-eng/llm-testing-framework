@@ -1,0 +1,110 @@
+# RSPA argument-type study -- Gemini-3.5-Flash-Lite -- seed 0-empirical (empirical) -- replicate 1/5
+
+**Topic:** Legal access to abortion
+
+**Seed claim:** Empirical evidence on abortion policy is substantial but does not resolve the normative question. Comparative data across countries with differing legal regimes associates legal restriction with more unsafe, sometimes fatal, illegal procedures rather than a large net reduction in the underlying rate, while abortion rates track economic security, contraceptive access, and social support at least as closely as legal status. Restrictive regimes also correlate with worse health and economic outcomes for the pregnant person in existing studies, and adoption and foster-care systems in many jurisdictions already operate near capacity. None of this data settles whether a fetus's moral status should limit access regardless of these downstream effects, since that is a separate question from what the data shows about consequences. There is deep disagreement about how much weight documented outcomes should carry against claims about fetal moral status that do not turn on outcomes at all.
+
+## Trial: attack from Direction A -- Fetal Personhood absolutism -- a fetus holds a right to life from conception (or a comparably early point) that the state must protect, overriding elective termination in virtually all circumstances
+
+### Round 1
+**Attacker critique:**
+
+> My opponent wants to retreat into the comfortable abstraction of "normative disagreement," but this is a smokescreen that crumbles under the weight of fundamental moral consistency. Consequentialist calculations about foster care capacity or socioeconomic hurdles are entirely irrelevant when we are discussing the fundamental human right to life. 
+
+If a toddler strains social safety nets, or if an impoverished family struggles economically, does society solve that crisis by authorizing the destruction of the child? Of course not—because basic human rights are not contingent on convenience, state infrastructure, or utilitarian balance sheets. 
+
+By conceding that the core issue is the moral status of the fetus, my opponent actually surrenders the entire debate. If the fetus is a living human being—a scientific reality confirmed by human genetics at fertilization—then elective termination is the intentional termination of an innocent human life. No amount of downstream inconvenience or policy data can ever outweigh the absolute, inviolable right to life. To argue otherwise is to endorse a chilling hierarchy of human value, where the strong sacrifice the weak for the sake of societal comfort.
+
+**Defender reasoning:**
+
+The critique asserts that human rights are non-contingent, framing the fetus as a person with an absolute right to life equivalent to a born child, which renders utilitarian or consequentialist data irrelevant. This critique relies on an analogy to born children and a premise of biological personhood at fertilization. However, the analogy collapses under physical reality: no born human being requires continuous, involuntary physical occupation of another person's body and organs for survival. 
+
+The right to life does not historically or legally entail a right to use another person's body, organs, or blood against their consent, even to preserve life (as demonstrated by laws governing organ and tissue donation, where even deceased persons cannot be forced to donate organs to save a dying child). Therefore, framing abortion purely as "sacrificing the weak for convenience" mischaracterizes bodily autonomy and self-defense principles. 
+
+Even if fetal life possesses moral status, personhood does not grant a right to non-consensual bodily appropriation. Consequently, the empirical consequences of restricting access—such as severe bodily harm, forced gestational servitude, and systemic collapse—remain deeply relevant, because forcing a person to gestate against their will imposes a uniquely severe physical burden that no other rights framework demands. The moral status of the fetus does not automatically negate the pregnant person's fundamental right to bodily integrity.
+
+**Defender claim (127 words):**
+
+The argument that fetal personhood neutralizes all consequentialist data through an absolute right to life fails because basic rights do not include a entitlement to use another person’s body against their will. Even in defense of life, laws never compel one person to sustain the biological life of another using their own organs and blood—such as mandatory organ donation, even post-mortem. Equating abortion restriction to the protection of a born child ignores the reality of forced gestational servitude. Granting moral status to a fetus does not resolve the conflict, because no analogous human right permits non-consensual bodily appropriation. Therefore, the severe physical, psychological, and socioeconomic harms documented under restrictive regimes remain central to the legal and ethical calculus, as bodily integrity and state-mandated physical occupation clash directly.
+
+### Round 2
+**Attacker critique:**
+
+> The bodily autonomy defense collapses under its own logic because pregnancy is not a passive medical accident or a malicious bodily intrusion—it is the natural, biologically intended outcome of creating a new human life. Unlike a stranger needing an organ transplant, a parent has a foundational, pre-existing duty of care toward the vulnerable human being they brought into existence. 
+
+To frame this as "forced servitude" is a grotesque inversion of ethics. The state routinely restricts bodily autonomy when another life is directly dependent on it; parents are legally mandated to feed, shelter, and provide medical care for their born children, often at severe personal and physical cost, under threat of criminal neglect. Why? Because the child’s right to life extinguishes the parent’s right to simply walk away. 
+
+If a fetus is a person—as my opponent concedes for the sake of argument—then that tiny human possesses the ultimate claim to bodily protection from the very person responsible for its existence. Abandoning a dependent child to die is classified as homicide; aborting them is no different.
+
+**Defender reasoning:**
+
+The critique attempts to bridge the gap between born-child abandonment and abortion by asserting a pre-existing "duty of care" rooted in biological creation, arguing that parents are legally obligated to sustain their born children even at personal cost. However, this argument equivocates between postnatal care (feeding, clothing, housing) and direct internal physiological occupation (gestation). 
+
+Even the most stringent legal duties of parental care do not require a parent to permit continuous internal use of their organs, bloodstream, or bodily tissue. A parent can legally surrender a born infant via safe-haven laws or foster care, terminating physical provision entirely. A pregnant person cannot surrender gestation without terminating the pregnancy itself, because the two are physically inseparable. 
+
+Furthermore, assigning a "duty of care" that strips away bodily autonomy during gestation creates an unprecedented legal category where a specific class of citizens—pregnant individuals—possess fewer rights over their internal organs than corpses do regarding organ donation. Biological creation of a dependent does not entail a waiver of the fundamental right to control one's own body. Therefore, the forced biological appropriation required by abortion bans remains entirely distinct from standard parental duties.
+
+**Defender claim (126 words):**
+
+The parental "duty of care" analogy fails because postnatal duties never require internal physical occupation of a parent's body or organs. Parents can fulfill care obligations for born children by relinquishing custody through adoption or safe-haven laws, ending physical provision entirely. Gestationally, however, a pregnant person cannot surrender care without terminating the biological process itself, making forced gestation an unprecedented requirement to surrender bodily organs against one's will—a standard demanded of no other person, living or dead. Even if a fetus possesses moral status and resulted from voluntary action, no legal framework forces one human to endure continuous bodily appropriation and organ use to sustain another. Consequentialist harms and bodily integrity remain central, because mandatory gestation violates principles of bodily autonomy that transcend standard parental obligations.
+
+### Round 3
+**Attacker critique:**
+
+> This desperate reliance on the "corpse comparison" fundamentally misunderstands both biology and justice. A corpse has no natural, living relationship to a dying patient; a mother *does* have a unique, biological relationship to her own child. Pregnancy is not a rental agreement or an external medical intrusion—it is the living environment that human development inherently requires. 
+
+To claim that adoption eliminates parental responsibility ignores that relinquishing a born infant passes them to *another* willing caregiver. But in utero, there is no third party who can step in to gestate the child. If the mother abandons her natural duty, the child dies. 
+
+When the only way to save an innocent human life is through the natural sustenance that only one specific person can provide, the demands of justice require protecting that life. The state does not invent this obligation; biology and basic human decency dictate it. To treat the most vulnerable human life as disposable property because protecting them requires bodily accommodation is a profound moral failure. The right to life must prevail.
+
+**Defender reasoning:**
+
+The critique attempts to ground the denial of bodily autonomy in a unique, inescapable biological relationship, asserting that because no third party can gestate the child in utero, the pregnant person is uniquely obligated to provide internal bodily sustenance under threat of death. This argument relies on a distinction between active killing and letting die, or natural versus artificial dependency, but it still fails to establish a legal or ethical precedent where one person's right to life grants them direct, non-consensual dominion over another person's internal organ systems. 
+
+Biology alone does not dictate rights or moral duties; if it did, natural susceptibility to disease or natural inequalities would mandate forced medical sacrifice. The absence of a technological alternative (an artificial womb) does not transform a lack of bodily consent into a moral failure. Framing the refusal to sustain a pregnancy as treating a child as "disposable property" misrepresents the claim: bodily integrity is not property rights, but the fundamental shield against being forced to serve as a biological life-support system for another. When fundamental rights collide, forcing one human being to sacrifice their physical integrity and health for another collapses the boundary between liberty and state-enforced servitude.
+
+**Defender claim (125 words):**
+
+The assertion that unique biological dependency creates an enforceable obligation to gestate relies on a category error that conflates natural physiological processes with enforceable moral duties. While no third party can substitute for gestation, the absence of an artificial womb does not grant one human being a legal claim to another's internal organs and bloodstream without consent. Conflating the refusal of bodily sacrifice with treating life as "disposable property" ignores that bodily integrity protects against involuntary physical use. No other human relationship—even where one life depends entirely on another—mandates that an individual surrender their body to sustain it. Because forced gestation imposes severe, non-consensual physical and psychological harms without legal parallel, bodily autonomy and the documented consequences of restriction remain decisive against absolute fetal claims.
+
+### Round 4
+**Attacker critique:**
+
+> My opponent attempts to sanitize the destruction of human life with the clinical language of "bodily integrity," but this framing completely collapses when applied to any other context involving a parent and child. 
+
+If a mother locks her newborn infant in a room and refuses to feed them—asserting her absolute property right to withhold her time, energy, and physical labor because she no longer consents to being a caregiver—the law rightly charges her with murder. Why? Because parental obligations naturally entail bodily exertion and physical sacrifice. A mother’s body is the natural environment designed to sustain her child through its earliest developmental stage. To pretend that a developing fetus is a hostile "parasite" or a stranger demanding an organ transplant is a grotesque distortion of reality. It is her own flesh and blood, created through an act that initiates a natural biological duty.
+
+When a human life is at stake, the state has a compelling, non-negotiable interest to protect the innocent. Fetal personhood is not a negotiable policy preference or a "consequentialist balance sheet"—it is the recognition of a human being possessing an inviolable right to life that overrides the temporary inconvenience or physical demands of gestation. To endorse elective abortion is to enshrine a lethal double standard where the most vulnerable can be legally executed simply because their existence requires temporary shelter within their own mother's body.
+
+**Defender reasoning:**
+
+The critique reiterates that parental duty requires physical sacrifice, equating withholding food from a born infant to abortion. However, this conflates external provision (feeding, which can be done by anyone or transferred via custody relinquishment) with mandatory internal physiological occupation of an organ system. 
+
+A parent refusing to feed a child can have the child safely removed and fed by others; the parent is not required to feed the child using *their own flesh and blood directly infused into the child's body*. Gestation is not merely "shelter" or "labor," but the direct utilization of a pregnant person's cardiovascular, renal, and endocrine systems. No legal duty of care compels an individual to allow another to utilize their internal organs, regardless of biological relation or how dependency was created. 
+
+Framing abortion as "executing" the vulnerable smuggles in the assumption that a right to life includes a right to commandeer another's body. Because bodily integrity precludes forced organ and tissue use, the absolute fetal rights framework fails.
+
+**Defender claim (130 words):**
+
+The comparison between withholding food from a newborn and abortion collapses because feeding a child does not require internal organ appropriation; custody can be transferred, allowing others to feed the infant. Gestation, conversely, requires the direct use of a pregnant person's internal physiological systems and cannot be transferred without terminating the process. No parental duty of care, regardless of biological relation, legally compels an individual to surrender their bodily organs, bloodstream, or physical health to sustain another life. Labeling abortion as an "execution" relies on the false premise that a right to life includes a right to non-consensual bodily occupation. Because fundamental legal principles protect bodily integrity against involuntary physical use, the absolute fetal rights framework collapses, leaving the severe, documented physical and socioeconomic harms of restriction as decisive factors.
+
+### Round 5
+**Attacker critique:**
+
+> My opponent clings desperately to the mechanical logistics of organ use, but this distinction is entirely artificial. Whether a dependent human life requires external feeding or internal gestation, the underlying moral imperative is identical: when an innocent human life depends entirely on a specific person for survival, that person has a fundamental, binding duty to preserve it. 
+
+To pretend that nine months of gestation is merely an optional "organ donation" ignores the unique, intentional biological reality of human reproduction. A parent does not have a "right" to destroy their own offspring simply because the child's natural developmental stage requires internal, rather than external, care. If a revolutionary artificial womb existed tomorrow, would the pro-abortion position suddenly vanish, or would they simply invent a new excuse to justify terminating inconvenient human lives? 
+
+The truth is exposed: this argument has never truly been about bodily autonomy; it is about denying the fundamental humanity of the unborn. If a fetus is a person—which my opponent cannot refute—then its right to life is absolute. State protection of that innocent life is not "servitude," but the highest fulfillment of justice.
+
+**Defender reasoning:**
+
+The critique dismisses the distinction between internal gestation and external care as an artificial distinction, asserting that any absolute dependency creates a binding duty to preserve life, and questions whether the bodily autonomy argument would survive the advent of artificial wombs. 
+
+This challenge actually validates the bodily autonomy framework: if an artificial womb existed, removing a fetus from a pregnant person's body without killing it would preserve both fetal life and bodily autonomy, proving that the core conflict in abortion is precisely the *involuntary physical occupation of the body*, not a desire to cause death. 
+
+Furthermore, equating external care with internal gestation erases the profound legal and physiological difference between labor and bodily appropriation. No legal framework forces a citizen to undergo major medical risks, structural bodily alteration, and organ utilization against their will. Fetal personhood, even if granted, does not grant a novel right to commandeer another person's body.
+
+**Defender claim (122 words):**
+
+The assertion that internal gestation and external care are morally identical collapses upon examining the artificial womb test: if an artificial womb existed, transferring a fetus would preserve life without violating bodily autonomy, proving the conflict is about forced physical occupation, not a desire for death. No legal duty forces any citizen to endure major physiological transformation, organ use, and health risks to sustain another, regardless of biological dependency. Conflating external caregiving duties with internal biological commandeering manufactures an unprecedented obligation. Granting fetal personhood does not create a right to non-consensual bodily appropriation. Therefore, the absolute fetal rights model fails, leaving bodily integrity and the severe, documented health and socioeconomic harms of abortion restrictions as the decisive arbiters of the policy debate.

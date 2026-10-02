@@ -1,0 +1,809 @@
+{
+ "seed": 20260926,
+ "n": 100,
+ "skipped_ties": 0,
+ "lookback": 120,
+ "horizon_min": 15,
+ "windows": [
+  {
+   "window_id": "w000",
+   "t": 1790016060,
+   "start_price": 59938.88095525508,
+   "end_price": 60079.98493252778,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w001",
+   "t": 1790023080,
+   "start_price": 59852.96563297967,
+   "end_price": 59921.04978840132,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w002",
+   "t": 1790039460,
+   "start_price": 59866.2925135625,
+   "end_price": 59785.719577336175,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w003",
+   "t": 1790040540,
+   "start_price": 59814.53158967357,
+   "end_price": 59962.86205589793,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w004",
+   "t": 1790125200,
+   "start_price": 59097.085828604395,
+   "end_price": 59168.40080364847,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w005",
+   "t": 1790161800,
+   "start_price": 59114.22565715371,
+   "end_price": 59163.88709372764,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w006",
+   "t": 1790163420,
+   "start_price": 59202.253086700206,
+   "end_price": 59296.90035196033,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w007",
+   "t": 1790165340,
+   "start_price": 59200.51090792754,
+   "end_price": 59095.36649119187,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w008",
+   "t": 1790172900,
+   "start_price": 59135.07588285126,
+   "end_price": 59077.96222339499,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w009",
+   "t": 1790213580,
+   "start_price": 58454.7752748198,
+   "end_price": 58508.87824148495,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w010",
+   "t": 1790228400,
+   "start_price": 58716.6424341906,
+   "end_price": 58758.938916934094,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w011",
+   "t": 1790238780,
+   "start_price": 58294.25301220014,
+   "end_price": 58248.31968160248,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w012",
+   "t": 1790241000,
+   "start_price": 58408.721883022954,
+   "end_price": 58528.49610164394,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w013",
+   "t": 1790247840,
+   "start_price": 58772.28378976355,
+   "end_price": 58745.27191658514,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w014",
+   "t": 1790252280,
+   "start_price": 58992.03816703772,
+   "end_price": 58916.71965863853,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w015",
+   "t": 1790276820,
+   "start_price": 58803.2284232524,
+   "end_price": 58883.25583767709,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w016",
+   "t": 1790283060,
+   "start_price": 58702.69271529604,
+   "end_price": 58628.93783960582,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w017",
+   "t": 1790310900,
+   "start_price": 58839.68794451597,
+   "end_price": 59053.44834313521,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w018",
+   "t": 1790348760,
+   "start_price": 59076.26621581141,
+   "end_price": 59014.73271671254,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w019",
+   "t": 1790377080,
+   "start_price": 59437.3783657398,
+   "end_price": 59299.53075751308,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w020",
+   "t": 1790419680,
+   "start_price": 58680.44251209607,
+   "end_price": 58650.960544905305,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w021",
+   "t": 1790424000,
+   "start_price": 58968.75110319232,
+   "end_price": 59041.56811478537,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w022",
+   "t": 1790465580,
+   "start_price": 58682.9851750003,
+   "end_price": 58680.577684012715,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w023",
+   "t": 1790472240,
+   "start_price": 58500.93603471083,
+   "end_price": 58495.65977511265,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w024",
+   "t": 1790476680,
+   "start_price": 58644.56135459667,
+   "end_price": 58658.08036094154,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w025",
+   "t": 1790479560,
+   "start_price": 58516.669229919724,
+   "end_price": 58359.48963179169,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w026",
+   "t": 1790488020,
+   "start_price": 58283.517102948004,
+   "end_price": 58200.70268870489,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w027",
+   "t": 1790489820,
+   "start_price": 58208.74950877677,
+   "end_price": 58300.78447274369,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w028",
+   "t": 1790499060,
+   "start_price": 58535.91795800747,
+   "end_price": 58491.28838520608,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w029",
+   "t": 1790514540,
+   "start_price": 58313.0716763934,
+   "end_price": 58281.65265351389,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w030",
+   "t": 1790525580,
+   "start_price": 58432.26998222586,
+   "end_price": 58392.22389340948,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w031",
+   "t": 1790529900,
+   "start_price": 58562.94494450528,
+   "end_price": 58405.72503885112,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w032",
+   "t": 1790535240,
+   "start_price": 58336.084525642655,
+   "end_price": 58379.56786058397,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w033",
+   "t": 1790536140,
+   "start_price": 58379.56786058397,
+   "end_price": 58371.2219414139,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w034",
+   "t": 1790542200,
+   "start_price": 58542.7651010619,
+   "end_price": 58789.4783272755,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w035",
+   "t": 1790546640,
+   "start_price": 58620.84408915781,
+   "end_price": 58558.851045100186,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w036",
+   "t": 1790555700,
+   "start_price": 58231.336751244584,
+   "end_price": 58239.21381291959,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w037",
+   "t": 1790563980,
+   "start_price": 58154.566778200024,
+   "end_price": 57973.82855675316,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w038",
+   "t": 1790589720,
+   "start_price": 57996.38747717575,
+   "end_price": 57919.99876246755,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w039",
+   "t": 1790616720,
+   "start_price": 57972.156663487396,
+   "end_price": 58075.69173208952,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w040",
+   "t": 1790737440,
+   "start_price": 60075.136091108805,
+   "end_price": 59965.75918485766,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w041",
+   "t": 1790744160,
+   "start_price": 59691.04315977418,
+   "end_price": 59833.88042640729,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w042",
+   "t": 1790758200,
+   "start_price": 59681.30334380431,
+   "end_price": 59602.10105036609,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w043",
+   "t": 1790768880,
+   "start_price": 59604.89460265132,
+   "end_price": 59601.39793590738,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w044",
+   "t": 1790771100,
+   "start_price": 59487.817900030124,
+   "end_price": 59529.52681954081,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w045",
+   "t": 1790774100,
+   "start_price": 59726.709740435326,
+   "end_price": 59678.82454965112,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w046",
+   "t": 1790780040,
+   "start_price": 59398.93883691419,
+   "end_price": 59543.769524639734,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w047",
+   "t": 1790792820,
+   "start_price": 59379.14574883523,
+   "end_price": 59391.58590127385,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w048",
+   "t": 1790810940,
+   "start_price": 60086.33855822799,
+   "end_price": 60181.7517052829,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w049",
+   "t": 1790835180,
+   "start_price": 59736.660425347516,
+   "end_price": 59630.44352774031,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w050",
+   "t": 1790844420,
+   "start_price": 59799.16318971096,
+   "end_price": 59822.740891463865,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w051",
+   "t": 1790845500,
+   "start_price": 59797.182408051136,
+   "end_price": 59829.43273371709,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w052",
+   "t": 1790849340,
+   "start_price": 59782.1019186287,
+   "end_price": 59840.04550618675,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w053",
+   "t": 1790869380,
+   "start_price": 59969.95645503946,
+   "end_price": 60029.35406761154,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w054",
+   "t": 1790882400,
+   "start_price": 60667.27383653668,
+   "end_price": 60719.62915514064,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w055",
+   "t": 1790934540,
+   "start_price": 61413.09961342184,
+   "end_price": 61405.0107873156,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w056",
+   "t": 1790969520,
+   "start_price": 60797.72588037923,
+   "end_price": 60806.03285451427,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w057",
+   "t": 1790971860,
+   "start_price": 60726.9181233478,
+   "end_price": 60600.2237785109,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w058",
+   "t": 1790996700,
+   "start_price": 60048.70376873697,
+   "end_price": 60105.9617101615,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w059",
+   "t": 1791027840,
+   "start_price": 60508.67408164354,
+   "end_price": 60447.95178723602,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w060",
+   "t": 1791030060,
+   "start_price": 60409.153813316865,
+   "end_price": 60389.28062845969,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w061",
+   "t": 1791048060,
+   "start_price": 60526.589353630196,
+   "end_price": 60530.769280450586,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w062",
+   "t": 1791056160,
+   "start_price": 60496.43210179866,
+   "end_price": 60562.572139181124,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w063",
+   "t": 1791062100,
+   "start_price": 60729.58455219568,
+   "end_price": 60750.812594806026,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w064",
+   "t": 1791102720,
+   "start_price": 59447.62085293801,
+   "end_price": 59474.18605193392,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w065",
+   "t": 1791107880,
+   "start_price": 59411.39098321883,
+   "end_price": 59476.576078907696,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w066",
+   "t": 1791120900,
+   "start_price": 59670.7891421633,
+   "end_price": 59820.37324110682,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w067",
+   "t": 1791125760,
+   "start_price": 59897.59604733525,
+   "end_price": 59918.72120879,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w068",
+   "t": 1791143580,
+   "start_price": 60546.49053662526,
+   "end_price": 60561.71473031282,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w069",
+   "t": 1791154020,
+   "start_price": 60632.99904200201,
+   "end_price": 60761.00601924345,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w070",
+   "t": 1791166020,
+   "start_price": 61198.66174329063,
+   "end_price": 61209.07171313163,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w071",
+   "t": 1791173820,
+   "start_price": 61104.57993619763,
+   "end_price": 61143.91782298173,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w072",
+   "t": 1791235260,
+   "start_price": 60959.653098511655,
+   "end_price": 61079.437016380405,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w073",
+   "t": 1791238920,
+   "start_price": 61059.03301007732,
+   "end_price": 61084.40890185129,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w074",
+   "t": 1791280740,
+   "start_price": 61386.10003186804,
+   "end_price": 61432.14777039233,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w075",
+   "t": 1791320700,
+   "start_price": 60458.232013473054,
+   "end_price": 60350.83500793944,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w076",
+   "t": 1791321600,
+   "start_price": 60350.83500793944,
+   "end_price": 60400.75700942093,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w077",
+   "t": 1791330180,
+   "start_price": 60089.32802655133,
+   "end_price": 60147.06023273073,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w078",
+   "t": 1791347700,
+   "start_price": 59922.45365498998,
+   "end_price": 59915.56254826793,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w079",
+   "t": 1791356280,
+   "start_price": 60116.59674654458,
+   "end_price": 60027.943994259294,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w080",
+   "t": 1791395160,
+   "start_price": 59795.02752256836,
+   "end_price": 59839.41528512366,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w081",
+   "t": 1791400080,
+   "start_price": 60036.483611231975,
+   "end_price": 59765.66779337115,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w082",
+   "t": 1791409320,
+   "start_price": 60005.600210117685,
+   "end_price": 59917.715911635234,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w083",
+   "t": 1791422400,
+   "start_price": 59495.82436285395,
+   "end_price": 59430.64139789366,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w084",
+   "t": 1791424020,
+   "start_price": 59430.79620017476,
+   "end_price": 59401.03688066206,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w085",
+   "t": 1791425820,
+   "start_price": 59479.11585073337,
+   "end_price": 59350.365365591475,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w086",
+   "t": 1791428160,
+   "start_price": 59429.073590768945,
+   "end_price": 59393.746027338966,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w087",
+   "t": 1791435060,
+   "start_price": 59481.68958438599,
+   "end_price": 59307.470634660174,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w088",
+   "t": 1791452640,
+   "start_price": 60088.57117153074,
+   "end_price": 60127.577832372815,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w089",
+   "t": 1791460140,
+   "start_price": 59980.40231608055,
+   "end_price": 60048.5384212256,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w090",
+   "t": 1791554400,
+   "start_price": 60991.84309989217,
+   "end_price": 60930.71318786932,
+   "outcome": "down",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w091",
+   "t": 1791578280,
+   "start_price": 62022.53554343828,
+   "end_price": 62039.41290775638,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w092",
+   "t": 1791589620,
+   "start_price": 62550.92273735736,
+   "end_price": 62515.03402201363,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w093",
+   "t": 1791597000,
+   "start_price": 62686.742062742494,
+   "end_price": 62631.241158606834,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w094",
+   "t": 1791598020,
+   "start_price": 62629.07119977382,
+   "end_price": 62867.31411297582,
+   "outcome": "up",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w095",
+   "t": 1791605820,
+   "start_price": 62963.12711325507,
+   "end_price": 63141.03211675136,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w096",
+   "t": 1791622500,
+   "start_price": 62490.40947414202,
+   "end_price": 62358.48648911186,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w097",
+   "t": 1791677280,
+   "start_price": 61338.44789803812,
+   "end_price": 61321.25859670699,
+   "outcome": "down",
+   "momentum": "down"
+  },
+  {
+   "window_id": "w098",
+   "t": 1791693960,
+   "start_price": 61713.790228930135,
+   "end_price": 61719.05955680269,
+   "outcome": "up",
+   "momentum": "up"
+  },
+  {
+   "window_id": "w099",
+   "t": 1791722280,
+   "start_price": 61803.39204117759,
+   "end_price": 61793.90179800055,
+   "outcome": "down",
+   "momentum": "down"
+  }
+ ]
+}

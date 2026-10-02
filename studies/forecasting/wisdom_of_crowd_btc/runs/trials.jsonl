@@ -1,0 +1,800 @@
+{"window_id": "w001", "model": "GPT-5.4-Mini", "pred": 100.08, "raw": "{\"predicted_close_index\":100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.35}
+{"window_id": "w000", "model": "GPT-5.4-Mini", "pred": 100.04, "raw": "{\"predicted_close_index\":100.04}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.43}
+{"window_id": "w000", "model": "Gemini-3.5-Flash-Lite", "pred": 100.01, "raw": "```json\n{\"predicted_close_index\": 100.01}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.55}
+{"window_id": "w001", "model": "GPT-5.4-Nano", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.54}
+{"window_id": "w000", "model": "GPT-5.4-Nano", "pred": 100.19, "raw": "{\"predicted_close_index\":100.19}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.97}
+{"window_id": "w001", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.42}
+{"window_id": "w001", "model": "GPT-OSS-120B-CS", "pred": 100.091, "raw": "{\"predicted_close_index\": 100.091}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.35}
+{"window_id": "w000", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.4}
+{"window_id": "w000", "model": "GPT-OSS-120B-CS", "pred": 100.25, "raw": "{\"predicted_close_index\": 100.25}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.5}
+{"window_id": "w002", "model": "GPT-5.4-Nano", "pred": 99.96, "raw": "{\"predicted_close_index\":99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w002", "model": "GPT-5.4-Mini", "pred": 100.012, "raw": "{\"predicted_close_index\":100.012}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.83}
+{"window_id": "w002", "model": "Gemini-3.5-Flash-Lite", "pred": 100.03, "raw": "```json\n{\"predicted_close_index\": 100.03}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.45}
+{"window_id": "w001", "model": "Gemini-3.5-Flash", "pred": 100.1, "raw": "{\"predicted_close_index\": 100.1}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.52}
+{"window_id": "w000", "model": "Gemini-3.7-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.49}
+{"window_id": "w002", "model": "Gemini-3.5-Flash", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.77}
+{"window_id": "w002", "model": "GPT-OSS-120B-CS", "pred": 100.03, "raw": "{\"predicted_close_index\": 100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.14}
+{"window_id": "w003", "model": "GPT-5.4-Nano", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w001", "model": "Gemini-3.7-Flash", "pred": 100.15, "raw": "```json\n{\"predicted_close_index\": 100.15}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.14}
+{"window_id": "w001", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.76}
+{"window_id": "w003", "model": "GPT-5.4-Mini", "pred": 99.86, "raw": "{\"predicted_close_index\":99.86}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.88}
+{"window_id": "w003", "model": "Gemini-3.5-Flash-Lite", "pred": 99.93, "raw": "```json\n{\"predicted_close_index\": 99.93}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w003", "model": "GPT-OSS-120B-CS", "pred": 100.07, "raw": "{\"predicted_close_index\": 100.07}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.06}
+{"window_id": "w000", "model": "Grok-4.3", "pred": 100.04, "raw": "{\"predicted_close_index\": 100.04}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 12.65}
+{"window_id": "w004", "model": "GPT-5.4-Nano", "pred": 99.995, "raw": "{\"predicted_close_index\":99.995}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w003", "model": "Gemini-3.5-Flash", "pred": 100.08, "raw": "{\"predicted_close_index\": 100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.19}
+{"window_id": "w004", "model": "GPT-5.4-Mini", "pred": 100.012, "raw": "{\"predicted_close_index\":100.012}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w002", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.74}
+{"window_id": "w004", "model": "Gemini-3.5-Flash-Lite", "pred": 100.03, "raw": "```json\n{\"predicted_close_index\": 100.03}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.34}
+{"window_id": "w002", "model": "Gemini-3.7-Flash", "pred": 100.038, "raw": "```json\n{\"predicted_close_index\": 100.038}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.99}
+{"window_id": "w004", "model": "GPT-OSS-120B-CS", "pred": 100.098, "raw": "{\"predicted_close_index\": 100.098}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.18}
+{"window_id": "w003", "model": "Gemini-3.7-Flash", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.79}
+{"window_id": "w004", "model": "Gemini-3.5-Flash", "pred": 100.025, "raw": "```json\n{\"predicted_close_index\": 100.025}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.52}
+{"window_id": "w001", "model": "Inkling", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.37}
+{"window_id": "w005", "model": "GPT-5.4-Mini", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.75}
+{"window_id": "w003", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.1}
+{"window_id": "w005", "model": "GPT-5.4-Nano", "pred": 99.989, "raw": "{\"predicted_close_index\":99.989}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.55}
+{"window_id": "w005", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.99}
+{"window_id": "w005", "model": "GPT-OSS-120B-CS", "pred": 100.011, "raw": "{\"predicted_close_index\": 100.011}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w004", "model": "Grok-4.3", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.83}
+{"window_id": "w005", "model": "Gemini-3.5-Flash", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.7}
+{"window_id": "w006", "model": "GPT-5.4-Mini", "pred": 100.012, "raw": "{\"predicted_close_index\":100.012}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.8}
+{"window_id": "w006", "model": "GPT-5.4-Nano", "pred": 99.999, "raw": "{\"predicted_close_index\":99.999}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.83}
+{"window_id": "w004", "model": "Gemini-3.7-Flash", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.48}
+{"window_id": "w006", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.23}
+{"window_id": "w005", "model": "Grok-4.3", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.56}
+{"window_id": "w006", "model": "GPT-OSS-120B-CS", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w005", "model": "Gemini-3.7-Flash", "pred": 100.018, "raw": "```json\n{\"predicted_close_index\": 100.018}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.42}
+{"window_id": "w007", "model": "GPT-5.4-Nano", "pred": 100.045, "raw": "{\"predicted_close_index\":100.045}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w006", "model": "Gemini-3.5-Flash", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.76}
+{"window_id": "w003", "model": "Inkling", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 13.93}
+{"window_id": "w007", "model": "GPT-5.4-Mini", "pred": 100.01, "raw": "{\"predicted_close_index\":100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w007", "model": "Gemini-3.5-Flash-Lite", "pred": 100.007, "raw": "```json\n{\"predicted_close_index\": 100.007}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w000", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 28.31}
+{"window_id": "w007", "model": "Gemini-3.5-Flash", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.52}
+{"window_id": "w006", "model": "Grok-4.3", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.85}
+{"window_id": "w008", "model": "GPT-5.4-Nano", "pred": 100.015, "raw": "{\"predicted_close_index\":100.015}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.79}
+{"window_id": "w004", "model": "Inkling", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 13.14}
+{"window_id": "w008", "model": "GPT-5.4-Mini", "pred": 99.96, "raw": "{\"predicted_close_index\":99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.96}
+{"window_id": "w006", "model": "Gemini-3.7-Flash", "pred": 100.045, "raw": "```json\n{\"predicted_close_index\": 100.045}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.17}
+{"window_id": "w008", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.01}
+{"window_id": "w007", "model": "GPT-OSS-120B-CS", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.99}
+{"window_id": "w007", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.02}
+{"window_id": "w008", "model": "Gemini-3.5-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.04}
+{"window_id": "w008", "model": "GPT-OSS-120B-CS", "pred": 100.06, "raw": "{\"predicted_close_index\": 100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.79}
+{"window_id": "w009", "model": "GPT-5.4-Mini", "pred": 100.18, "raw": "{\"predicted_close_index\":100.18}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.73}
+{"window_id": "w007", "model": "Inkling", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.87}
+{"window_id": "w009", "model": "GPT-5.4-Nano", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w007", "model": "Gemini-3.7-Flash", "pred": 100.025, "raw": "```json\n{\"predicted_close_index\": 100.025}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.99}
+{"window_id": "w005", "model": "Inkling", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 16.19}
+{"window_id": "w009", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.0}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.94}
+{"window_id": "w008", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.7}
+{"window_id": "w010", "model": "GPT-5.4-Nano", "pred": 99.999, "raw": "{\"predicted_close_index\":99.999}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w009", "model": "GPT-OSS-120B-CS", "pred": 99.91, "raw": "{\"predicted_close_index\": 99.91}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.94}
+{"window_id": "w008", "model": "Gemini-3.7-Flash", "pred": 100.085, "raw": "```json\n{\"predicted_close_index\": 100.085}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.73}
+{"window_id": "w010", "model": "GPT-5.4-Mini", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.99}
+{"window_id": "w010", "model": "Gemini-3.5-Flash-Lite", "pred": 100.007, "raw": "{\"predicted_close_index\": 100.007}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w009", "model": "Gemini-3.5-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.38}
+{"window_id": "w010", "model": "GPT-OSS-120B-CS", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w010", "model": "Gemini-3.5-Flash", "pred": 100.025, "raw": "{\"predicted_close_index\": 100.025}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.62}
+{"window_id": "w009", "model": "Grok-4.3", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.33}
+{"window_id": "w011", "model": "GPT-5.4-Nano", "pred": 100.061, "raw": "{\"predicted_close_index\":100.061}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.65}
+{"window_id": "w009", "model": "Gemini-3.7-Flash", "pred": 100.06, "raw": "```json\n{\"predicted_close_index\": 100.06}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.37}
+{"window_id": "w011", "model": "GPT-5.4-Mini", "pred": 99.991, "raw": "{\"predicted_close_index\":99.991}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w002", "model": "Inkling", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 33.02}
+{"window_id": "w011", "model": "Gemini-3.5-Flash-Lite", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.4}
+{"window_id": "w010", "model": "Grok-4.3", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.63}
+{"window_id": "w011", "model": "GPT-OSS-120B-CS", "pred": 99.93, "raw": "{\"predicted_close_index\": 99.93}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.37}
+{"window_id": "w006", "model": "Inkling", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.050}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 19.97}
+{"window_id": "w010", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.21}
+{"window_id": "w012", "model": "GPT-5.4-Nano", "pred": 99.97, "raw": "{\"predicted_close_index\":99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w012", "model": "GPT-5.4-Mini", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.65}
+{"window_id": "w011", "model": "Gemini-3.5-Flash", "pred": 99.95, "raw": "```json\n{\"predicted_close_index\": 99.95}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.06}
+{"window_id": "w010", "model": "Gemini-3.7-Flash", "pred": 99.985, "raw": "{\"predicted_close_index\": 99.985}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.23}
+{"window_id": "w012", "model": "GPT-OSS-120B-CS", "pred": 100.25, "raw": "{\"predicted_close_index\": 100.25}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.73}
+{"window_id": "w012", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.51}
+{"window_id": "w013", "model": "GPT-5.4-Nano", "pred": 100.05, "raw": "{\"predicted_close_index\":100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.69}
+{"window_id": "w013", "model": "GPT-5.4-Mini", "pred": 99.97, "raw": "{\"predicted_close_index\":99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.8}
+{"window_id": "w012", "model": "Gemini-3.5-Flash", "pred": 100.15, "raw": "```json\n{\"predicted_close_index\": 100.15}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.97}
+{"window_id": "w008", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 14.28}
+{"window_id": "w013", "model": "Gemini-3.5-Flash-Lite", "pred": 100.005, "raw": "```json\n{\"predicted_close_index\": 100.005}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w011", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.25}
+{"window_id": "w013", "model": "GPT-OSS-120B-CS", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.73}
+{"window_id": "w011", "model": "Gemini-3.7-Flash", "pred": 99.93, "raw": "{\"predicted_close_index\": 99.93}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.83}
+{"window_id": "w013", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.97}
+{"window_id": "w014", "model": "GPT-5.4-Nano", "pred": 100.0105, "raw": "{\"predicted_close_index\":100.0105}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.67}
+{"window_id": "w012", "model": "Gemini-3.7-Flash", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.81}
+{"window_id": "w014", "model": "GPT-5.4-Mini", "pred": 100.01, "raw": "{\"predicted_close_index\":100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.74}
+{"window_id": "w014", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.00}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.34}
+{"window_id": "w012", "model": "Grok-4.3", "pred": 99.93, "raw": "{\"predicted_close_index\": 99.93}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.24}
+{"window_id": "w011", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.62}
+{"window_id": "w012", "model": "Inkling", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.5}
+{"window_id": "w014", "model": "Gemini-3.5-Flash", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.86}
+{"window_id": "w014", "model": "GPT-OSS-120B-CS", "pred": 100.032, "raw": "{\"predicted_close_index\": 100.032}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.55}
+{"window_id": "w015", "model": "GPT-5.4-Nano", "pred": 99.986, "raw": "{\"predicted_close_index\":99.986}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w015", "model": "GPT-5.4-Mini", "pred": 100.03, "raw": "{\"predicted_close_index\":100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.62}
+{"window_id": "w013", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.27}
+{"window_id": "w015", "model": "Gemini-3.5-Flash-Lite", "pred": 100.012, "raw": "```json\n{\"predicted_close_index\": 100.012}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.85}
+{"window_id": "w015", "model": "GPT-OSS-120B-CS", "pred": 100.003, "raw": "{\"predicted_close_index\": 100.003}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.69}
+{"window_id": "w013", "model": "Gemini-3.7-Flash", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.26}
+{"window_id": "w009", "model": "Inkling", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 21.38}
+{"window_id": "w016", "model": "GPT-5.4-Nano", "pred": 100.025, "raw": "{\"predicted_close_index\":100.025}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.76}
+{"window_id": "w014", "model": "Gemini-3.7-Flash", "pred": 100.038, "raw": "{\"predicted_close_index\": 100.038}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.41}
+{"window_id": "w013", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.64}
+{"window_id": "w015", "model": "Gemini-3.5-Flash", "pred": 99.975, "raw": "```json\n{\"predicted_close_index\": 99.975}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.33}
+{"window_id": "w016", "model": "GPT-5.4-Mini", "pred": 99.86, "raw": "{\"predicted_close_index\":99.86}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.68}
+{"window_id": "w016", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.07}
+{"window_id": "w014", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.7}
+{"window_id": "w017", "model": "GPT-5.4-Nano", "pred": 99.978, "raw": "{\"predicted_close_index\":99.978}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w016", "model": "Gemini-3.5-Flash", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.4}
+{"window_id": "w015", "model": "Grok-4.3", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.29}
+{"window_id": "w017", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.14}
+{"window_id": "w017", "model": "Gemini-3.5-Flash-Lite", "pred": 99.96, "raw": "```json\n{\"predicted_close_index\": 99.96}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.01}
+{"window_id": "w015", "model": "Gemini-3.7-Flash", "pred": 100.035, "raw": "```json\n{\"predicted_close_index\": 100.035}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.19}
+{"window_id": "w017", "model": "GPT-OSS-120B-CS", "pred": 100.09, "raw": "{\"predicted_close_index\": 100.09}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.93}
+{"window_id": "w016", "model": "GPT-OSS-120B-CS", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 2, "error": null, "latency_s": 1.07}
+{"window_id": "w016", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.28}
+{"window_id": "w017", "model": "Gemini-3.5-Flash", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.07}
+{"window_id": "w016", "model": "Gemini-3.7-Flash", "pred": 100.035, "raw": "{\"predicted_close_index\": 100.035}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.99}
+{"window_id": "w018", "model": "GPT-5.4-Nano", "pred": 100.347, "raw": "{\"predicted_close_index\":100.347}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.01}
+{"window_id": "w018", "model": "GPT-5.4-Mini", "pred": 100.142, "raw": "{\"predicted_close_index\":100.142}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w014", "model": "Inkling", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.06}
+{"window_id": "w018", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.0}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w018", "model": "GPT-OSS-120B-CS", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.93}
+{"window_id": "w019", "model": "GPT-5.4-Nano", "pred": 100.02, "raw": "{\"predicted_close_index\":100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.64}
+{"window_id": "w018", "model": "Gemini-3.5-Flash", "pred": 100.12, "raw": "{\"predicted_close_index\": 100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.96}
+{"window_id": "w015", "model": "Inkling", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 12.11}
+{"window_id": "w019", "model": "GPT-5.4-Mini", "pred": 99.97, "raw": "{\"predicted_close_index\":99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w017", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.3}
+{"window_id": "w019", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.000}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.93}
+{"window_id": "w019", "model": "GPT-OSS-120B-CS", "pred": 100.09, "raw": "{\"predicted_close_index\": 100.09}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.74}
+{"window_id": "w017", "model": "Gemini-3.7-Flash", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.79}
+{"window_id": "w017", "model": "Grok-4.3", "pred": 100.04, "raw": "{\"predicted_close_index\": 100.04}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.27}
+{"window_id": "w020", "model": "GPT-5.4-Nano", "pred": 100.002, "raw": "{\"predicted_close_index\":100.002}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w020", "model": "GPT-5.4-Mini", "pred": 100.006, "raw": "{\"predicted_close_index\":100.006}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w018", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.44}
+{"window_id": "w020", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.000}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.11}
+{"window_id": "w019", "model": "Gemini-3.5-Flash", "pred": 99.96, "raw": "```json\n{\"predicted_close_index\": 99.96}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.05}
+{"window_id": "w020", "model": "GPT-OSS-120B-CS", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.85}
+{"window_id": "w018", "model": "Gemini-3.7-Flash", "pred": 100.18, "raw": "{\"predicted_close_index\": 100.18}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.0}
+{"window_id": "w021", "model": "GPT-5.4-Nano", "pred": 100.006, "raw": "{\"predicted_close_index\":100.006}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.84}
+{"window_id": "w020", "model": "Gemini-3.5-Flash", "pred": 100.005, "raw": "{\"predicted_close_index\": 100.005}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.64}
+{"window_id": "w021", "model": "Gemini-3.5-Flash-Lite", "pred": 100.005, "raw": "{\"predicted_close_index\": 100.005}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.95}
+{"window_id": "w019", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.25}
+{"window_id": "w021", "model": "GPT-5.4-Mini", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.01}
+{"window_id": "w019", "model": "Gemini-3.7-Flash", "pred": 99.965, "raw": "```json\n{\"predicted_close_index\": 99.965}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.6}
+{"window_id": "w021", "model": "GPT-OSS-120B-CS", "pred": 100.015, "raw": "{\"predicted_close_index\": 100.015}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.22}
+{"window_id": "w020", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.41}
+{"window_id": "w018", "model": "Inkling", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.89}
+{"window_id": "w022", "model": "GPT-5.4-Mini", "pred": 99.994, "raw": "{\"predicted_close_index\":99.994}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.81}
+{"window_id": "w020", "model": "Gemini-3.7-Flash", "pred": 100.005, "raw": "{\"predicted_close_index\": 100.005}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.58}
+{"window_id": "w021", "model": "Gemini-3.5-Flash", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.2}
+{"window_id": "w022", "model": "GPT-5.4-Nano", "pred": 100.001, "raw": "{\"predicted_close_index\":100.001}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.56}
+{"window_id": "w016", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 20.74}
+{"window_id": "w022", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.000}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.15}
+{"window_id": "w022", "model": "GPT-OSS-120B-CS", "pred": 100.005, "raw": "{\"predicted_close_index\": 100.005}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.34}
+{"window_id": "w023", "model": "GPT-5.4-Nano", "pred": 99.999, "raw": "{\"predicted_close_index\":99.999}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.63}
+{"window_id": "w021", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.42}
+{"window_id": "w021", "model": "Inkling", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.010}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.33}
+{"window_id": "w023", "model": "GPT-5.4-Mini", "pred": 99.986, "raw": "{\"predicted_close_index\":99.986}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.69}
+{"window_id": "w023", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.000}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.11}
+{"window_id": "w022", "model": "Gemini-3.5-Flash", "pred": 100.015, "raw": "{\"predicted_close_index\": 100.015}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.57}
+{"window_id": "w021", "model": "Gemini-3.7-Flash", "pred": 100.012, "raw": "```json\n{\"predicted_close_index\": 100.012}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.32}
+{"window_id": "w023", "model": "Gemini-3.5-Flash", "pred": 100.005, "raw": "{\"predicted_close_index\": 100.005}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.87}
+{"window_id": "w023", "model": "GPT-OSS-120B-CS", "pred": 100.005, "raw": "{\"predicted_close_index\": 100.005}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.14}
+{"window_id": "w019", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 15.54}
+{"window_id": "w022", "model": "Gemini-3.7-Flash", "pred": 100.018, "raw": "```json\n{\"predicted_close_index\": 100.018}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.81}
+{"window_id": "w024", "model": "GPT-5.4-Mini", "pred": 100.07, "raw": "{\"predicted_close_index\":100.07}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w024", "model": "GPT-5.4-Nano", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w024", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.23}
+{"window_id": "w022", "model": "Grok-4.3", "pred": 100.002, "raw": "{\"predicted_close_index\": 100.002}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.51}
+{"window_id": "w022", "model": "Inkling", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.000}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.84}
+{"window_id": "w024", "model": "GPT-OSS-120B-CS", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w023", "model": "Gemini-3.7-Flash", "pred": 100.002, "raw": "{\"predicted_close_index\": 100.002}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.28}
+{"window_id": "w025", "model": "GPT-5.4-Mini", "pred": 100.02, "raw": "{\"predicted_close_index\":100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.81}
+{"window_id": "w020", "model": "Inkling", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.000}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 14.23}
+{"window_id": "w025", "model": "GPT-5.4-Nano", "pred": 100.015, "raw": "{\"predicted_close_index\":100.015}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w024", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.09}
+{"window_id": "w025", "model": "Gemini-3.5-Flash-Lite", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.22}
+{"window_id": "w023", "model": "Inkling", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.29}
+{"window_id": "w023", "model": "Grok-4.3", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.00}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.22}
+{"window_id": "w026", "model": "GPT-5.4-Nano", "pred": 100.004, "raw": "{\"predicted_close_index\":100.004}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.08}
+{"window_id": "w026", "model": "GPT-5.4-Mini", "pred": 99.96, "raw": "{\"predicted_close_index\":99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.06}
+{"window_id": "w026", "model": "Gemini-3.5-Flash-Lite", "pred": 100.005, "raw": "```json\n{\"predicted_close_index\": 100.005}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.08}
+{"window_id": "w024", "model": "Gemini-3.7-Flash", "pred": 100.03, "raw": "```json\n{\"predicted_close_index\": 100.03}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.39}
+{"window_id": "w025", "model": "Gemini-3.5-Flash", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.77}
+{"window_id": "w026", "model": "GPT-OSS-120B-CS", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.86}
+{"window_id": "w026", "model": "Gemini-3.5-Flash", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.77}
+{"window_id": "w024", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.48}
+{"window_id": "w025", "model": "Grok-4.3", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.54}
+{"window_id": "w025", "model": "GPT-OSS-120B-CS", "pred": 100.006, "raw": "{\"predicted_close_index\": 100.006}", "finish_reason": "stop", "attempts": 2, "error": null, "latency_s": 1.57}
+{"window_id": "w027", "model": "GPT-5.4-Nano", "pred": 100.015, "raw": "{\"predicted_close_index\":100.015}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w027", "model": "GPT-5.4-Mini", "pred": 100.02, "raw": "{\"predicted_close_index\":100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.86}
+{"window_id": "w027", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.23}
+{"window_id": "w025", "model": "Gemini-3.7-Flash", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.96}
+{"window_id": "w027", "model": "GPT-OSS-120B-CS", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.22}
+{"window_id": "w028", "model": "GPT-5.4-Nano", "pred": 100.007, "raw": "{\"predicted_close_index\":100.007}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.96}
+{"window_id": "w027", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.13}
+{"window_id": "w026", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.14}
+{"window_id": "w026", "model": "Gemini-3.7-Flash", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.57}
+{"window_id": "w028", "model": "GPT-5.4-Mini", "pred": 100.11, "raw": "{\"predicted_close_index\":100.11}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.95}
+{"window_id": "w028", "model": "Gemini-3.5-Flash-Lite", "pred": 100.005, "raw": "{\"predicted_close_index\": 100.005}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w026", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.36}
+{"window_id": "w028", "model": "GPT-OSS-120B-CS", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.93}
+{"window_id": "w029", "model": "GPT-5.4-Nano", "pred": 99.999, "raw": "{\"predicted_close_index\":99.999}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.77}
+{"window_id": "w029", "model": "GPT-5.4-Mini", "pred": 99.99, "raw": "{\"predicted_close_index\":99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.75}
+{"window_id": "w028", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.78}
+{"window_id": "w029", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.0}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w027", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.35}
+{"window_id": "w027", "model": "Gemini-3.7-Flash", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.32}
+{"window_id": "w024", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 15.22}
+{"window_id": "w029", "model": "GPT-OSS-120B-CS", "pred": 100.051, "raw": "{\"predicted_close_index\": 100.051}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.54}
+{"window_id": "w028", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.64}
+{"window_id": "w030", "model": "GPT-5.4-Nano", "pred": 99.99, "raw": "{\"predicted_close_index\":99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.66}
+{"window_id": "w028", "model": "Gemini-3.7-Flash", "pred": 100.035, "raw": "```json\n{\"predicted_close_index\": 100.035}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.49}
+{"window_id": "w030", "model": "GPT-5.4-Mini", "pred": 99.72, "raw": "{\"predicted_close_index\":99.72}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.83}
+{"window_id": "w030", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.91}
+{"window_id": "w029", "model": "Gemini-3.5-Flash", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.0}
+{"window_id": "w030", "model": "GPT-OSS-120B-CS", "pred": 99.58, "raw": "{\"predicted_close_index\": 99.58}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.16}
+{"window_id": "w027", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.2}
+{"window_id": "w029", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.24}
+{"window_id": "w031", "model": "GPT-5.4-Nano", "pred": 100.006, "raw": "{\"predicted_close_index\":100.006}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.67}
+{"window_id": "w031", "model": "GPT-5.4-Mini", "pred": 100.02, "raw": "{\"predicted_close_index\":100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w030", "model": "Gemini-3.5-Flash", "pred": 99.82, "raw": "```json\n{\"predicted_close_index\": 99.82}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.98}
+{"window_id": "w031", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.91}
+{"window_id": "w031", "model": "GPT-OSS-120B-CS", "pred": 100.08, "raw": "{\"predicted_close_index\": 100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.45}
+{"window_id": "w029", "model": "Gemini-3.7-Flash", "pred": 100.055, "raw": "```json\n{\"predicted_close_index\": 100.055}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.91}
+{"window_id": "w031", "model": "Gemini-3.5-Flash", "pred": 100.06, "raw": "{\"predicted_close_index\": 100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.03}
+{"window_id": "w032", "model": "GPT-5.4-Nano", "pred": 100.001, "raw": "{\"predicted_close_index\":100.001}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.6}
+{"window_id": "w030", "model": "Gemini-3.7-Flash", "pred": 99.94, "raw": "```json\n{\"predicted_close_index\": 99.94}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.68}
+{"window_id": "w025", "model": "Inkling", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 22.89}
+{"window_id": "w032", "model": "GPT-5.4-Mini", "pred": 100.012, "raw": "{\"predicted_close_index\":100.012}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.65}
+{"window_id": "w032", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.000}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.98}
+{"window_id": "w030", "model": "Grok-4.3", "pred": 99.82, "raw": "{\"predicted_close_index\": 99.82}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.68}
+{"window_id": "w032", "model": "GPT-OSS-120B-CS", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.27}
+{"window_id": "w029", "model": "Inkling", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 12.45}
+{"window_id": "w032", "model": "Gemini-3.5-Flash", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.96}
+{"window_id": "w033", "model": "GPT-5.4-Nano", "pred": 100.002, "raw": "{\"predicted_close_index\":100.002}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.9}
+{"window_id": "w033", "model": "GPT-5.4-Mini", "pred": 100.05, "raw": "{\"predicted_close_index\":100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.85}
+{"window_id": "w031", "model": "Gemini-3.7-Flash", "pred": 100.045, "raw": "```json\n{\"predicted_close_index\": 100.045}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.53}
+{"window_id": "w033", "model": "Gemini-3.5-Flash-Lite", "pred": 99.985, "raw": "```json\n{\"predicted_close_index\": 99.985}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.78}
+{"window_id": "w031", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.47}
+{"window_id": "w033", "model": "GPT-OSS-120B-CS", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.94}
+{"window_id": "w032", "model": "Gemini-3.7-Flash", "pred": 100.008, "raw": "{\"predicted_close_index\": 100.008}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.6}
+{"window_id": "w033", "model": "Gemini-3.5-Flash", "pred": 100.03, "raw": "```json\n{\"predicted_close_index\": 100.03}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.07}
+{"window_id": "w032", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.94}
+{"window_id": "w031", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.2}
+{"window_id": "w034", "model": "GPT-5.4-Mini", "pred": 100.05, "raw": "{\"predicted_close_index\":100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.89}
+{"window_id": "w034", "model": "GPT-5.4-Nano", "pred": 100.008, "raw": "{\"predicted_close_index\":100.008}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.94}
+{"window_id": "w034", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w028", "model": "Inkling", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 21.9}
+{"window_id": "w032", "model": "Inkling", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.000}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.23}
+{"window_id": "w034", "model": "GPT-OSS-120B-CS", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.43}
+{"window_id": "w035", "model": "GPT-5.4-Mini", "pred": 100.09, "raw": "{\"predicted_close_index\":100.09}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w035", "model": "GPT-5.4-Nano", "pred": 100.03, "raw": "{\"predicted_close_index\":100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.99}
+{"window_id": "w035", "model": "Gemini-3.5-Flash-Lite", "pred": 100.01, "raw": "```json\n{\"predicted_close_index\": 100.01}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.96}
+{"window_id": "w034", "model": "Gemini-3.5-Flash", "pred": 100.03, "raw": "```json\n{\"predicted_close_index\": 100.03}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.4}
+{"window_id": "w033", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.55}
+{"window_id": "w033", "model": "Gemini-3.7-Flash", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.28}
+{"window_id": "w030", "model": "Inkling", "pred": 99.8, "raw": "{\"predicted_close_index\": 99.80}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 17.37}
+{"window_id": "w035", "model": "GPT-OSS-120B-CS", "pred": 100.033, "raw": "{\"predicted_close_index\": 100.033}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.84}
+{"window_id": "w036", "model": "GPT-5.4-Nano", "pred": 100.007, "raw": "{\"predicted_close_index\":100.007}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w034", "model": "Gemini-3.7-Flash", "pred": 100.035, "raw": "{\"predicted_close_index\": 100.035}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.63}
+{"window_id": "w036", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w035", "model": "Gemini-3.5-Flash", "pred": 99.95, "raw": "```json\n{\"predicted_close_index\": 99.95}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.76}
+{"window_id": "w036", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.0}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.93}
+{"window_id": "w034", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.39}
+{"window_id": "w036", "model": "Gemini-3.5-Flash", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.99}
+{"window_id": "w037", "model": "GPT-5.4-Nano", "pred": 100.14, "raw": "{\"predicted_close_index\":100.14}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w034", "model": "Inkling", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.03}
+{"window_id": "w037", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w035", "model": "Gemini-3.7-Flash", "pred": 100.045, "raw": "```json\n{\"predicted_close_index\": 100.045}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.54}
+{"window_id": "w037", "model": "Gemini-3.5-Flash-Lite", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.95}
+{"window_id": "w036", "model": "GPT-OSS-120B-CS", "pred": 100.17, "raw": "{\"predicted_close_index\": 100.17}", "finish_reason": "stop", "attempts": 2, "error": null, "latency_s": 0.76}
+{"window_id": "w036", "model": "Gemini-3.7-Flash", "pred": 100.06, "raw": "{\"predicted_close_index\": 100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.05}
+{"window_id": "w035", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.04}
+{"window_id": "w037", "model": "GPT-OSS-120B-CS", "pred": 99.63, "raw": "{\"predicted_close_index\": 99.63}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.87}
+{"window_id": "w036", "model": "Grok-4.3", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.36}
+{"window_id": "w038", "model": "GPT-5.4-Nano", "pred": 100.28, "raw": "{\"predicted_close_index\":100.28}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.74}
+{"window_id": "w038", "model": "GPT-5.4-Mini", "pred": 100.42, "raw": "{\"predicted_close_index\":100.42}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w038", "model": "Gemini-3.5-Flash-Lite", "pred": 100.06, "raw": "```json\n{\"predicted_close_index\": 100.06}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.17}
+{"window_id": "w038", "model": "GPT-OSS-120B-CS", "pred": 99.9, "raw": "{\"predicted_close_index\": 99.9}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.28}
+{"window_id": "w037", "model": "Gemini-3.5-Flash", "pred": 99.85, "raw": "```json\n{\"predicted_close_index\": 99.85}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.84}
+{"window_id": "w038", "model": "Gemini-3.5-Flash", "pred": 100.25, "raw": "```json\n{\"predicted_close_index\": 100.25}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.02}
+{"window_id": "w039", "model": "GPT-5.4-Nano", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.29}
+{"window_id": "w037", "model": "Grok-4.3", "pred": 99.82, "raw": "{\"predicted_close_index\": 99.82}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.04}
+{"window_id": "w039", "model": "GPT-5.4-Mini", "pred": 100.08, "raw": "{\"predicted_close_index\":100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w039", "model": "Gemini-3.5-Flash-Lite", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w037", "model": "Gemini-3.7-Flash", "pred": 99.88, "raw": "```json\n{\"predicted_close_index\": 99.88}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.82}
+{"window_id": "w038", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.72}
+{"window_id": "w039", "model": "GPT-OSS-120B-CS", "pred": 99.6, "raw": "{\"predicted_close_index\": 99.60}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.84}
+{"window_id": "w038", "model": "Gemini-3.7-Flash", "pred": 99.85, "raw": "```json\n{\"predicted_close_index\": 99.85}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.63}
+{"window_id": "w039", "model": "Gemini-3.5-Flash", "pred": 100.15, "raw": "```json\n{\"predicted_close_index\": 100.15}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.52}
+{"window_id": "w040", "model": "GPT-5.4-Nano", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w038", "model": "Inkling", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.46}
+{"window_id": "w040", "model": "GPT-5.4-Mini", "pred": 99.882, "raw": "{\"predicted_close_index\":99.882}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.31}
+{"window_id": "w040", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.0}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w040", "model": "GPT-OSS-120B-CS", "pred": 99.64, "raw": "{\"predicted_close_index\": 99.64}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.84}
+{"window_id": "w035", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 22.31}
+{"window_id": "w040", "model": "Gemini-3.5-Flash", "pred": 100.15, "raw": "```json\n{\"predicted_close_index\": 100.15}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.09}
+{"window_id": "w039", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.57}
+{"window_id": "w041", "model": "GPT-5.4-Nano", "pred": 100.016, "raw": "{\"predicted_close_index\":100.016}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w039", "model": "Gemini-3.7-Flash", "pred": 99.94, "raw": "```json\n{\"predicted_close_index\": 99.94}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 10.34}
+{"window_id": "w041", "model": "Gemini-3.5-Flash-Lite", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w036", "model": "Inkling", "pred": 100.1, "raw": "{\"predicted_close_index\": 100.10}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 21.68}
+{"window_id": "w041", "model": "GPT-5.4-Mini", "pred": 100.19, "raw": "{\"predicted_close_index\":100.19}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.82}
+{"window_id": "w040", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.2}
+{"window_id": "w041", "model": "GPT-OSS-120B-CS", "pred": 99.66, "raw": "{\"predicted_close_index\": 99.66}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.35}
+{"window_id": "w039", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 10.24}
+{"window_id": "w041", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.28}
+{"window_id": "w042", "model": "GPT-5.4-Nano", "pred": 100.18, "raw": "{\"predicted_close_index\":100.18}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w042", "model": "GPT-5.4-Mini", "pred": 100.28, "raw": "{\"predicted_close_index\":100.28}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w042", "model": "Gemini-3.5-Flash-Lite", "pred": 100.01, "raw": "```json\n{\"predicted_close_index\": 100.01}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w040", "model": "Gemini-3.7-Flash", "pred": 100.12, "raw": "{\"predicted_close_index\": 100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.52}
+{"window_id": "w042", "model": "GPT-OSS-120B-CS", "pred": 100.16, "raw": "{\"predicted_close_index\": 100.16}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.23}
+{"window_id": "w042", "model": "Gemini-3.5-Flash", "pred": 100.18, "raw": "```json\n{\"predicted_close_index\": 100.18}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.07}
+{"window_id": "w041", "model": "Gemini-3.7-Flash", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.17}
+{"window_id": "w041", "model": "Grok-4.3", "pred": 99.85, "raw": "{\"predicted_close_index\": 99.85}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.46}
+{"window_id": "w043", "model": "GPT-5.4-Nano", "pred": 100.025, "raw": "{\"predicted_close_index\":100.025}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.88}
+{"window_id": "w033", "model": "Inkling", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 38.92}
+{"window_id": "w043", "model": "GPT-5.4-Mini", "pred": 100.08, "raw": "{\"predicted_close_index\":100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w043", "model": "Gemini-3.5-Flash-Lite", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.88}
+{"window_id": "w043", "model": "GPT-OSS-120B-CS", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w041", "model": "Inkling", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.65}
+{"window_id": "w043", "model": "Gemini-3.5-Flash", "pred": 100.08, "raw": "{\"predicted_close_index\": 100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.11}
+{"window_id": "w044", "model": "GPT-5.4-Nano", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.69}
+{"window_id": "w042", "model": "Gemini-3.7-Flash", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.4}
+{"window_id": "w044", "model": "GPT-5.4-Mini", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.13}
+{"window_id": "w044", "model": "Gemini-3.5-Flash-Lite", "pred": 99.88, "raw": "```json\n{\"predicted_close_index\": 99.88}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.11}
+{"window_id": "w042", "model": "Grok-4.3", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.41}
+{"window_id": "w044", "model": "GPT-OSS-120B-CS", "pred": 99.9, "raw": "{\"predicted_close_index\": 99.9}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.14}
+{"window_id": "w043", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.84}
+{"window_id": "w043", "model": "Gemini-3.7-Flash", "pred": 100.052, "raw": "```json\n{\"predicted_close_index\": 100.052}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.71}
+{"window_id": "w044", "model": "Gemini-3.5-Flash", "pred": 100.12, "raw": "{\"predicted_close_index\": 100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.16}
+{"window_id": "w045", "model": "GPT-5.4-Nano", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.77}
+{"window_id": "w045", "model": "GPT-5.4-Mini", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.65}
+{"window_id": "w045", "model": "Gemini-3.5-Flash-Lite", "pred": 100.01, "raw": "```json\n{\"predicted_close_index\": 100.01}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.52}
+{"window_id": "w037", "model": "Inkling", "pred": 100.1, "raw": "{\"predicted_close_index\": 100.1}", "finish_reason": "stop", "attempts": 2, "error": null, "latency_s": 2.06}
+{"window_id": "w040", "model": "Inkling", "pred": 99.9, "raw": "{\"predicted_close_index\": 99.90}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 19.05}
+{"window_id": "w044", "model": "Gemini-3.7-Flash", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.22}
+{"window_id": "w045", "model": "GPT-OSS-120B-CS", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w045", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.26}
+{"window_id": "w046", "model": "GPT-5.4-Mini", "pred": 98.62, "raw": "{\"predicted_close_index\":98.62}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w044", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.41}
+{"window_id": "w043", "model": "Inkling", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.27}
+{"window_id": "w046", "model": "GPT-OSS-120B-CS", "pred": 99.09, "raw": "{\"predicted_close_index\": 99.09}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.27}
+{"window_id": "w046", "model": "Gemini-3.5-Flash-Lite", "pred": 99.96, "raw": "```json\n{\"predicted_close_index\": 99.96}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.05}
+{"window_id": "w046", "model": "GPT-5.4-Nano", "pred": 100.62, "raw": "{\"predicted_close_index\":100.62}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.89}
+{"window_id": "w047", "model": "GPT-5.4-Nano", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w046", "model": "Gemini-3.5-Flash", "pred": 99.75, "raw": "```json\n{\"predicted_close_index\": 99.75}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.75}
+{"window_id": "w042", "model": "Inkling", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 16.46}
+{"window_id": "w047", "model": "GPT-5.4-Mini", "pred": 100.18, "raw": "{\"predicted_close_index\":100.18}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.65}
+{"window_id": "w045", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.28}
+{"window_id": "w047", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.85}
+{"window_id": "w047", "model": "GPT-OSS-120B-CS", "pred": 100.089, "raw": "{\"predicted_close_index\": 100.089}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.33}
+{"window_id": "w044", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.24}
+{"window_id": "w047", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.5}
+{"window_id": "w045", "model": "Gemini-3.7-Flash", "pred": 99.97, "raw": "```json\n{\"predicted_close_index\": 99.97}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 10.31}
+{"window_id": "w048", "model": "GPT-5.4-Nano", "pred": 100.62, "raw": "{\"predicted_close_index\":100.62}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.84}
+{"window_id": "w048", "model": "GPT-5.4-Mini", "pred": 99.84, "raw": "{\"predicted_close_index\":99.84}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.75}
+{"window_id": "w048", "model": "Gemini-3.5-Flash-Lite", "pred": 99.88, "raw": "```json\n{\"predicted_close_index\": 99.88}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.96}
+{"window_id": "w046", "model": "Gemini-3.7-Flash", "pred": 100.42, "raw": "```json\n{\"predicted_close_index\": 100.42}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.26}
+{"window_id": "w046", "model": "Grok-4.3", "pred": 99.72, "raw": "{\"predicted_close_index\": 99.72}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.27}
+{"window_id": "w048", "model": "GPT-OSS-120B-CS", "pred": 100.12, "raw": "{\"predicted_close_index\": 100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.47}
+{"window_id": "w045", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.41}
+{"window_id": "w047", "model": "Gemini-3.7-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.08}
+{"window_id": "w048", "model": "Gemini-3.5-Flash", "pred": 100.15, "raw": "```json\n{\"predicted_close_index\": 100.15}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.56}
+{"window_id": "w049", "model": "GPT-5.4-Nano", "pred": 100.01, "raw": "{\"predicted_close_index\":100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.69}
+{"window_id": "w049", "model": "GPT-5.4-Mini", "pred": 99.92, "raw": "{\"predicted_close_index\":99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.98}
+{"window_id": "w047", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.2}
+{"window_id": "w049", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.96}
+{"window_id": "w049", "model": "GPT-OSS-120B-CS", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.85}
+{"window_id": "w050", "model": "GPT-5.4-Nano", "pred": 99.99, "raw": "{\"predicted_close_index\":99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.78}
+{"window_id": "w050", "model": "GPT-5.4-Mini", "pred": 99.97, "raw": "{\"predicted_close_index\":99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.93}
+{"window_id": "w049", "model": "Gemini-3.5-Flash", "pred": 99.92, "raw": "```json\n{\"predicted_close_index\": 99.92}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.63}
+{"window_id": "w046", "model": "Inkling", "pred": 100.1, "raw": "{\"predicted_close_index\": 100.1}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 12.29}
+{"window_id": "w050", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w048", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.3}
+{"window_id": "w048", "model": "Gemini-3.7-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.13}
+{"window_id": "w050", "model": "GPT-OSS-120B-CS", "pred": 100.13, "raw": "{\"predicted_close_index\": 100.13}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.74}
+{"window_id": "w047", "model": "Inkling", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.06}
+{"window_id": "w051", "model": "GPT-5.4-Nano", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w050", "model": "Gemini-3.5-Flash", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.13}
+{"window_id": "w051", "model": "GPT-5.4-Mini", "pred": 99.89, "raw": "{\"predicted_close_index\":99.89}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w051", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w049", "model": "Grok-4.3", "pred": 99.87, "raw": "{\"predicted_close_index\": 99.87}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.04}
+{"window_id": "w051", "model": "GPT-OSS-120B-CS", "pred": 100.09, "raw": "{\"predicted_close_index\": 100.09}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.62}
+{"window_id": "w048", "model": "Inkling", "pred": 99.9, "raw": "{\"predicted_close_index\": 99.90}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.47}
+{"window_id": "w052", "model": "GPT-5.4-Nano", "pred": 100.023, "raw": "{\"predicted_close_index\":100.023}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.67}
+{"window_id": "w052", "model": "GPT-5.4-Mini", "pred": 99.99, "raw": "{\"predicted_close_index\":99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.64}
+{"window_id": "w051", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.27}
+{"window_id": "w052", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.99}
+{"window_id": "w050", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.34}
+{"window_id": "w050", "model": "Gemini-3.7-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.47}
+{"window_id": "w052", "model": "GPT-OSS-120B-CS", "pred": 100.035, "raw": "{\"predicted_close_index\": 100.035}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.42}
+{"window_id": "w049", "model": "Gemini-3.7-Flash", "pred": 100.038, "raw": "```json\n{\"predicted_close_index\": 100.038}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 12.1}
+{"window_id": "w049", "model": "Inkling", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.59}
+{"window_id": "w053", "model": "GPT-5.4-Mini", "pred": 99.95, "raw": "{\"predicted_close_index\":99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.69}
+{"window_id": "w053", "model": "GPT-5.4-Nano", "pred": 100.012, "raw": "{\"predicted_close_index\":100.012}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.98}
+{"window_id": "w051", "model": "Grok-4.3", "pred": 100.03, "raw": "{\"predicted_close_index\": 100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.04}
+{"window_id": "w052", "model": "Gemini-3.5-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.53}
+{"window_id": "w053", "model": "Gemini-3.5-Flash-Lite", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w053", "model": "GPT-OSS-120B-CS", "pred": 99.87, "raw": "{\"predicted_close_index\": 99.87}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.88}
+{"window_id": "w050", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.69}
+{"window_id": "w051", "model": "Gemini-3.7-Flash", "pred": 100.14, "raw": "```json\n{\"predicted_close_index\": 100.14}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.56}
+{"window_id": "w054", "model": "GPT-5.4-Mini", "pred": 100.03, "raw": "{\"predicted_close_index\":100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.15}
+{"window_id": "w054", "model": "GPT-5.4-Nano", "pred": 100.003, "raw": "{\"predicted_close_index\":100.003}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.47}
+{"window_id": "w053", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.28}
+{"window_id": "w054", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.33}
+{"window_id": "w052", "model": "Grok-4.3", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.78}
+{"window_id": "w053", "model": "Grok-4.3", "pred": 100.0, "raw": "{\"predicted_close_index\": 100}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.71}
+{"window_id": "w052", "model": "Gemini-3.7-Flash", "pred": 100.065, "raw": "```json\n{\"predicted_close_index\": 100.065}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.31}
+{"window_id": "w054", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.78}
+{"window_id": "w054", "model": "GPT-OSS-120B-CS", "pred": 100.012, "raw": "{\"predicted_close_index\": 100.012}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.46}
+{"window_id": "w055", "model": "GPT-5.4-Nano", "pred": 100.016, "raw": "{\"predicted_close_index\":100.016}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.01}
+{"window_id": "w055", "model": "GPT-5.4-Mini", "pred": 100.048, "raw": "{\"predicted_close_index\":100.048}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.21}
+{"window_id": "w053", "model": "Gemini-3.7-Flash", "pred": 100.03, "raw": "{\"predicted_close_index\": 100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.23}
+{"window_id": "w055", "model": "Gemini-3.5-Flash-Lite", "pred": 99.998, "raw": "```json\n{\"predicted_close_index\": 99.998}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.64}
+{"window_id": "w055", "model": "GPT-OSS-120B-CS", "pred": 100.03, "raw": "{\"predicted_close_index\": 100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w052", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.85}
+{"window_id": "w054", "model": "Gemini-3.7-Flash", "pred": 100.03, "raw": "```json\n{\"predicted_close_index\": 100.03}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.84}
+{"window_id": "w056", "model": "GPT-5.4-Nano", "pred": 100.11, "raw": "{\"predicted_close_index\":100.11}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.76}
+{"window_id": "w056", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w055", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.39}
+{"window_id": "w054", "model": "Grok-4.3", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.03}
+{"window_id": "w056", "model": "Gemini-3.5-Flash-Lite", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.91}
+{"window_id": "w056", "model": "GPT-OSS-120B-CS", "pred": 100.012, "raw": "{\"predicted_close_index\": 100.012}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.28}
+{"window_id": "w056", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.38}
+{"window_id": "w055", "model": "Gemini-3.7-Flash", "pred": 100.045, "raw": "```json\n{\"predicted_close_index\": 100.045}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.37}
+{"window_id": "w057", "model": "GPT-5.4-Nano", "pred": 100.017, "raw": "{\"predicted_close_index\":100.017}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w057", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.94}
+{"window_id": "w057", "model": "Gemini-3.5-Flash-Lite", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.99}
+{"window_id": "w055", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.57}
+{"window_id": "w055", "model": "Inkling", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.000}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.39}
+{"window_id": "w054", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.17}
+{"window_id": "w056", "model": "Gemini-3.7-Flash", "pred": 100.06, "raw": "```json\n{\"predicted_close_index\": 100.06}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.77}
+{"window_id": "w057", "model": "GPT-OSS-120B-CS", "pred": 100.1, "raw": "{\"predicted_close_index\": 100.10}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.42}
+{"window_id": "w056", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.14}
+{"window_id": "w058", "model": "GPT-5.4-Nano", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w058", "model": "GPT-5.4-Mini", "pred": 100.04, "raw": "{\"predicted_close_index\":100.04}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.77}
+{"window_id": "w058", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.81}
+{"window_id": "w057", "model": "Gemini-3.5-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.45}
+{"window_id": "w058", "model": "GPT-OSS-120B-CS", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.83}
+{"window_id": "w058", "model": "Gemini-3.5-Flash", "pred": 99.95, "raw": "```json\n{\"predicted_close_index\": 99.95}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.59}
+{"window_id": "w057", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.06}
+{"window_id": "w059", "model": "GPT-5.4-Nano", "pred": 100.015, "raw": "{\"predicted_close_index\":100.015}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.76}
+{"window_id": "w059", "model": "Gemini-3.5-Flash-Lite", "pred": 100.01, "raw": "```json\n{\"predicted_close_index\": 100.01}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.84}
+{"window_id": "w059", "model": "GPT-5.4-Mini", "pred": 99.92, "raw": "{\"predicted_close_index\":99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.0}
+{"window_id": "w057", "model": "Gemini-3.7-Flash", "pred": 99.965, "raw": "```json\n{\"predicted_close_index\": 99.965}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.05}
+{"window_id": "w058", "model": "Gemini-3.7-Flash", "pred": 100.045, "raw": "```json\n{\"predicted_close_index\": 100.045}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.99}
+{"window_id": "w059", "model": "GPT-OSS-120B-CS", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.89}
+{"window_id": "w058", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.07}
+{"window_id": "w053", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 23.42}
+{"window_id": "w057", "model": "Inkling", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.21}
+{"window_id": "w060", "model": "GPT-5.4-Mini", "pred": 100.08, "raw": "{\"predicted_close_index\":100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.76}
+{"window_id": "w059", "model": "Gemini-3.5-Flash", "pred": 100.015, "raw": "{\"predicted_close_index\": 100.015}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.1}
+{"window_id": "w060", "model": "Gemini-3.5-Flash-Lite", "pred": 100.005, "raw": "```json\n{\"predicted_close_index\": 100.005}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.11}
+{"window_id": "w060", "model": "GPT-5.4-Nano", "pred": 99.987, "raw": "{\"predicted_close_index\":99.987}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.26}
+{"window_id": "w060", "model": "GPT-OSS-120B-CS", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.11}
+{"window_id": "w060", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.07}
+{"window_id": "w059", "model": "Gemini-3.7-Flash", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.44}
+{"window_id": "w061", "model": "GPT-5.4-Nano", "pred": 100.021, "raw": "{\"predicted_close_index\":100.021}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.04}
+{"window_id": "w059", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.84}
+{"window_id": "w061", "model": "GPT-5.4-Mini", "pred": 99.79, "raw": "{\"predicted_close_index\":99.79}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.96}
+{"window_id": "w061", "model": "Gemini-3.5-Flash-Lite", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.94}
+{"window_id": "w061", "model": "GPT-OSS-120B-CS", "pred": 99.8, "raw": "{\"predicted_close_index\": 99.8}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w059", "model": "Grok-4.3", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.81}
+{"window_id": "w061", "model": "Gemini-3.5-Flash", "pred": 99.85, "raw": "```json\n{\"predicted_close_index\": 99.85}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.09}
+{"window_id": "w060", "model": "Gemini-3.7-Flash", "pred": 99.96, "raw": "```json\n{\"predicted_close_index\": 99.96}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.57}
+{"window_id": "w062", "model": "GPT-5.4-Nano", "pred": 99.994, "raw": "{\"predicted_close_index\":99.994}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.81}
+{"window_id": "w062", "model": "GPT-5.4-Mini", "pred": 100.05, "raw": "{\"predicted_close_index\":100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w062", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.91}
+{"window_id": "w060", "model": "Grok-4.3", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.28}
+{"window_id": "w062", "model": "GPT-OSS-120B-CS", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w056", "model": "Inkling", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 25.33}
+{"window_id": "w062", "model": "Gemini-3.5-Flash", "pred": 100.03, "raw": "```json\n{\"predicted_close_index\": 100.03}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.71}
+{"window_id": "w061", "model": "Grok-4.3", "pred": 99.82, "raw": "{\"predicted_close_index\": 99.82}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.83}
+{"window_id": "w061", "model": "Gemini-3.7-Flash", "pred": 99.88, "raw": "{\"predicted_close_index\": 99.88}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.16}
+{"window_id": "w063", "model": "GPT-5.4-Nano", "pred": 100.022, "raw": "{\"predicted_close_index\":100.022}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.76}
+{"window_id": "w063", "model": "GPT-5.4-Mini", "pred": 100.08, "raw": "{\"predicted_close_index\":100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.8}
+{"window_id": "w063", "model": "Gemini-3.5-Flash-Lite", "pred": 100.06, "raw": "```json\n{\"predicted_close_index\": 100.06}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.09}
+{"window_id": "w063", "model": "GPT-OSS-120B-CS", "pred": 100.084, "raw": "{\"predicted_close_index\": 100.084}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.2}
+{"window_id": "w062", "model": "Gemini-3.7-Flash", "pred": 100.045, "raw": "```json\n{\"predicted_close_index\": 100.045}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.35}
+{"window_id": "w063", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.08}
+{"window_id": "w064", "model": "GPT-5.4-Nano", "pred": 99.996, "raw": "{\"predicted_close_index\":99.996}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w062", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.31}
+{"window_id": "w064", "model": "GPT-5.4-Mini", "pred": 100.04, "raw": "{\"predicted_close_index\":100.04}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w064", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.86}
+{"window_id": "w060", "model": "Inkling", "pred": 100.03, "raw": "{\"predicted_close_index\": 100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 16.58}
+{"window_id": "w063", "model": "Gemini-3.7-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.13}
+{"window_id": "w058", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 26.27}
+{"window_id": "w064", "model": "GPT-OSS-120B-CS", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.18}
+{"window_id": "w063", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.49}
+{"window_id": "w065", "model": "GPT-5.4-Nano", "pred": 99.985, "raw": "{\"predicted_close_index\":99.985}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.81}
+{"window_id": "w064", "model": "Gemini-3.5-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.68}
+{"window_id": "w065", "model": "GPT-5.4-Mini", "pred": 100.11, "raw": "{\"predicted_close_index\":100.11}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w065", "model": "Gemini-3.5-Flash-Lite", "pred": 99.96, "raw": "```json\n{\"predicted_close_index\": 99.96}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w064", "model": "Gemini-3.7-Flash", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.64}
+{"window_id": "w061", "model": "Inkling", "pred": 100.12, "raw": "{\"predicted_close_index\": 100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 18.21}
+{"window_id": "w065", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.98}
+{"window_id": "w065", "model": "GPT-OSS-120B-CS", "pred": 100.18, "raw": "{\"predicted_close_index\": 100.18}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.34}
+{"window_id": "w066", "model": "GPT-5.4-Nano", "pred": 99.99, "raw": "{\"predicted_close_index\":99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w066", "model": "GPT-5.4-Mini", "pred": 100.48, "raw": "{\"predicted_close_index\":100.48}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w066", "model": "Gemini-3.5-Flash-Lite", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.05}
+{"window_id": "w064", "model": "Grok-4.3", "pred": 100.03, "raw": "{\"predicted_close_index\": 100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.58}
+{"window_id": "w066", "model": "GPT-OSS-120B-CS", "pred": 100.171, "raw": "{\"predicted_close_index\": 100.171}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w065", "model": "Gemini-3.7-Flash", "pred": 100.03, "raw": "```json\n{\"predicted_close_index\": 100.03}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.54}
+{"window_id": "w066", "model": "Gemini-3.5-Flash", "pred": 100.45, "raw": "```json\n{\"predicted_close_index\": 100.45}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.69}
+{"window_id": "w067", "model": "GPT-5.4-Nano", "pred": 100.086, "raw": "{\"predicted_close_index\":100.086}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.69}
+{"window_id": "w051", "model": "Inkling", "pred": 99.94, "raw": "{\"predicted_close_index\": 99.94}", "finish_reason": "stop", "attempts": 2, "error": null, "latency_s": 26.6}
+{"window_id": "w067", "model": "GPT-5.4-Mini", "pred": 99.92, "raw": "{\"predicted_close_index\":99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.95}
+{"window_id": "w067", "model": "Gemini-3.5-Flash-Lite", "pred": 100.06, "raw": "```json\n{\"predicted_close_index\": 100.06}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.91}
+{"window_id": "w065", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.48}
+{"window_id": "w067", "model": "GPT-OSS-120B-CS", "pred": 99.69, "raw": "{\"predicted_close_index\": 99.69}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.33}
+{"window_id": "w066", "model": "Gemini-3.7-Flash", "pred": 100.35, "raw": "```json\n{\"predicted_close_index\": 100.35}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.46}
+{"window_id": "w067", "model": "Gemini-3.5-Flash", "pred": 99.92, "raw": "```json\n{\"predicted_close_index\": 99.92}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.65}
+{"window_id": "w068", "model": "GPT-5.4-Nano", "pred": 99.987, "raw": "{\"predicted_close_index\":99.987}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w066", "model": "Grok-4.3", "pred": 100.35, "raw": "{\"predicted_close_index\": 100.35}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.37}
+{"window_id": "w068", "model": "GPT-5.4-Mini", "pred": 99.97, "raw": "{\"predicted_close_index\":99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w068", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.0}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.84}
+{"window_id": "w064", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 17.45}
+{"window_id": "w068", "model": "GPT-OSS-120B-CS", "pred": 99.9, "raw": "{\"predicted_close_index\": 99.90}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w066", "model": "Inkling", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 10.34}
+{"window_id": "w067", "model": "Gemini-3.7-Flash", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.81}
+{"window_id": "w068", "model": "Gemini-3.5-Flash", "pred": 99.95, "raw": "```json\n{\"predicted_close_index\": 99.95}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.89}
+{"window_id": "w067", "model": "Grok-4.3", "pred": 99.75, "raw": "{\"predicted_close_index\": 99.75}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.34}
+{"window_id": "w069", "model": "GPT-5.4-Mini", "pred": 100.006, "raw": "{\"predicted_close_index\":100.006}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w069", "model": "GPT-5.4-Nano", "pred": 99.996, "raw": "{\"predicted_close_index\":99.996}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.79}
+{"window_id": "w069", "model": "Gemini-3.5-Flash-Lite", "pred": 100.005, "raw": "```json\n{\"predicted_close_index\": 100.005}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.34}
+{"window_id": "w069", "model": "GPT-OSS-120B-CS", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.96}
+{"window_id": "w062", "model": "Inkling", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 31.65}
+{"window_id": "w069", "model": "Gemini-3.5-Flash", "pred": 100.025, "raw": "{\"predicted_close_index\": 100.025}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.17}
+{"window_id": "w070", "model": "GPT-5.4-Nano", "pred": 99.99, "raw": "{\"predicted_close_index\":99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w068", "model": "Gemini-3.7-Flash", "pred": 99.96, "raw": "```json\n{\"predicted_close_index\": 99.96}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.38}
+{"window_id": "w070", "model": "GPT-5.4-Mini", "pred": 99.92, "raw": "{\"predicted_close_index\":99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.64}
+{"window_id": "w070", "model": "Gemini-3.5-Flash-Lite", "pred": 100.007, "raw": "```json\n{\"predicted_close_index\": 100.007}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.98}
+{"window_id": "w063", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 30.41}
+{"window_id": "w070", "model": "GPT-OSS-120B-CS", "pred": 99.88, "raw": "{\"predicted_close_index\": 99.88}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.41}
+{"window_id": "w069", "model": "Gemini-3.7-Flash", "pred": 100.025, "raw": "```json\n{\"predicted_close_index\": 100.025}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.18}
+{"window_id": "w068", "model": "Grok-4.3", "pred": 99.85, "raw": "{\"predicted_close_index\": 99.85}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.21}
+{"window_id": "w070", "model": "Gemini-3.5-Flash", "pred": 99.94, "raw": "```json\n{\"predicted_close_index\": 99.94}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.55}
+{"window_id": "w069", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.61}
+{"window_id": "w071", "model": "GPT-5.4-Nano", "pred": 100.027, "raw": "{\"predicted_close_index\":100.027}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.75}
+{"window_id": "w071", "model": "GPT-5.4-Mini", "pred": 99.83, "raw": "{\"predicted_close_index\":99.83}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w071", "model": "Gemini-3.5-Flash-Lite", "pred": 100.03, "raw": "```json\n{\"predicted_close_index\": 100.03}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.91}
+{"window_id": "w071", "model": "GPT-OSS-120B-CS", "pred": 99.78, "raw": "{\"predicted_close_index\": 99.78}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.75}
+{"window_id": "w068", "model": "Inkling", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.96}
+{"window_id": "w065", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 26.58}
+{"window_id": "w070", "model": "Gemini-3.7-Flash", "pred": 99.94, "raw": "```json\n{\"predicted_close_index\": 99.94}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.91}
+{"window_id": "w072", "model": "GPT-5.4-Nano", "pred": 100.07, "raw": "{\"predicted_close_index\":100.07}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.09}
+{"window_id": "w071", "model": "Gemini-3.5-Flash", "pred": 99.88, "raw": "```json\n{\"predicted_close_index\": 99.88}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.69}
+{"window_id": "w072", "model": "GPT-5.4-Mini", "pred": 100.21, "raw": "{\"predicted_close_index\":100.21}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w072", "model": "Gemini-3.5-Flash-Lite", "pred": 100.06, "raw": "```json\n{\"predicted_close_index\": 100.06}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w070", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.88}
+{"window_id": "w072", "model": "GPT-OSS-120B-CS", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.93}
+{"window_id": "w072", "model": "Gemini-3.5-Flash", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.83}
+{"window_id": "w071", "model": "Gemini-3.7-Flash", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.07}
+{"window_id": "w071", "model": "Grok-4.3", "pred": 100.12, "raw": "{\"predicted_close_index\": 100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.09}
+{"window_id": "w073", "model": "GPT-5.4-Mini", "pred": 99.92, "raw": "{\"predicted_close_index\":99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w073", "model": "GPT-5.4-Nano", "pred": 99.94, "raw": "{\"predicted_close_index\":99.94}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.94}
+{"window_id": "w073", "model": "Gemini-3.5-Flash-Lite", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w073", "model": "GPT-OSS-120B-CS", "pred": 99.85, "raw": "{\"predicted_close_index\": 99.85}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.18}
+{"window_id": "w072", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.02}
+{"window_id": "w072", "model": "Gemini-3.7-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.25}
+{"window_id": "w073", "model": "Gemini-3.5-Flash", "pred": 99.85, "raw": "```json\n{\"predicted_close_index\": 99.85}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.32}
+{"window_id": "w074", "model": "GPT-5.4-Mini", "pred": 100.018, "raw": "{\"predicted_close_index\":100.018}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.8}
+{"window_id": "w074", "model": "GPT-5.4-Nano", "pred": 100.08, "raw": "{\"predicted_close_index\":100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.91}
+{"window_id": "w069", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 17.79}
+{"window_id": "w074", "model": "Gemini-3.5-Flash-Lite", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.2}
+{"window_id": "w074", "model": "GPT-OSS-120B-CS", "pred": 100.09, "raw": "{\"predicted_close_index\": 100.09}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.43}
+{"window_id": "w067", "model": "Inkling", "pred": 99.9, "raw": "{\"predicted_close_index\": 99.90}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 29.19}
+{"window_id": "w073", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.43}
+{"window_id": "w074", "model": "Gemini-3.5-Flash", "pred": 99.85, "raw": "{\"predicted_close_index\": 99.85}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.17}
+{"window_id": "w075", "model": "GPT-5.4-Nano", "pred": 100.033, "raw": "{\"predicted_close_index\":100.033}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.86}
+{"window_id": "w073", "model": "Gemini-3.7-Flash", "pred": 99.95, "raw": "```json\n{\"predicted_close_index\": 99.95}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.77}
+{"window_id": "w075", "model": "GPT-5.4-Mini", "pred": 99.93, "raw": "{\"predicted_close_index\":99.93}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.68}
+{"window_id": "w071", "model": "Inkling", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 14.25}
+{"window_id": "w075", "model": "Gemini-3.5-Flash-Lite", "pred": 100.005, "raw": "```json\n{\"predicted_close_index\": 100.005}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.34}
+{"window_id": "w075", "model": "GPT-OSS-120B-CS", "pred": 100.015, "raw": "{\"predicted_close_index\": 100.015}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w074", "model": "Gemini-3.7-Flash", "pred": 99.89, "raw": "```json\n{\"predicted_close_index\": 99.89}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.52}
+{"window_id": "w075", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.58}
+{"window_id": "w076", "model": "GPT-5.4-Nano", "pred": 99.985, "raw": "{\"predicted_close_index\":99.985}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w074", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.54}
+{"window_id": "w076", "model": "Gemini-3.5-Flash-Lite", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.79}
+{"window_id": "w076", "model": "GPT-5.4-Mini", "pred": 100.058, "raw": "{\"predicted_close_index\":100.058}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w076", "model": "GPT-OSS-120B-CS", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.74}
+{"window_id": "w076", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.05}
+{"window_id": "w075", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.04}
+{"window_id": "w077", "model": "GPT-5.4-Nano", "pred": 100.007, "raw": "{\"predicted_close_index\":100.007}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.81}
+{"window_id": "w075", "model": "Gemini-3.7-Flash", "pred": 100.06, "raw": "```json\n{\"predicted_close_index\": 100.06}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.74}
+{"window_id": "w077", "model": "GPT-5.4-Mini", "pred": 100.092, "raw": "{\"predicted_close_index\":100.092}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.62}
+{"window_id": "w077", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.0}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w076", "model": "Gemini-3.7-Flash", "pred": 100.04, "raw": "{\"predicted_close_index\": 100.04}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.16}
+{"window_id": "w075", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.6}
+{"window_id": "w077", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.68}
+{"window_id": "w077", "model": "GPT-OSS-120B-CS", "pred": 100.1, "raw": "{\"predicted_close_index\": 100.10}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.23}
+{"window_id": "w076", "model": "Grok-4.3", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.63}
+{"window_id": "w074", "model": "Inkling", "pred": 99.9, "raw": "{\"predicted_close_index\": 99.90}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 13.52}
+{"window_id": "w078", "model": "GPT-5.4-Nano", "pred": 99.995, "raw": "{\"predicted_close_index\":99.995}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w078", "model": "GPT-5.4-Mini", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.89}
+{"window_id": "w078", "model": "Gemini-3.5-Flash-Lite", "pred": 100.01, "raw": "```json\n{\"predicted_close_index\": 100.01}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.9}
+{"window_id": "w078", "model": "GPT-OSS-120B-CS", "pred": 100.005, "raw": "{\"predicted_close_index\": 100.005}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.84}
+{"window_id": "w078", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.87}
+{"window_id": "w077", "model": "Gemini-3.7-Flash", "pred": 100.045, "raw": "```json\n{\"predicted_close_index\": 100.045}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.99}
+{"window_id": "w077", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.92}
+{"window_id": "w079", "model": "GPT-5.4-Nano", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w079", "model": "GPT-5.4-Mini", "pred": 99.975, "raw": "{\"predicted_close_index\":99.975}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.04}
+{"window_id": "w072", "model": "Inkling", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 29.06}
+{"window_id": "w079", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.33}
+{"window_id": "w078", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.94}
+{"window_id": "w078", "model": "Gemini-3.7-Flash", "pred": 100.045, "raw": "```json\n{\"predicted_close_index\": 100.045}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.82}
+{"window_id": "w079", "model": "GPT-OSS-120B-CS", "pred": 99.85, "raw": "{\"predicted_close_index\": 99.85}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.43}
+{"window_id": "w076", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 14.6}
+{"window_id": "w079", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.7}
+{"window_id": "w080", "model": "GPT-5.4-Mini", "pred": 99.92, "raw": "{\"predicted_close_index\":99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.67}
+{"window_id": "w080", "model": "GPT-5.4-Nano", "pred": 100.055, "raw": "{\"predicted_close_index\":100.055}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.37}
+{"window_id": "w080", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.000}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w073", "model": "Inkling", "pred": 99.85, "raw": "{\"predicted_close_index\": 99.85}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 29.78}
+{"window_id": "w080", "model": "GPT-OSS-120B-CS", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.33}
+{"window_id": "w080", "model": "Gemini-3.5-Flash", "pred": 99.92, "raw": "```json\n{\"predicted_close_index\": 99.92}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.06}
+{"window_id": "w079", "model": "Grok-4.3", "pred": 100.0, "raw": "{\"predicted_close_index\": 100.0}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.44}
+{"window_id": "w079", "model": "Gemini-3.7-Flash", "pred": 100.075, "raw": "```json\n{\"predicted_close_index\": 100.075}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.94}
+{"window_id": "w078", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 10.62}
+{"window_id": "w081", "model": "GPT-5.4-Nano", "pred": 99.84, "raw": "{\"predicted_close_index\":99.84}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.91}
+{"window_id": "w081", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.16}
+{"window_id": "w081", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.24}
+{"window_id": "w081", "model": "GPT-OSS-120B-CS", "pred": 99.94, "raw": "{\"predicted_close_index\": 99.94}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.96}
+{"window_id": "w081", "model": "Gemini-3.5-Flash", "pred": 100.015, "raw": "```json\n{\"predicted_close_index\": 100.015}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.46}
+{"window_id": "w080", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.18}
+{"window_id": "w077", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 18.67}
+{"window_id": "w080", "model": "Gemini-3.7-Flash", "pred": 99.94, "raw": "{\"predicted_close_index\": 99.94}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.48}
+{"window_id": "w082", "model": "GPT-5.4-Nano", "pred": 100.012, "raw": "{\"predicted_close_index\":100.012}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.63}
+{"window_id": "w082", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.09}
+{"window_id": "w082", "model": "Gemini-3.5-Flash-Lite", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.92}
+{"window_id": "w082", "model": "GPT-OSS-120B-CS", "pred": 99.99, "raw": "{\"predicted_close_index\": 99.99}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.74}
+{"window_id": "w082", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.62}
+{"window_id": "w081", "model": "Gemini-3.7-Flash", "pred": 99.982, "raw": "```json\n{\"predicted_close_index\": 99.982}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.87}
+{"window_id": "w083", "model": "GPT-5.4-Nano", "pred": 99.999, "raw": "{\"predicted_close_index\":99.999}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.62}
+{"window_id": "w083", "model": "GPT-5.4-Mini", "pred": 99.92, "raw": "{\"predicted_close_index\":99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w083", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.000}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w081", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.62}
+{"window_id": "w081", "model": "Grok-4.3", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.27}
+{"window_id": "w082", "model": "Gemini-3.7-Flash", "pred": 100.065, "raw": "{\"predicted_close_index\": 100.065}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.46}
+{"window_id": "w083", "model": "GPT-OSS-120B-CS", "pred": 99.9, "raw": "{\"predicted_close_index\": 99.90}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.23}
+{"window_id": "w082", "model": "Grok-4.3", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.15}
+{"window_id": "w084", "model": "GPT-5.4-Nano", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w084", "model": "GPT-5.4-Mini", "pred": 99.86, "raw": "{\"predicted_close_index\":99.86}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.71}
+{"window_id": "w082", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.2}
+{"window_id": "w084", "model": "Gemini-3.5-Flash-Lite", "pred": 99.88, "raw": "```json\n{\"predicted_close_index\": 99.88}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.89}
+{"window_id": "w083", "model": "Gemini-3.5-Flash", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.69}
+{"window_id": "w070", "model": "Inkling", "pred": 99.93, "raw": "{\"predicted_close_index\": 99.93}", "finish_reason": "stop", "attempts": 2, "error": null, "latency_s": 12.78}
+{"window_id": "w084", "model": "Gemini-3.5-Flash", "pred": 99.85, "raw": "{\"predicted_close_index\": 99.85}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.75}
+{"window_id": "w084", "model": "GPT-OSS-120B-CS", "pred": 99.73, "raw": "{\"predicted_close_index\": 99.73}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.59}
+{"window_id": "w085", "model": "GPT-5.4-Mini", "pred": 99.97, "raw": "{\"predicted_close_index\":99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.61}
+{"window_id": "w085", "model": "GPT-5.4-Nano", "pred": 100.11, "raw": "{\"predicted_close_index\":100.11}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.66}
+{"window_id": "w085", "model": "Gemini-3.5-Flash-Lite", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.39}
+{"window_id": "w083", "model": "Gemini-3.7-Flash", "pred": 99.975, "raw": "{\"predicted_close_index\": 99.975}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.09}
+{"window_id": "w083", "model": "Grok-4.3", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.14}
+{"window_id": "w084", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.04}
+{"window_id": "w085", "model": "GPT-OSS-120B-CS", "pred": 99.82, "raw": "{\"predicted_close_index\": 99.82}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.59}
+{"window_id": "w085", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.24}
+{"window_id": "w079", "model": "Inkling", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 24.27}
+{"window_id": "w086", "model": "GPT-5.4-Nano", "pred": 99.98, "raw": "{\"predicted_close_index\":99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.67}
+{"window_id": "w086", "model": "GPT-5.4-Mini", "pred": 99.97, "raw": "{\"predicted_close_index\":99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.76}
+{"window_id": "w084", "model": "Gemini-3.7-Flash", "pred": 99.94, "raw": "```json\n{\"predicted_close_index\": 99.94}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.7}
+{"window_id": "w086", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.13}
+{"window_id": "w086", "model": "GPT-OSS-120B-CS", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.78}
+{"window_id": "w085", "model": "Gemini-3.7-Flash", "pred": 100.08, "raw": "{\"predicted_close_index\": 100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.26}
+{"window_id": "w086", "model": "Gemini-3.5-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.97}
+{"window_id": "w087", "model": "GPT-5.4-Mini", "pred": 100.78, "raw": "{\"predicted_close_index\":100.78}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w080", "model": "Inkling", "pred": 99.93, "raw": "{\"predicted_close_index\": 99.93}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 24.37}
+{"window_id": "w085", "model": "Grok-4.3", "pred": 100.0, "raw": "{\"predicted_close_index\": 100}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.29}
+{"window_id": "w087", "model": "Gemini-3.5-Flash-Lite", "pred": 99.88, "raw": "```json\n{\"predicted_close_index\": 99.88}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.86}
+{"window_id": "w087", "model": "GPT-OSS-120B-CS", "pred": 100.07, "raw": "{\"predicted_close_index\": 100.07}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.61}
+{"window_id": "w087", "model": "GPT-5.4-Nano", "pred": 100.72, "raw": "{\"predicted_close_index\":100.72}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.07}
+{"window_id": "w086", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.92}
+{"window_id": "w088", "model": "GPT-5.4-Nano", "pred": 100.083, "raw": "{\"predicted_close_index\":100.083}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.66}
+{"window_id": "w087", "model": "Gemini-3.5-Flash", "pred": 100.65, "raw": "{\"predicted_close_index\": 100.65}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.87}
+{"window_id": "w088", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.61}
+{"window_id": "w088", "model": "Gemini-3.5-Flash-Lite", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.9}
+{"window_id": "w088", "model": "Gemini-3.5-Flash", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.58}
+{"window_id": "w087", "model": "Grok-4.3", "pred": 99.82, "raw": "{\"predicted_close_index\": 99.82}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.62}
+{"window_id": "w087", "model": "Gemini-3.7-Flash", "pred": 100.15, "raw": "```json\n{\"predicted_close_index\": 100.15}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.42}
+{"window_id": "w086", "model": "Gemini-3.7-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.18}
+{"window_id": "w089", "model": "GPT-5.4-Nano", "pred": 100.02, "raw": "{\"predicted_close_index\":100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.61}
+{"window_id": "w084", "model": "Inkling", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 19.32}
+{"window_id": "w089", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w088", "model": "GPT-OSS-120B-CS", "pred": 100.262, "raw": "{\"predicted_close_index\": 100.262}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.49}
+{"window_id": "w089", "model": "Gemini-3.5-Flash-Lite", "pred": 99.96, "raw": "```json\n{\"predicted_close_index\": 99.96}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.86}
+{"window_id": "w089", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.56}
+{"window_id": "w088", "model": "Gemini-3.7-Flash", "pred": 100.12, "raw": "```json\n{\"predicted_close_index\": 100.12}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.34}
+{"window_id": "w088", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.82}
+{"window_id": "w087", "model": "Inkling", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 13.62}
+{"window_id": "w089", "model": "GPT-OSS-120B-CS", "pred": 100.03, "raw": "{\"predicted_close_index\": 100.03}", "finish_reason": "stop", "attempts": 2, "error": null, "latency_s": 0.96}
+{"window_id": "w090", "model": "GPT-5.4-Mini", "pred": 100.03, "raw": "{\"predicted_close_index\":100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.58}
+{"window_id": "w090", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.86}
+{"window_id": "w090", "model": "GPT-5.4-Nano", "pred": 99.996, "raw": "{\"predicted_close_index\":99.996}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.41}
+{"window_id": "w089", "model": "Gemini-3.7-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.43}
+{"window_id": "w090", "model": "GPT-OSS-120B-CS", "pred": 100.063, "raw": "{\"predicted_close_index\": 100.063}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.61}
+{"window_id": "w089", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.68}
+{"window_id": "w090", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.49}
+{"window_id": "w091", "model": "GPT-5.4-Nano", "pred": 100.048, "raw": "{\"predicted_close_index\":100.048}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.64}
+{"window_id": "w091", "model": "GPT-5.4-Mini", "pred": 100.12, "raw": "{\"predicted_close_index\":100.12}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.75}
+{"window_id": "w088", "model": "Inkling", "pred": 100.08, "raw": "{\"predicted_close_index\": 100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 13.35}
+{"window_id": "w091", "model": "Gemini-3.5-Flash-Lite", "pred": 100.005, "raw": "```json\n{\"predicted_close_index\": 100.005}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.07}
+{"window_id": "w091", "model": "GPT-OSS-120B-CS", "pred": 100.07, "raw": "{\"predicted_close_index\": 100.07}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.46}
+{"window_id": "w090", "model": "Gemini-3.7-Flash", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.59}
+{"window_id": "w091", "model": "Gemini-3.5-Flash", "pred": 99.95, "raw": "```json\n{\"predicted_close_index\": 99.95}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.07}
+{"window_id": "w090", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.94}
+{"window_id": "w092", "model": "GPT-5.4-Nano", "pred": 100.07, "raw": "{\"predicted_close_index\":100.07}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w092", "model": "GPT-5.4-Mini", "pred": 100.08, "raw": "{\"predicted_close_index\":100.08}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.12}
+{"window_id": "w092", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.000}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.33}
+{"window_id": "w091", "model": "Grok-4.3", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.51}
+{"window_id": "w091", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.16}
+{"window_id": "w085", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 33.06}
+{"window_id": "w092", "model": "Gemini-3.5-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.48}
+{"window_id": "w092", "model": "GPT-OSS-120B-CS", "pred": 99.851, "raw": "{\"predicted_close_index\": 99.851}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.74}
+{"window_id": "w093", "model": "GPT-5.4-Mini", "pred": 100.48, "raw": "{\"predicted_close_index\":100.48}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.67}
+{"window_id": "w091", "model": "Gemini-3.7-Flash", "pred": 99.965, "raw": "{\"predicted_close_index\": 99.965}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.99}
+{"window_id": "w093", "model": "GPT-5.4-Nano", "pred": 100.332, "raw": "{\"predicted_close_index\":100.332}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.58}
+{"window_id": "w093", "model": "Gemini-3.5-Flash-Lite", "pred": 99.88, "raw": "```json\n{\"predicted_close_index\": 99.88}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.06}
+{"window_id": "w090", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.980}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.8}
+{"window_id": "w093", "model": "GPT-OSS-120B-CS", "pred": 100.07, "raw": "{\"predicted_close_index\": 100.07}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w089", "model": "Inkling", "pred": 99.94, "raw": "{\"predicted_close_index\": 99.94}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 18.02}
+{"window_id": "w086", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 34.23}
+{"window_id": "w094", "model": "GPT-5.4-Nano", "pred": 100.02, "raw": "{\"predicted_close_index\":100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.72}
+{"window_id": "w094", "model": "GPT-5.4-Mini", "pred": 100.062, "raw": "{\"predicted_close_index\":100.062}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.68}
+{"window_id": "w092", "model": "Gemini-3.7-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.85}
+{"window_id": "w094", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.0}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.04}
+{"window_id": "w093", "model": "Gemini-3.5-Flash", "pred": 100.15, "raw": "```json\n{\"predicted_close_index\": 100.15}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.63}
+{"window_id": "w094", "model": "GPT-OSS-120B-CS", "pred": 100.09, "raw": "{\"predicted_close_index\": 100.09}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.37}
+{"window_id": "w094", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.59}
+{"window_id": "w092", "model": "Grok-4.3", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.9}
+{"window_id": "w095", "model": "GPT-5.4-Nano", "pred": 100.003, "raw": "{\"predicted_close_index\":100.003}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.8}
+{"window_id": "w095", "model": "GPT-5.4-Mini", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.63}
+{"window_id": "w093", "model": "Gemini-3.7-Flash", "pred": 100.15, "raw": "{\"predicted_close_index\": 100.15}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.02}
+{"window_id": "w095", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.0}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.1}
+{"window_id": "w093", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.65}
+{"window_id": "w095", "model": "Gemini-3.5-Flash", "pred": 99.95, "raw": "```json\n{\"predicted_close_index\": 99.95}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.27}
+{"window_id": "w095", "model": "GPT-OSS-120B-CS", "pred": 99.8, "raw": "{\"predicted_close_index\": 99.80}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.41}
+{"window_id": "w096", "model": "GPT-5.4-Nano", "pred": 100.02, "raw": "{\"predicted_close_index\":100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.81}
+{"window_id": "w094", "model": "Grok-4.3", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.16}
+{"window_id": "w096", "model": "GPT-5.4-Mini", "pred": 100.06, "raw": "{\"predicted_close_index\":100.06}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.7}
+{"window_id": "w094", "model": "Gemini-3.7-Flash", "pred": 100.065, "raw": "```json\n{\"predicted_close_index\": 100.065}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.81}
+{"window_id": "w096", "model": "Gemini-3.5-Flash-Lite", "pred": 99.98, "raw": "```json\n{\"predicted_close_index\": 99.98}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.01}
+{"window_id": "w096", "model": "GPT-OSS-120B-CS", "pred": 100.01, "raw": "{\"predicted_close_index\": 100.01}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.62}
+{"window_id": "w083", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 2, "error": null, "latency_s": 15.62}
+{"window_id": "w096", "model": "Gemini-3.5-Flash", "pred": 99.92, "raw": "```json\n{\"predicted_close_index\": 99.92}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.45}
+{"window_id": "w097", "model": "GPT-5.4-Nano", "pred": 100.053, "raw": "{\"predicted_close_index\":100.053}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.93}
+{"window_id": "w095", "model": "Gemini-3.7-Flash", "pred": 100.025, "raw": "```json\n{\"predicted_close_index\": 100.025}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.98}
+{"window_id": "w097", "model": "Gemini-3.5-Flash-Lite", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.02}
+{"window_id": "w097", "model": "GPT-5.4-Mini", "pred": 100.034, "raw": "{\"predicted_close_index\":100.034}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.16}
+{"window_id": "w095", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.52}
+{"window_id": "w097", "model": "GPT-OSS-120B-CS", "pred": 100.15, "raw": "{\"predicted_close_index\": 100.15}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.88}
+{"window_id": "w092", "model": "Inkling", "pred": 99.93, "raw": "{\"predicted_close_index\": 99.93}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 18.98}
+{"window_id": "w093", "model": "Inkling", "pred": 99.95, "raw": "{\"predicted_close_index\": 99.95}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 16.19}
+{"window_id": "w094", "model": "Inkling", "pred": 99.98, "raw": "{\"predicted_close_index\": 99.98}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 13.58}
+{"window_id": "w098", "model": "GPT-5.4-Nano", "pred": 100.046, "raw": "{\"predicted_close_index\":100.046}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.03}
+{"window_id": "w098", "model": "GPT-5.4-Mini", "pred": 99.932, "raw": "{\"predicted_close_index\":99.932}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.82}
+{"window_id": "w096", "model": "Grok-4.3", "pred": 99.92, "raw": "{\"predicted_close_index\": 99.92}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.03}
+{"window_id": "w098", "model": "Gemini-3.5-Flash-Lite", "pred": 100.0, "raw": "```json\n{\"predicted_close_index\": 100.00}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.81}
+{"window_id": "w097", "model": "Gemini-3.5-Flash", "pred": 100.05, "raw": "```json\n{\"predicted_close_index\": 100.05}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 4.36}
+{"window_id": "w096", "model": "Gemini-3.7-Flash", "pred": 99.985, "raw": "```json\n{\"predicted_close_index\": 99.985}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 8.72}
+{"window_id": "w098", "model": "GPT-OSS-120B-CS", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.11}
+{"window_id": "w099", "model": "GPT-5.4-Nano", "pred": 100.22, "raw": "{\"predicted_close_index\":100.22}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.73}
+{"window_id": "w099", "model": "GPT-5.4-Mini", "pred": 100.22, "raw": "{\"predicted_close_index\":100.22}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.2}
+{"window_id": "w098", "model": "Gemini-3.5-Flash", "pred": 99.95, "raw": "```json\n{\"predicted_close_index\": 99.95}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 3.51}
+{"window_id": "w097", "model": "Gemini-3.7-Flash", "pred": 100.08, "raw": "```json\n{\"predicted_close_index\": 100.08}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 7.49}
+{"window_id": "w097", "model": "Grok-4.3", "pred": 100.03, "raw": "{\"predicted_close_index\": 100.03}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.17}
+{"window_id": "w099", "model": "Gemini-3.5-Flash-Lite", "pred": 100.02, "raw": "```json\n{\"predicted_close_index\": 100.02}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 0.84}
+{"window_id": "w099", "model": "GPT-OSS-120B-CS", "pred": 100.24, "raw": "{\"predicted_close_index\": 100.24}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 1.11}
+{"window_id": "w098", "model": "Grok-4.3", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 5.55}
+{"window_id": "w099", "model": "Gemini-3.5-Flash", "pred": 100.15, "raw": "```json\n{\"predicted_close_index\": 100.15}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 2.56}
+{"window_id": "w098", "model": "Gemini-3.7-Flash", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 9.37}
+{"window_id": "w096", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 16.58}
+{"window_id": "w099", "model": "Grok-4.3", "pred": 100.05, "raw": "{\"predicted_close_index\": 100.05}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 6.34}
+{"window_id": "w095", "model": "Inkling", "pred": 99.75, "raw": "{\"predicted_close_index\": 99.75}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 25.55}
+{"window_id": "w099", "model": "Gemini-3.7-Flash", "pred": 100.04, "raw": "```json\n{\"predicted_close_index\": 100.04}\n```", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 11.73}
+{"window_id": "w098", "model": "Inkling", "pred": 100.02, "raw": "{\"predicted_close_index\": 100.02}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 16.49}
+{"window_id": "w099", "model": "Inkling", "pred": 99.97, "raw": "{\"predicted_close_index\": 99.97}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 14.42}
+{"window_id": "w097", "model": "Inkling", "pred": 99.96, "raw": "{\"predicted_close_index\": 99.96}", "finish_reason": "stop", "attempts": 1, "error": null, "latency_s": 21.84}

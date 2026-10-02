@@ -1,0 +1,41 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 5,
+  "replicate": 5,
+  "start_node": 3,
+  "start_state": 2,
+  "ground_truth_node": 3,
+  "trace": [
+    [
+      3,
+      2
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      3,
+      5
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to simulate 5 steps.\n\nWe have nodes with value and target function: \n\nNode0: value5, target = (State XOR 3) mod4.\nNode1: value7, target = (State +2) mod4.\nNode2: value4, target = (State XOR1) mod4.\nNode3: value6, target = (State *3) mod4.\n\nState is 0-7 mod8. But target functions use state (0-7) but then mod4.\n\nWe start Node3, State=2.\n\nLet's step:\n\nStep1:\nCurrent Node=3, value=6.\nState = (2 +6) mod8 = 8 mod8 =0.\nTarget for Node3: (State *3) mod4 = (0*3) mod4 =0.\nNext_Node =0. Set Current_Node=0.\n\nStep2:\nCurrent Node=0, value5.\nState = (0 +5) mod8 =5.\nTarget Node0: (State XOR 3) mod4. Compute 5 XOR3 =? 5 (0101) XOR 3 (0011)=0110 =6. 6 mod4 = 6 mod4 =2.\nNext_Node =2. Current_Node=2.\n\nStep3:\nCurrent Node=2, value4.\nState = (5 +4) mod8 =9 mod8 =1.\nTarget Node2: (State XOR1) mod4. 1 XOR1 =0. 0 mod4 =0.\nNext_Node=0. Current_Node=0.\n\nStep4:\nCurrent Node=0, value5.\nState = (1 +5) mod8 =6.\nTarget Node0: (6 XOR3) =? 6 (0110) XOR 3 (0011) =0101 =5. 5 mod4 =1.\nNext_Node=1. Current_Node=1.\n\nStep5:\nCurrent Node=1, value7.\nState = (6 +7) mod8 =13 mod8 =5.\nTarget Node1: (State +2) mod4 = (5+2)=7 mod4 =3.\nNext_Node=3. Current_Node=3.\n\nAfter 5 steps, final node =3.\n\nThus output digit \"3\".",
+  "raw_response": "3",
+  "model_answer": 3,
+  "correct": true,
+  "error": null
+}

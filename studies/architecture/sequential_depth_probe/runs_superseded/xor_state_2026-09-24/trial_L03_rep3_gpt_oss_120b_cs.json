@@ -1,0 +1,33 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 3,
+  "replicate": 3,
+  "start_node": 3,
+  "start_state": 7,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      3,
+      7
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      0,
+      2
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need simulate.\n\nWe have nodes 0-3 each with Value and Target function.\n\nDefine current node = 3, state =7.\n\nWe apply transition rule 3 times.\n\nLet's define functions:\n\nNode0 Target(State) = (State XOR 3) mod4.\nNode1 Target(State) = (State +2) mod4.\nNode2 Target(State) = (State XOR1) mod4.\nNode3 Target(State) = (State *3) mod4.\n\nValues: V0=5, V1=7, V2=4, V3=6.\n\nState is mod 8 after addition.\n\nStep procedure:\n\n1. State = (State + Value_of_current_node) mod 8.\n2. Next_Node = Target(State) using updated state.\n3. Current_Node = Next_Node.\n\nLet's compute.\n\nInitial: Current_Node =3, State =7.\n\nStep1:\n\nValue of node3 =6. Compute new State = (7 + 6) mod 8 = 13 mod8 =5.\n\nNow compute Target for node3: Target(state) = (state *3) mod4.\n\nState =5. Compute 5*3=15 mod4 = 15 mod4 = 3 (since 4*3=12, remainder3). So Next_Node =3.\n\nCurrent_Node becomes 3.\n\nSo after first step, we are still at node3, state =5.\n\nStep2:\n\nCurrent node 3, value 6. State = (5 +6) mod8 =11 mod8 =3.\n\nTarget for node3: (state *3) mod4: state=3 -> 3*3=9 mod4 = 1 (since 8 remainder1). So Next_Node =1.\n\nCurrent_Node becomes 1. State remains 3 after step.\n\nStep3:\n\nCurrent node 1, value 7. State = (3 +7) mod8 =10 mod8 =2.\n\nTarget for node1: (state +2) mod4 = (2+2) mod4 =4 mod4 =0.\n\nNext_Node =0. Current_Node becomes 0.\n\nAfter 3 steps, final node =0.\n\nWe output \"0\".",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

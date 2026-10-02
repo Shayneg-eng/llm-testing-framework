@@ -1,0 +1,26 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "Grok-4.5",
+  "length": 1,
+  "replicate": 5,
+  "start_node": 2,
+  "start_state": 7,
+  "ground_truth_node": 2,
+  "trace": [
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "This is a finite-state-machine simulation.\n\nStarting from Node 2 with State 7, the first step updates State to 3.",
+  "reasoning_effort_requested": "low",
+  "raw_response": "2",
+  "model_answer": 2,
+  "correct": true,
+  "error": null
+}

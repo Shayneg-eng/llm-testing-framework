@@ -1,0 +1,19 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-4-Turbo",
+  "length": 1,
+  "replicate": 4,
+  "start_node": 3,
+  "ground_truth_node": 2,
+  "trace": [
+    3,
+    2
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": null,
+  "reasoning_effort_requested": null,
+  "raw_response": "2",
+  "model_answer": 2,
+  "correct": true,
+  "error": null
+}

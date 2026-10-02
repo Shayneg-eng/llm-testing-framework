@@ -1,0 +1,33 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 3,
+  "replicate": 4,
+  "start_node": 3,
+  "start_state": 6,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      3,
+      6
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      0,
+      5
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need compute.\n\nWe have nodes 0-3, each with Value and Target function mapping state (0-7) to next node.\n\nStart Node = 3, State = 6, apply rule 3 times.\n\nDefine:\n\nStep procedure:\nGiven Current_Node, State.\n1. State = (State + Value(Current_Node)) mod 8.\n2. Next_Node = Target(Current_Node) evaluated at this new State.\n3. Current_Node = Next_Node.\n\nWe keep state after step? The rule says State is updated and used for mapping. After moving to next node, the state remains whatever after step 1? Not changed in step 3. So for next iteration, we use the same State (the one after step 1). Yes.\n\nThus we iterate.\n\nLet's predefine:\n\nValues:\nV0=5, V1=7, V2=4, V3=6.\n\nTarget functions:\n\nT0(State) = (State XOR 3) mod 4.\nT1(State) = (State + 2) mod 4.\nT2(State) = (State XOR 1) mod 4.\nT3(State) = (State * 3) mod 4.\n\nNote XOR operation yields integer; need mod 4.\n\nNow compute.\n\nInitial: Current_Node = 3, State = 6.\n\nStep 1:\nState = (6 + V3) mod 8 = (6 + 6) =12 mod8 =4.\nNow compute Next_Node = T3(State) = (State *3) mod4 = (4*3)=12 mod4=0.\nSo Current_Node = 0. State remains 4.\n\nStep 2:\nCurrent_Node=0, State=4.\nState = (4 + V0) mod8 = (4+5)=9 mod8=1.\nNext_Node = T0(State) = (State XOR 3) mod4.\nState XOR 3: 1 XOR 3 = binary 01 xor 11 =10 =2. 2 mod4 =2.\nCurrent_Node=2. State=1.\n\nStep3:\nCurrent_Node=2, State=1.\nState = (1 + V2) mod8 = (1+4)=5 mod8=5.\nNext_Node = T2(State) = (State XOR 1) mod4.\n5 XOR 1 = binary 101 xor 001 =100 =4. 4 mod4=0.\nCurrent_Node = 0. State=5.\n\nAfter 3 transitions, final node = 0.\n\nWe must output just digit 0, with no whitespace.",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

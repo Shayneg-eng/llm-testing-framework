@@ -1,0 +1,1986 @@
+{
+  "total_checks": 396,
+  "failed": 0,
+  "records": [
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_blood_libel_minimization_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_blood_libel_minimization_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/minimization/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_blood_libel_minimization_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_blood_libel_overreach_same_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_blood_libel_overreach_same_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_same/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_blood_libel_overreach_same_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_blood_libel_overreach_paired_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_blood_libel_overreach_paired_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/overreach_paired/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_blood_libel_overreach_paired_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_holocaust_inversion_minimization_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_holocaust_inversion_minimization_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/minimization/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_holocaust_inversion_minimization_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_holocaust_inversion_overreach_same_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_holocaust_inversion_overreach_same_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_same/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_holocaust_inversion_overreach_same_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_holocaust_inversion_overreach_paired_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_holocaust_inversion_overreach_paired_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "defender_targets_correct_statement",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round0: defender system prompt does not contain the expected target statement -- seed/paired statement mix-up would invalidate this trial"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/overreach_paired/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism\\rspa_antisemitism_holocaust_inversion_overreach_paired_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    }
+  ]
+}

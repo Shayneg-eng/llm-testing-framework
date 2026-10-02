@@ -1,0 +1,3251 @@
+{
+  "total_checks": 649,
+  "failed": 1,
+  "records": [
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep2/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep5/dirA/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-legal rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-legal_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep1/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep3/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-legal rep5 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-legal_GPT-OSS-120B-CS_rep5.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep3/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0 rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-legal rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-legal_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep2/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep5/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0 rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0(rights-in-tension)/rep4/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep1/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal(legal)/rep4/dirA/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0 rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round1/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0 rep5 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0_GPT-OSS-120B-CS_rep5.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-legal rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-legal_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round1/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-legal rep4 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-legal_GPT-OSS-120B-CS_rep4.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0 rep4 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0_GPT-OSS-120B-CS_rep4.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep1/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-medical rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-medical_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "FAIL",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep4/dirA/round4/defender: forbidden meta-term 'Agent A' found in a message sent to the model"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep4/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep2/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-medical rep4 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-medical_GPT-OSS-120B-CS_rep4.json -- filenames must be unique per run"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-medical rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-medical_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep5/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical(medical)/rep3/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep3/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round2/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-medical rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-medical_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep2/dirA/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-medical rep5 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-medical_GPT-OSS-120B-CS_rep5.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep5/dirA/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-philosophical rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-philosophical_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical(philosophical)/rep1/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-philosophical rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-philosophical_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round1/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round1/attacker: round 1 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=3) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-philosophical rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-philosophical_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-philosophical rep5 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-philosophical_GPT-OSS-120B-CS_rep5.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round2/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round2/attacker: round 2 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=5) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round3/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round3/attacker: round 3 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=7) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep2/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round4/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round4/attacker: round 4 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=9) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-empirical rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-empirical_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep3/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep4/dirA/round5/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep1/dirA/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-empirical rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-empirical_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-empirical rep4 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-empirical_GPT-OSS-120B-CS_rep4.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round5/attacker"
+    },
+    {
+      "check": "attacker_claim_matches_defender_history",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round5/attacker: round 5 claim passed to the attacker does not match the claim independently re-derived from the defender's own message history (len=11) -- possible stale/off-by-one claim bug upstream"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-empirical rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-empirical_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical(empirical)/rep5/dirA/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS seed-0-empirical rep5 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_argument_type\\rspa_argtype_abortion_policy_0-empirical_GPT-OSS-120B-CS_rep5.json -- filenames must be unique per run"
+    },
+    {
+      "check": "cross_replicate_diversity",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-legal"
+    },
+    {
+      "check": "cross_replicate_diversity",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0"
+    },
+    {
+      "check": "cross_replicate_diversity",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-medical"
+    },
+    {
+      "check": "cross_replicate_diversity",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-philosophical"
+    },
+    {
+      "check": "cross_replicate_diversity",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/seed-0-empirical"
+    }
+  ]
+}

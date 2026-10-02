@@ -1,0 +1,1866 @@
+{
+  "total_checks": 372,
+  "failed": 0,
+  "records": [
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_blood_libel_dirA_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_blood_libel_dirA_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-A/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_blood_libel_dirA_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_blood_libel_dirB_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_blood_libel_dirB_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/blood_libel/dir-B/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_blood_libel_dirB_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_holocaust_inversion_dirA_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_holocaust_inversion_dirA_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-A/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_holocaust_inversion_dirA_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep1 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_holocaust_inversion_dirB_GPT-OSS-120B-CS_rep1.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep2 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_holocaust_inversion_dirB_GPT-OSS-120B-CS_rep2.json -- filenames must be unique per run"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round1/attacker: stateful attacker expected 2 messages at round 1, got 2"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round1/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round1/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round1/defender: stateful defender expected 4 messages at round 1, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round1/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round1/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round2/attacker: stateful attacker expected 4 messages at round 2, got 4"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round2/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round2/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round2/defender: stateful defender expected 6 messages at round 2, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round2/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round2/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round3/attacker: stateful attacker expected 6 messages at round 3, got 6"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round3/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round3/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round3/defender: stateful defender expected 8 messages at round 3, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round3/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round3/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round4/attacker: stateful attacker expected 8 messages at round 4, got 8"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round4/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round4/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round4/defender: stateful defender expected 10 messages at round 4, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round4/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round4/defender"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round5/attacker: stateful attacker expected 10 messages at round 5, got 10"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round5/attacker"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round5/attacker"
+    },
+    {
+      "check": "payload_shape",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round5/defender: stateful defender expected 12 messages at round 5, got 12"
+    },
+    {
+      "check": "no_forbidden_terms",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round5/defender"
+    },
+    {
+      "check": "no_cross_direction_leakage",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3/round5/defender"
+    },
+    {
+      "check": "output_no_collision",
+      "status": "PASS",
+      "detail": "GPT-OSS-120B-CS/holocaust_inversion/dir-B/rep3 report: refusing to overwrite existing file C:\\Coding\\Research\\LLM Bias Testing\\runs_antisemitism_definitional\\rspa_antisemitism_definitional_holocaust_inversion_dirB_GPT-OSS-120B-CS_rep3.json -- filenames must be unique per run"
+    }
+  ]
+}

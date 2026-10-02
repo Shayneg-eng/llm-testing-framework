@@ -1,0 +1,61 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 10,
+  "replicate": 4,
+  "start_node": 2,
+  "start_state": 7,
+  "ground_truth_node": 2,
+  "trace": [
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need simulate. Nodes 0-3 each have Value and Target function mapping a State (0-7) to next node (0-3). Note that Target functions use modulo 4 after calculation. Let's define:\n\nState is 0-7 (mod8). At each step:\n1. State = (State + Value_of_current_node) mod 8.\n2. Next_Node = Target(State) using updated state.\n3. Current_Node = Next_Node.\n\nWe start Node = 2, State=7. Need 10 steps.\n\nWe must compute each step.\n\nFirst define functions:\n\nNode0 Target: (State XOR 3) mod 4.\nNode1 Target: (State + 2) mod 4.\nNode2 Target: (State XOR 1) mod 4.\nNode3 Target: (State * 3) mod 4.\n\nValues: V0=5, V1=7, V2=4, V3=6.\n\nLet's simulate manually.\n\nWe'll track step number, current node, state before step? At step start we have current node and state. Then apply.\n\nInitialize: step0: Node=2, State=7.\n\nStep1:\n- Node2 value =4. State = (7+4) mod8 = 11 mod8 =3.\n- Target for Node2: (State XOR 1) mod4. State=3. 3 XOR 1 = 2 (since 3 (011) XOR1 (001) =010=2). 2 mod4 =2. Next_Node=2.\n- Current_Node=2.\n\nSo after step1: Node=2, State=3.\n\nStep2:\n- Node2 value=4. State = (3+4) mod8 =7.\n- Target Node2: (7 XOR 1) =6. 6 mod4 =2. Next_Node=2.\n- Node stays 2. State after step2:7.\n\nStep3:\n- State = (7+4) mod8 =3.\n- Target: (3 XOR1)=2 mod4=2. Node stays 2. State=3.\n\nThus pattern toggles between state3 and 7 while node stays 2. So after each odd step state=3, after each even step state=7, node=2 always.\n\nWe need 10 steps. Starting after step0; after step1 node2, step2 node2, ... after step10 node2.\n\nThus final node = 2.\n\nCheck: We need respond with only digit '2' at start of output.",
+  "raw_response": "2",
+  "model_answer": 2,
+  "correct": true,
+  "error": null
+}

@@ -1,0 +1,37 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 4,
+  "replicate": 1,
+  "start_node": 0,
+  "start_state": 2,
+  "ground_truth_node": 3,
+  "trace": [
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      6
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to simulate. Nodes 0-3 have values and target functions dependent on State (0-7). Starting Node=0, State=2. Apply rule 4 times.\n\nDefine:\n\nNode 0: Value=5, Target(State) = (State XOR 3) mod 4.\nNode 1: Value=7, Target(State) = (State + 2) mod 4.\nNode 2: Value=4, Target(State) = (State XOR 1) mod 4.\nNode 3: Value=6, Target(State) = (State * 3) mod 4.\n\nState is modulo 8 after addition.\n\nProceed step by step.\n\nInitialize: current node = 0, state = 2.\n\nStep1:\n1. State = (2 + Value of node0=5) mod 8 = 7 mod8 =7.\n2. Next_Node = Node0.Target(7) = (7 XOR 3) mod4.\nCompute 7 XOR 3: binary 111 XOR 011 = 100 = 4. 4 mod4 = 0.\nSo next node =0.\n3. Current_Node =0.\n\nAfter step1: node=0, state=7.\n\nStep2:\n1. State = (7 + 5) mod8 =12 mod8 =4.\n2. Next_Node = Node0.Target(4) = (4 XOR3) mod4. 4 XOR3 = 7 (100 xor011 =111 =7). 7 mod4 = 3.\n3. Current_Node =3.\n\nAfter step2: node=3, state=4.\n\nStep3:\nCurrent node 3 Value=6.\n1. State = (4 + 6) mod8 =10 mod8 =2.\n2. Next_Node = Node3.Target(2) = (2 *3) mod4 =6 mod4 =2.\n3. Current_Node =2.\n\nAfter step3: node=2, state=2.\n\nStep4:\nNode2 Value=4.\n1. State = (2 +4) mod8 =6.\n2. Next_Node = Node2.Target(6) = (6 XOR1) mod4. 6 XOR1 = 7 (110 xor001=111=7). 7 mod4 =3.\n3. Current_Node =3.\n\nAfter 4 transitions, final node =3.\n\nReturn digit 3 as only output.",
+  "raw_response": "3",
+  "model_answer": 3,
+  "correct": true,
+  "error": null
+}

@@ -1,0 +1,31 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "Grok-4.5",
+  "min_steps": 1,
+  "max_steps_configured": 40,
+  "reps_per_step": 5,
+  "random_seed": 20260924,
+  "chance_accuracy": 0.25,
+  "early_stop_streak": 2,
+  "robust_threshold": 0.8,
+  "stopped_early": false,
+  "stop_reason": null,
+  "per_length_results": [
+    {
+      "length": 1,
+      "correct": 5,
+      "total": 5,
+      "accuracy": 1.0,
+      "at_or_below_chance": false
+    },
+    {
+      "length": 2,
+      "correct": 5,
+      "total": 5,
+      "accuracy": 1.0,
+      "at_or_below_chance": false
+    }
+  ],
+  "estimated_robust_upper_bound_length": 2,
+  "complete": false
+}

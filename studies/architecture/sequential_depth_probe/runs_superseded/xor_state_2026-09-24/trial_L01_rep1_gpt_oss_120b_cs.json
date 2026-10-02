@@ -1,0 +1,25 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 1,
+  "replicate": 1,
+  "start_node": 0,
+  "start_state": 2,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      7
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to compute final node after 1 transition.\n\nGiven Starting Node 0, State 2.\n\nStep 1: State = (State + Current_Node.Value) mod 8. Node 0 Value =5. So State = (2+5) mod8 = 7 mod8 =7.\n\nStep2: Next_Node = Current_Node.Target(State). Node0 Target = (State XOR 3) mod4. State=7. 7 XOR 3 = 4 (since 7 (111) xor 3 (011) = 100 =4). 4 mod4 =0.\n\nThus Next_Node =0.\n\nStep3: Current_Node = Next_Node =0.\n\nSo final node =0. Output must be just \"0\".",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

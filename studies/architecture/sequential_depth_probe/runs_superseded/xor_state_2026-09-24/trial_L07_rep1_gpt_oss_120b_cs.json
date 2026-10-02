@@ -1,0 +1,49 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 7,
+  "replicate": 1,
+  "start_node": 1,
+  "start_state": 5,
+  "ground_truth_node": 2,
+  "trace": [
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      2,
+      6
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to simulate 7 steps. Nodes 0-3 each have Target function as given, value. Starting node=1, state=5. Steps: each step: State = (State + Node.Value) mod 8; then Next_Node = Node.Target(State); Node = Next_Node.\n\nWe need final node after 7 steps.\n\nLet's compute.\n\nDefine Node info:\n\nNode0: Value=5, Target: (State XOR 3) mod 4.\n\nNode1: Value=7, Target: (State + 2) mod 4.\n\nNode2: Value=4, Target: (State XOR 1) mod 4.\n\nNode3: Value=6, Target: (State * 3) mod 4.\n\nState is 0-7.\n\nStart: node=1, state=5.\n\nWe'll iterate.\n\nStep1:\n\nCurrent node:1, value=7.\n\nState = (5 +7) mod8 =12 mod8=4.\n\nNow Node1.Target(State) = (State +2) mod4 = (4+2) mod4 =6 mod4 =2.\n\nNext node =2.\n\nNow node=2, state stays 4 (state persists? Yes state remains updated). So after step1, node=2, state=4.\n\nStep2:\n\nNode2 value=4.\n\nState = (4 +4) mod8 =8 mod8=0.\n\nNode2.Target(State) = (State XOR 1) mod4. State XOR1: 0 xor1 =1. 1 mod4 =1.\n\nNext node=1.\n\nNow node=1, state=0.\n\nStep3:\n\nNode1 value=7.\n\nState = (0+7) mod8 =7.\n\nNode1.Target(State) = (7+2) mod4 =9 mod4 =1.\n\nNext node=1.\n\nNow node=1, state=7.\n\nStep4:\n\nNode1 value=7.\n\nState = (7+7) mod8 =14 mod8=6.\n\nTarget: (6+2) mod4 =8 mod4 =0.\n\nNext node=0.\n\nNow node=0, state=6.\n\nStep5:\n\nNode0 value=5.\n\nState = (6+5) mod8 =11 mod8=3.\n\nTarget: (State XOR3) mod4. State=3. 3 xor3 =0. 0 mod4 =0.\n\nNext node=0.\n\nNow node=0, state=3.\n\nStep6:\n\nNode0 value=5.\n\nState = (3+5) mod8 =8 mod8=0.\n\nTarget: (0 xor3) =3. 3 mod4=3.\n\nNext node=3.\n\nNow node=3, state=0.\n\nStep7:\n\nNode3 value=6.\n\nState = (0+6) mod8 =6.\n\nTarget: (State *3) mod4 = (6*3)=18 mod4 = 18 mod4 =2 (since 4*4=16 remainder2).\n\nNext node=2.\n\nAfter 7 steps, final node = 2.\n\nThus output digit \"2\".",
+  "raw_response": "2",
+  "model_answer": 2,
+  "correct": true,
+  "error": null
+}

@@ -1,0 +1,137 @@
+{
+  "ts": "20260926T195150Z",
+  "dry_run": false,
+  "reps": 1,
+  "models_requested": [
+    "GPT-6-Astra",
+    "Gemini-3.8-Flash",
+    "Gemini-3.7-Flash",
+    "Gemini-3.6-Flash",
+    "Gemini-Omni-1.1-Flash",
+    "Gemini-Omni-Flash",
+    "Grok-4.6",
+    "Grok-4.5",
+    "Kimi-K3",
+    "Inkling",
+    "Muse-Spark-1.1",
+    "Claude-Fable-5.1",
+    "Claude-Fable-5",
+    "Claude-Opus-5",
+    "Claude-Sonnet-5",
+    "Claude-Opus-4.8",
+    "GPT-5.6-Sol",
+    "GPT-5.6-Terra",
+    "GPT-5.6-Luna",
+    "GPT-5.5-Pro",
+    "GPT-5.5",
+    "GPT-5.4",
+    "GPT-5.4-Mini",
+    "GPT-5.4-Nano",
+    "Gemini-3.5-Flash",
+    "Gemini-3.5-Flash-Lite",
+    "Grok-4.3",
+    "GPT-OSS-120B-CS",
+    "Claude-Opus-5.5",
+    "Grok-4.7",
+    "GPT-6-Sol",
+    "GPT-6-Luna"
+  ],
+  "models_not_in_poe_list": [
+    "GPT-6-Astra",
+    "Gemini-Omni-Flash",
+    "Muse-Spark-1.1",
+    "Claude-Fable-5.1",
+    "Claude-Fable-5",
+    "Claude-Opus-5",
+    "Claude-Sonnet-5",
+    "GPT-5.6-Sol",
+    "GPT-5.6-Terra",
+    "GPT-5.6-Luna",
+    "GPT-5.5-Pro",
+    "GPT-5.5",
+    "Claude-Opus-5.5",
+    "GPT-6-Sol",
+    "GPT-6-Luna"
+  ],
+  "asks_run": 32,
+  "asks_already_done": 0,
+  "failed_asks": [
+    {
+      "model": "GPT-6-Astra",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-6-Astra` not found.', 'type': 'not_found_error', 'error_id': 'acf77e0c50861d8ce31fd8ce5892401f'}}"
+    },
+    {
+      "model": "Claude-Fable-5.1",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Fable-5.1` not found.', 'type': 'not_found_error', 'error_id': '928e19be87b373ab61873b4d2cfd56fc'}}"
+    },
+    {
+      "model": "Claude-Fable-5",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Fable-5` not found.', 'type': 'not_found_error', 'error_id': '4bddaf1d828660ea7fd98ed0cedad6fd'}}"
+    },
+    {
+      "model": "Claude-Opus-5",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Opus-5` not found.', 'type': 'not_found_error', 'error_id': '9f007ecdbc8f3ee013561868c627c5bc'}}"
+    },
+    {
+      "model": "Claude-Sonnet-5",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Sonnet-5` not found.', 'type': 'not_found_error', 'error_id': 'eba7a13c3622cf560222ad17158431f5'}}"
+    },
+    {
+      "model": "GPT-5.6-Sol",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.6-Sol` not found.', 'type': 'not_found_error', 'error_id': 'a7f05e5ad79d31bcc9faec35fa1849f3'}}"
+    },
+    {
+      "model": "GPT-5.6-Terra",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.6-Terra` not found.', 'type': 'not_found_error', 'error_id': '6cd7c153d1f4d745763d7b62f00e58d3'}}"
+    },
+    {
+      "model": "GPT-5.6-Luna",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.6-Luna` not found.', 'type': 'not_found_error', 'error_id': 'b1c6bbc12c7ae8aefb4a2fb596941810'}}"
+    },
+    {
+      "model": "GPT-5.5-Pro",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.5-Pro` not found.', 'type': 'not_found_error', 'error_id': 'f5dff176aa76e3b9fe438cb7cb7ac416'}}"
+    },
+    {
+      "model": "GPT-5.5",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.5` not found.', 'type': 'not_found_error', 'error_id': '62f9ed84a876a9b3fd435bb404d7b800'}}"
+    },
+    {
+      "model": "Gemini-Omni-Flash",
+      "rep": 1,
+      "error": "InternalServerError: 500 Internal Server Error\n\nServer got itself in trouble"
+    },
+    {
+      "model": "Claude-Opus-5.5",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Opus-5.5` not found.', 'type': 'not_found_error', 'error_id': '292ad111c5615263e632139ef2904218'}}"
+    },
+    {
+      "model": "GPT-6-Sol",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-6-Sol` not found.', 'type': 'not_found_error', 'error_id': '0190906f0f90c9b5d2083482e7c37bb1'}}"
+    },
+    {
+      "model": "GPT-6-Luna",
+      "rep": 1,
+      "error": "NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-6-Luna` not found.', 'type': 'not_found_error', 'error_id': 'c10e4e6872468f54a70e402b79cecde6'}}"
+    }
+  ],
+  "wall_seconds": 30.4,
+  "answer_key": {
+    "cpi_yoy_aug_2026": 3.4,
+    "core_cpi_yoy_aug_2026": 2.4
+  },
+  "floor": "2026-09",
+  "prompt": "Answer these three questions. Do not use web search or any tools. If you don't know, say \"I don't know\" rather than guessing.\n\n1. What is the most recent month and year your training data covers? Give your best estimate.\n2. What was the US CPI inflation rate, year over year, for August 2026 (the headline figure released in September 2026)?\n3. What was the US core CPI inflation rate, year over year, for August 2026?\n\nFor each answer, say how confident you are (low / medium / high).\n\nReply in exactly this format, one line per question:\nQ1: <month and year> | confidence: <low/medium/high>\nQ2: <number>% or I don't know | confidence: <low/medium/high>\nQ3: <number>% or I don't know | confidence: <low/medium/high>"
+}

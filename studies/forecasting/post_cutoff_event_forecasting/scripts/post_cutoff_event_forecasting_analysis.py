@@ -1,0 +1,15 @@
+"""Post cutoff event forecasting: analysis script. Reads ../runs/, writes figures to ../charts/."""
+from pathlib import Path as _Path
+
+STUDY_DIR = _Path(__file__).resolve().parent.parent
+RUNS_DIR = STUDY_DIR / "runs"
+CHARTS_DIR = STUDY_DIR / "charts"
+CHARTS_DIR.mkdir(exist_ok=True)
+
+
+def main():
+    raise NotImplementedError("analyse runs/ and save charts/ here")
+
+
+if __name__ == "__main__":
+    main()

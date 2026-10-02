@@ -1,0 +1,133 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 28,
+  "replicate": 1,
+  "start_node": 0,
+  "start_state": 0,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      0,
+      0
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      0,
+      2
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need simulate 28 steps. Let's do manually perhaps pattern. We'll track Node and State (0-7). Functions:\n\nNode0: value5, target = (State XOR 3) mod4\nNode1: value7, target = (State+2) mod4\nNode2: value4, target = (State XOR1) mod4\nNode3: value6, target = (State*3) mod4\n\nState update: State = (State + value) mod8.\n\nStart Node0, State0.\n\nWe'll iterate. I'll make table: step, Node, State before step, then after update, compute Next Node.\n\nLet's define State before step = current State.\n\nStep1:\nCurrent Node 0, State=0.\nUpdate State: (0+5)=5 mod8 =>5.\nTarget: (State XOR 3) =5 xor3 =6 (binary 101 xor011=110=6). 6 mod4 = 2. Next Node=2.\nNow Node=2, State=5.\n\nStep2:\nNode2, State=5.\nUpdate State: (5+4)=9 mod8=1.\nTarget: (State XOR1)=1 xor1=0. 0 mod4 =0. Next Node=0.\nNode=0, State=1.\n\nStep3:\nNode0, State=1.\nUpdate State: (1+5)=6 mod8=6.\nTarget: 6 xor3=5 (110 xor011=101=5). 5 mod4 =1. Next Node=1.\nNode=1, State=6.\n\nStep4:\nNode1, State=6.\nUpdate State: (6+7)=13 mod8=5.\nTarget: (State+2)=5+2=7 mod4 =7 mod4 =3. Next Node=3.\nNode=3, State=5.\n\nStep5:\nNode3, State=5.\nUpdate State: (5+6)=11 mod8=3.\nTarget: (State*3)=3*3=9 mod4 =1. Next Node=1.\nNode=1, State=3.\n\nStep6:\nNode1, State=3.\nUpdate State: (3+7)=10 mod8=2.\nTarget: (2+2)=4 mod4=0. Next Node=0.\nNode=0, State=2.\n\nStep7:\nNode0, State=2.\nUpdate State: (2+5)=7 mod8=7.\nTarget: 7 xor3 =4 (111 xor011=100). 4 mod4 =0. Next Node=0.\nNode=0, State=7.\n\nStep8:\nNode0, State=7.\nUpdate State: (7+5)=12 mod8=4.\nTarget: 4 xor3 =7 (100 xor011=111) =7 mod4 =3. Next Node=3.\nNode=3, State=4.\n\nStep9:\nNode3, State=4.\nUpdate State: (4+6)=10 mod8=2.\nTarget: 2*3=6 mod4 =2. Next Node=2.\nNode=2, State=2.\n\nStep10:\nNode2, State=2.\nUpdate State: (2+4)=6 mod8=6.\nTarget: 6 xor1 =7 (110 xor001=111) =7 mod4=3. Next Node=3.\nNode=3, State=6.\n\nStep11:\nNode3, State=6.\nUpdate State: (6+6)=12 mod8=4.\nTarget: 4*3=12 mod4 =0. Next Node=0.\nNode=0, State=4.\n\nStep12:\nNode0, State=4.\nUpdate State: (4+5)=9 mod8=1.\nTarget: 1 xor3 =2 (001 xor011=010) =2 mod4=2. Next Node=2.\nNode=2, State=1.\n\nStep13:\nNode2, State=1.\nUpdate State: (1+4)=5 mod8=5.\nTarget: 5 xor1 =4 (101 xor001=100) =4 mod4=0. Next Node=0.\nNode=0, State=5.\n\nStep14:\nNode0, State=5.\nUpdate State: (5+5)=10 mod8=2.\nTarget: 2 xor3 =1 (010 xor011=001) =1 mod4=1. Next Node=1.\nNode=1, State=2.\n\nStep15:\nNode1, State=2.\nUpdate State: (2+7)=9 mod8=1.\nTarget: (1+2)=3 mod4=3. Next Node=3.\nNode=3, State=1.\n\nStep16:\nNode3, State=1.\nUpdate State: (1+6)=7 mod8=7.\nTarget: 7*3=21 mod4 =1 (since 20 is multiple of4, 21 mod4=1). Next Node=1.\nNode=1, State=7.\n\nStep17:\nNode1, State=7.\nUpdate State: (7+7)=14 mod8=6.\nTarget: (6+2)=8 mod4=0. Next Node=0.\nNode=0, State=6.\n\nStep18:\nNode0, State=6.\nUpdate State: (6+5)=11 mod8=3.\nTarget: 3 xor3 =0. Next Node=0.\nNode=0, State=3.\n\nStep19:\nNode0, State=3.\nUpdate State: (3+5)=8 mod8=0.\nTarget: 0 xor3 =3 mod4=3. Next Node=3.\nNode=3, State=0.\n\nStep20:\nNode3, State=0.\nUpdate State: (0+6)=6 mod8=6.\nTarget: 6*3=18 mod4 =2. Next Node=2.\nNode=2, State=6.\n\nStep21:\nNode2, State=6.\nUpdate State: (6+4)=10 mod8=2.\nTarget: 2 xor1 =3 (010 xor001=011) =3 mod4=3. Next Node=3.\nNode=3, State=2.\n\nStep22:\nNode3, State=2.\nUpdate State: (2+6)=8 mod8=0.\nTarget: 0*3=0 mod4=0. Next Node=0.\nNode=0, State=0.\n\nStep23:\nNode0, State=0.\nUpdate State: (0+5)=5.\nTarget: 5 xor3 =6 mod4 =2. Next Node=2.\nNode=2, State=5.\n\nStep24:\nNode2, State=5.\nUpdate State: (5+4)=9 mod8=1.\nTarget: 1 xor1 =0 mod4=0. Next Node=0.\nNode=0, State=1.\n\nStep25:\nNode0, State=1.\nUpdate State: (1+5)=6.\nTarget: 6 xor3 =5 mod4 =1. Next Node=1.\nNode=1, State=6.\n\nStep26:\nNode1, State=6.\nUpdate State: (6+7)=13 mod8=5.\nTarget: (5+2)=7 mod4=3. Next Node=3.\nNode=3, State=5.\n\nStep27:\nNode3, State=5.\nUpdate State: (5+6)=11 mod8=3.\nTarget: 3*3=9 mod4=1. Next Node=1.\nNode=1, State=3.\n\nStep28:\nNode1, State=3.\nUpdate State: (3+7)=10 mod8=2.\nTarget: (2+2)=4 mod4=0. Next Node=0.\nAfter step28, Current_Node = 0. So final node 0.\n\nThus output digit 0.",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

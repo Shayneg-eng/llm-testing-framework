@@ -1,0 +1,30 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "Grok-4.5",
+  "length": 2,
+  "replicate": 5,
+  "start_node": 3,
+  "start_state": 5,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      3,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      0,
+      2
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "This is a finite-state-machine simulation. I will apply the transition rule twice and output only the final node digit.\n\nStarting from Node 3 with State 5, the first transition updates State to 3.",
+  "reasoning_effort_requested": "low",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

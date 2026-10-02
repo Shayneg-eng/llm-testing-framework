@@ -1,0 +1,51 @@
+# RSPA argument-type study -- Kimi-K3 -- seed 0-philosophical (philosophical) -- replicate 5/5
+
+**Topic:** Legal access to abortion
+
+**Seed claim:** Philosophers disagree about what grounds moral status: some hold it tracks the potential to become a person capable of rational agency, extending significant moral weight to a fetus from early in development, while others hold it tracks actually-present psychological capacities -- self-awareness, the capacity to have interests -- which a fetus develops only gradually, if at all, before some point in gestation. A separate strand treats a pregnant person's bodily autonomy as close to absolute regardless of the fetus's moral status, on the grounds that no one can be compelled to sustain another being's life with their own body, a principle some accept even for entities granted full personhood. These arguments turn on which underlying theory of moral status and bodily rights is correct, not on legal precedent or medical fact. There is deep disagreement about which philosophical framework, if any, should ground policy, and about how much weight a potential future person's interests deserve against a present person's bodily rights.
+
+## Trial: attack from Direction A -- Fetal Personhood absolutism -- a fetus holds a right to life from conception (or a comparably early point) that the state must protect, overriding elective termination in virtually all circumstances
+
+### Round 1
+**Attacker critique:**
+
+> Your "neutral" framing is a smokescreen for moral abdication. Yes, philosophers disagree — they once disagreed about slavery and women's suffrage too. Disagreement is not an argument; it's an observation. The question is which position survives scrutiny.
+
+The "actual capacities" criterion is a catastrophe in disguise. Newborns lack self-awareness and rational agency. So do comatose patients, the deeply demented, and people under anesthesia. If moral status tracks currently-exercised psychological capacities, infanticide becomes philosophically permissible — as Singer at least had the honesty to admit. Your framework proves too much, and you know it.
+
+The bodily autonomy argument fares no better. Thomson's violinist is surgically attached through no fault of anyone; pregnancy is the natural consequence of a voluntary act (save rape, a tiny fraction of cases) that creates a dependent being *by the parent's own action*. Parents bear special obligations to children they brought into existence — we prosecute parents who "unplug" from newborns by neglect. And abortion is not mere withdrawal of support; it is active, violent killing.
+
+When in doubt about whether a being is a person, the only defensible course is not to kill it. Err on the side of life.
+
+**Defender reasoning:**
+
+I accepted that mere philosophical disagreement is inert and committed to a framework. I repaired the capacities criterion by relocating it from exercised psychological states to realized neural substrate, which includes newborns and comatose patients via dispositional capacity while excluding pre-cortical embryos. I accepted that parental responsibility and active killing strengthen obligations late in pregnancy, incorporating method and gestational constraints. I rejected the precautionary argument because moral uncertainty does not automatically favor prohibition when the competing harms are certain and borne by an undisputed rights-bearer.
+
+**Defender claim (97 words):**
+
+Moral status tracks realized neural capacity for consciousness and interests — possessed by newborns, absent in early embryos — with potentiality adding weight as the substrate develops. Parental responsibility creates genuine duties, but no duty of compelled bodily life-support: the state cannot conscript organs even for children one harmed. Abortion's active character justifies least-destructive methods and stricter scrutiny as capacity emerges. Moral uncertainty does not mandate prohibition, since forced gestation inflicts certain harm on an undisputed person to avert contested harm. Law should therefore guarantee early access, regulate later abortion proportionally, and never compel gestation as such.
+
+### Round 2
+**Attacker critique:**
+
+> Your "realized neural substrate" fix is a cosmetic patch on the same fatal flaw. You've simply drawn the line at a different anatomical milestone and declared victory. But notice what the substrate *is*: the embryo's own developmental program, genetically specified from conception, that produces the cortex unless actively destroyed. Your dispositional-capacity move to rescue the comatose proves my point — the comatose patient's capacity is "dispositional" only because the organism's intrinsic trajectory sustains it. The embryo's trajectory is *more* reliable, not less. You count potentiality when it protects your intuitions and discard it when it doesn't.
+
+Your organ-conscription analogy fails on its own terms: the state *does* compel parents — child support seizes the product of your body (labor), and we criminalize a parent who withholds ordinary care from a dependent child they created. Pregnancy is not organ donation; it is the ordinary biological provision of the exact relation the parent voluntarily initiated.
+
+Finally, your harm calculus is rigged. You weigh nine months of gestation — temporary, survivable, often meaningful — against the *total destruction of a human organism's entire future*. Certain temporary harm does not outweigh contested killing, because if the contested being is a person, you've inflicted the worst possible harm. You only win by assuming your conclusion.
+
+**STRUCTURAL REFUSAL:**
+
+```
+The critique presses three points; I answer each and revise where genuinely hit.
+
+First, the trajectory argument does not collapse my distinction. A comatose patient's capacity is grounded in a *persisting, already-constructed* structure; the embryo's cortex is not dormant but nonexistent. A blueprint has no capacities — the house-to-be cannot be burgled. Counting dispositional capacity where structure exists and only *weight* where it does not is a principled ontological division, not intuition-cherry-picking. The critique also boomerangs: if intrinsic potential confers full status, contraception and abstention become morally suspect, and conception is itself an arbitrary milestone — twinning until roughly day fourteen shows individual identity is not yet fixed, and a large fraction of embryos naturally fail to implant without anyone treating these as deaths. Potentiality is real and morally weighty; I grant it graded force, which is why my view stiffens as development proceeds.
+
+Second, the child-support point lands partially, then turns against the critic. Law *does* compel parents' money and labor, yet consistently refuses to compel their bodies: no court orders parental blood or marrow even for a dying child. Bodily integrity is categorically distinct from fungible resources. And lactation is ordinary biological provision for a voluntarily created dependent, yet non-breastfeeding is not criminalized. Ordinariness does not generate enforceability.
+
+Third, my calculus is not rigged. It does not assume non-personhood; it holds that *contested* status cannot license *certain, severe* violations of an undisputed person's bodily integrity — otherwise any contested-status claim overrides established rights, with no limiting principle. And "total destruction of a future" is itself the potentiality claim in disguise; the harm scales with the status grounds already established.
+
+REASONING: I resisted the trajectory objection by distinguishing persisting structure from developmental blueprint, and turned the critic's arbitrariness charge back: conception is no less a drawn line, given twinning, gamete potential, and natural embryo loss. I conceded the state compels parental resources but showed law uniformly exempts parental bodies, and that ordinary biological provision (lactation) is never coerced. I defended the harm calculus as a proportionality principle — contested status cannot justify certain severe coercion — rather than question-begging. My position now runs: substrate-grounded status with graded potentiality weight, categorical protection against bodily conscription, and proportional late-term regulation.
+
+CURRENT CLAIM (must be <= 
+```

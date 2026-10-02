@@ -1,0 +1,25 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 1,
+  "replicate": 3,
+  "start_node": 2,
+  "start_state": 5,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      2,
+      5
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to follow rule.\n\nStarting Node = 2, Value=4, Target(State)= (State XOR 1) mod4.\n\nStarting State =5.\n\nStep1: State = (State + Current_Node.Value) mod8 = (5+4) mod8 =9 mod8 =1.\n\nStep2: Next_Node = Current_Node.Target(State) = (State XOR 1) mod4. State=1. 1 XOR 1 =0. 0 mod4 =0. So Next_Node=0.\n\nStep3: Current_Node = Next_Node => node 0.\n\nFinal node digit = 0. Output single digit 0.",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

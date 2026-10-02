@@ -1,0 +1,2060 @@
+[
+  {
+    "id": "amazon-nova-canvas",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Note: This model will be retired on September 30, 2026\nAmazon Nova Canvas is a high-quality image\u2010generation model that ",
+    "created": 1757741443323
+  },
+  {
+    "id": "amazon-nova-reel-1.1",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Amazon Nova Reel 1.1 is an advanced AI video generation model that creates up to 2-minute multi-shot videos from text an",
+    "created": 1757629656513
+  },
+  {
+    "id": "assistant",
+    "owned_by": "Poe",
+    "description": "General-purpose assistant. Write, code, ask for real-time information, create images, and more.\n\nQueries are automatical",
+    "created": 1694610718936
+  },
+  {
+    "id": "bria-eraser",
+    "owned_by": "fal",
+    "description": "Bria Eraser enables precise removal of unwanted objects from images while maintaining high-quality outputs. Trained excl",
+    "created": 1739957916196
+  },
+  {
+    "id": "canvas-creator",
+    "owned_by": "Poe Tools",
+    "description": "Specializes in building interactive web applications designed for publishing as apps on Poe. Powered by Claude Code.\n\nSe",
+    "created": 1758612381235
+  },
+  {
+    "id": "cartesia-ink-whisper",
+    "owned_by": "Cartesia AI",
+    "description": "Transcribe audio files using Speech-to-Text with the Cartesia Ink Whisper model.\n\nSelect the Language of your audio file",
+    "created": 1757628728993
+  },
+  {
+    "id": "clarity-upscaler",
+    "owned_by": "fal",
+    "description": "Upscales images with high fidelity to the original image. \n\nOptional parameters:\nUpscale_factor (value is a number betwe",
+    "created": 1736160594594
+  },
+  {
+    "id": "claude-code",
+    "owned_by": "Poe Tools",
+    "description": "A powerful assistant that can read, write, and analyze files across many formats.  It can also delegate to other Poe bot",
+    "created": 1764280744155
+  },
+  {
+    "id": "claude-haiku-4.5",
+    "owned_by": "Anthropic",
+    "description": "Claude Haiku 4.5 is Anthropic\u2019s fastest and most efficient model, delivering near-frontier intelligence at a fraction of",
+    "created": 1760556959473
+  },
+  {
+    "id": "claude-opus-4.5",
+    "owned_by": "Anthropic",
+    "description": "Claude Opus 4.5 from Anthropic, supports customizable thinking budget (up to 64k tokens) and 200k context window.",
+    "created": 1763768938036
+  },
+  {
+    "id": "claude-opus-4.6",
+    "owned_by": "Anthropic",
+    "description": "Claude Opus 4.6 is Anthropic\u2019s most advanced AI model, built for deep reasoning, complex coding, and long\u2011running autono",
+    "created": 1770248062467
+  },
+  {
+    "id": "claude-opus-4.7",
+    "owned_by": "Anthropic",
+    "description": "Anthropic\u2019s flagship model for enterprise-grade knowledge work. Powered by an Extended Thinking Mode and an optimized Mo",
+    "created": 1776230250028
+  },
+  {
+    "id": "claude-opus-4.8",
+    "owned_by": "Anthropic",
+    "description": "Anthropic's flagship model for enterprise-grade knowledge work, now with sharper judgment and significantly improved hon",
+    "created": 1779988699777
+  },
+  {
+    "id": "claude-sonnet-4.5",
+    "owned_by": "Anthropic",
+    "description": "Claude Sonnet 4.5 represents a major leap forward in AI capability and alignment. It is the most advanced model released",
+    "created": 1758868894776
+  },
+  {
+    "id": "claude-sonnet-4.6",
+    "owned_by": "Anthropic",
+    "description": "Claude Sonnet 4.6 from Anthropic is built for high-quality conversations, advanced coding, and agentic workflows at scal",
+    "created": 1770262891433
+  },
+  {
+    "id": "code-editor",
+    "owned_by": "Poe Tools",
+    "description": "Official code editor for Poe Scripting using Python, used to connect multiple Poe bots and create AI workflows. Guide an",
+    "created": 1748902288662
+  },
+  {
+    "id": "code-saver",
+    "owned_by": "Poe Tools",
+    "description": "A system bot that handles Poe scripts in chat.",
+    "created": 1754063583549
+  },
+  {
+    "id": "deep-ai-search",
+    "owned_by": "Open-Source-Lab",
+    "description": "Deep search engine that integrates Brave AI with real-time web search. This research assistant executes commands, valida",
+    "created": 1753262625533
+  },
+  {
+    "id": "deepgram-nova-3",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Transcribe audio files using Speech-to-Text technology with the Deepgram Nova-3 model, featuring multi-language support ",
+    "created": 1753875390474
+  },
+  {
+    "id": "deepreasoning",
+    "owned_by": "EmpirioLabs AI",
+    "description": "DeepReasoning (previously DeepClaude) is a high-performance LLM inference that combines DeepSeek R1's Chain of Thought (",
+    "created": 1740454833334
+  },
+  {
+    "id": "deepseek-r1-di",
+    "owned_by": "DeepInfra",
+    "description": "Top open-source reasoning LLM rivaling OpenAI's o1 model; delivers top-tier performance across math, code, and reasoning",
+    "created": 1740487208576
+  },
+  {
+    "id": "deepseek-r1-n",
+    "owned_by": "Novita AI",
+    "description": "DeepSeek R1 0528 is the latest open-source model released by the DeepSeek team, featuring impressive reasoning capabilit",
+    "created": 1754049641148
+  },
+  {
+    "id": "deepseek-r1-turbo-di",
+    "owned_by": "DeepInfra",
+    "description": "Top open-source reasoning LLM rivaling OpenAI's o1 model; delivers top-tier performance across math, code, and reasoning",
+    "created": 1741250889407
+  },
+  {
+    "id": "deepseek-v3",
+    "owned_by": "DeepSeek",
+    "description": "DeepSeek V3 is DeepSeek's mixture-of-experts flagship chat model for general text tasks and tool use.",
+    "created": 1786647234827
+  },
+  {
+    "id": "deepseek-v3-di",
+    "owned_by": "DeepInfra",
+    "description": "Deepseek-v3 \u2013 the new top open-source LLM. Achieves state-of-the-art performance in tasks such as coding, mathematics, a",
+    "created": 1739797458982
+  },
+  {
+    "id": "deepseek-v3-turbo-di",
+    "owned_by": "DeepInfra",
+    "description": "Deepseek-v3 \u2013 the new top open-source LLM. Achieves state-of-the-art performance in tasks such as coding, mathematics, a",
+    "created": 1741250579199
+  },
+  {
+    "id": "deepseek-v3.1",
+    "owned_by": "DeepSeek",
+    "description": "DeepSeek V3.1 is a long-context model for coding, tool use, and agentic tasks.",
+    "created": 1783976464218
+  },
+  {
+    "id": "deepseek-v3.2",
+    "owned_by": "DeepSeek",
+    "description": "DeepSeek V3.2 is DeepSeek's efficient model for long-context reasoning and agentic tool-use tasks.",
+    "created": 1784595521249
+  },
+  {
+    "id": "deepseek-v3.2-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "This model is retiring on 2026-10-10. Please switch to: https://poe.com/DeepSeek-V4-Pro-EL\nDeepSeek V3.2 is a powerful o",
+    "created": 1775491301503
+  },
+  {
+    "id": "deepseek-v3.2-exp",
+    "owned_by": "Novita AI",
+    "description": "DeepSeek-V3.2-Exp is an experimental model introducing the groundbreaking DeepSeek Sparse Attention (DSA) mechanism for ",
+    "created": 1759164328100
+  },
+  {
+    "id": "deepseek-v4-0731",
+    "owned_by": "Novita AI",
+    "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total.",
+    "created": 1785592367749
+  },
+  {
+    "id": "deepseek-v4-flash",
+    "owned_by": "DeepSeek",
+    "description": "DeepSeek V4 Flash is a text model in DeepSeek\u2019s V4 family with reasoning and tool-use capabilities.",
+    "created": 1785432092693
+  },
+  {
+    "id": "deepseek-v4-flash-e",
+    "owned_by": "EmpirioLabs AI",
+    "description": "This model is retiring on 2026-10-10. Please switch to: https://poe.com/DS-V4-Flash-0731-EL\nDeepSeek V4 Flash is a highl",
+    "created": 1778631794089
+  },
+  {
+    "id": "deepseek-v4-pro",
+    "owned_by": "DeepSeek",
+    "description": "DeepSeek V4 Pro is DeepSeek\u2019s text model with long-context efficiency, reasoning, and tool-use capabilities.",
+    "created": 1785432092601
+  },
+  {
+    "id": "deepseek-v4-pro-0813",
+    "owned_by": "Novita AI",
+    "description": "deepseek/deepseek-v4-pro-0813 powered by Novita AI\n\nFile Support: Text, Markdown and PDF files\nContext window: 1M tokens",
+    "created": 1786708273920
+  },
+  {
+    "id": "deepseek-v4-pro-0813-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "DeepSeek V4 Pro 0813 is the official DeepSeek Pro release with stronger agent, coding, and tool-use performance. It acce",
+    "created": 1786740564133
+  },
+  {
+    "id": "deepseek-v4-pro-e",
+    "owned_by": "EmpirioLabs AI",
+    "description": "DeepSeek V4 Pro is a flagship Mixture-of-Experts large language model with 1.6 trillion total parameters and 49 billion ",
+    "created": 1778631800869
+  },
+  {
+    "id": "deepseek-v4-pro-t",
+    "owned_by": "Together AI",
+    "description": "DeepSeek V4 Pro is DeepSeek's 1.6T parameter (49B activated) MoE model supporting 1M token context. It introduces a hybr",
+    "created": 1777056434492
+  },
+  {
+    "id": "deepseek-v4.1-flash",
+    "owned_by": "Novita AI",
+    "description": "deepseek/deepseek-v4.1-flash powered by Novita AI\n\nFile Support: Text, Markdown, Image and PDF files\nContext window: 1M ",
+    "created": 1789033880502
+  },
+  {
+    "id": "deepseek-vision-exp",
+    "owned_by": "Novita AI",
+    "description": "DeepSeek V4 Flash Vision Exp is an experimental vision-enabled version of DeepSeek V4 Flash 0731(opens in new tab) from ",
+    "created": 1788179087945
+  },
+  {
+    "id": "dreamina-3.1",
+    "owned_by": "Bytedance",
+    "description": "ByteDance's Dreamina 3.1 Text-to-Image showcases superior picture effects, with significant improvements in picture aest",
+    "created": 1754503266312
+  },
+  {
+    "id": "ds-v4-flash-0731-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "DeepSeek V4 Flash 0731 is a 284B MoE reasoning model with 13B active parameters, a 1M context window, strong agentic cod",
+    "created": 1785621834763
+  },
+  {
+    "id": "ds-v4.1-flash-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "DeepSeek V4.1 Flash is the lightweight flagship of DeepSeek's new architecture family, with benchmark results ahead of D",
+    "created": 1789419206525
+  },
+  {
+    "id": "elevenlabs-music",
+    "owned_by": "ElevenLabs",
+    "description": "The ElevenLabs music model is a generative AI system designed to compose original music from text prompts. It allows cre",
+    "created": 1756499655464
+  },
+  {
+    "id": "elevenlabs-music-v2",
+    "owned_by": "ElevenLabs",
+    "description": "ElevenLabs Music v2 is an advanced AI music generation model that creates original songs, instrumentals, and tracks with",
+    "created": 1781810275760
+  },
+  {
+    "id": "elevenlabs-v2.5-turbo",
+    "owned_by": "ElevenLabs",
+    "description": "ElevenLabs' leading text-to-speech technology converts your text into natural-sounding speech, using the Turbo v2.5 mode",
+    "created": 1730153913289
+  },
+  {
+    "id": "elevenlabs-v3",
+    "owned_by": "ElevenLabs",
+    "description": "ElevenLabs v3 is a cutting-edge text-to-speech model that brings scripts to life with remarkable realism and performance",
+    "created": 1749151405074
+  },
+  {
+    "id": "exa-answer",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Get a quick LLM-style answer to a question informed by Exa search results. \n\nFor more in-depth results, consider using t",
+    "created": 1764188987964
+  },
+  {
+    "id": "exa-search",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Utilize Exa's technology for searching web pages, finding similar web pages, crawling, and more.\nNote: This endpoint doe",
+    "created": 1764132329592
+  },
+  {
+    "id": "flux-2-dev",
+    "owned_by": "fal",
+    "description": "Open-weight image gen (32B) model, derived from the FLUX.2 base model. The most powerful open-weight image generation an",
+    "created": 1764084262252
+  },
+  {
+    "id": "flux-2-flash",
+    "owned_by": "fal",
+    "description": "Superfast Open-weight image gen (at 32B parameters) model, derived from the FLUX.2 base model. Send up to 3 images (jpeg",
+    "created": 1767812649468
+  },
+  {
+    "id": "flux-2-flex",
+    "owned_by": "fal",
+    "description": "Flux.2 [Flex] is Black Forest Lab's latest model, with Multi-Reference Support, Fine-grained text rendering, and other f",
+    "created": 1764085409921
+  },
+  {
+    "id": "flux-2-klein-4b",
+    "owned_by": "fal",
+    "description": "Text-to-image generation and Image Editing with Flux 2 [klein] 4B Distilled from Black Forest Labs. Enhanced realism, cr",
+    "created": 1768504648686
+  },
+  {
+    "id": "flux-2-klein-4b-base",
+    "owned_by": "fal",
+    "description": "Text-to-image generation and image editing with Flux 2 [klein] 4B Base from Black Forest Labs. Enhanced realism, crisper",
+    "created": 1768504764220
+  },
+  {
+    "id": "flux-2-klein-9b-base",
+    "owned_by": "fal",
+    "description": "Text-to-image generation and image editing with Flux 2 [klein] 9B Base from Black Forest Labs. Enhanced realism, crisper",
+    "created": 1768505118417
+  },
+  {
+    "id": "flux-2-max",
+    "owned_by": "fal",
+    "description": "Flux.2 [Max] is Black Forest Labs' latest, state-of-the-art model with multi-reference support, fine-grained text render",
+    "created": 1765899203651
+  },
+  {
+    "id": "flux-2-pro",
+    "owned_by": "fal",
+    "description": "Flux.2 [Pro] is Black Forest Labs' state-of-the-art model with multi-reference support, fine-grained text rendering, and",
+    "created": 1764085507021
+  },
+  {
+    "id": "flux-2-turbo",
+    "owned_by": "fal",
+    "description": "Fast, open-weight image generation model (32B parameters), derived from the FLUX.2 base model. Send up to 3 images (jpeg",
+    "created": 1767812200237
+  },
+  {
+    "id": "flux-dev-finetuner",
+    "owned_by": "fal",
+    "description": "Fine-tune the FLUX dev model with your own pictures! Upload 8-12 of them (same subject, only one subject in the picture,",
+    "created": 1727479142160
+  },
+  {
+    "id": "flux-fill",
+    "owned_by": "fal",
+    "description": "Given an image and a mask (separate images), fills in the region of the image given by the mask as per the prompt. The b",
+    "created": 1736787123399
+  },
+  {
+    "id": "flux-inpaint",
+    "owned_by": "fal",
+    "description": "Given an image and a mask (separate images), fills in the region of the image given by the mask as per the prompt. The b",
+    "created": 1736797755390
+  },
+  {
+    "id": "flux-kontext-max",
+    "owned_by": "fal",
+    "description": "FLUX.1 Kontext [max] is a new premium model from Black Forest Labs that brings maximum performance across all aspects. S",
+    "created": 1748526727201
+  },
+  {
+    "id": "flux-kontext-pro",
+    "owned_by": "fal",
+    "description": "The FLUX.1 Kontext [pro] model delivers state-of-the-art image generation results with unprecedented prompt following, p",
+    "created": 1748527242279
+  },
+  {
+    "id": "flux-krea",
+    "owned_by": "fal",
+    "description": "FLUX-Krea is a version of FLUX Dev tuned for superior aesthetics. \n\nOptional parameters:\nSelect an aspect ratio. Valid a",
+    "created": 1753991501514
+  },
+  {
+    "id": "flux-pro-1.1-t",
+    "owned_by": "Together AI",
+    "description": "The best state of the art image model from BFL. FLUX 1.1 Pro generates images six times faster than its predecessor, FLU",
+    "created": 1730863432942
+  },
+  {
+    "id": "flux-schnell-t",
+    "owned_by": "Together AI",
+    "description": "Lightning-fast AI image generation model that excels in producing high-quality visuals in just seconds. Great for quick ",
+    "created": 1730862046687
+  },
+  {
+    "id": "fugu-ultra-v1.0-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Fugu Ultra v1.0 is Sakana AI's multi-agent conductor: it coordinates a pool of expert models on every request and compos",
+    "created": 1782177874038
+  },
+  {
+    "id": "fugu-ultra-v1.1-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Fugu Ultra v1.1 is Sakana AI's multi-agent conductor with a 1M token context window, built for hard reasoning, coding, a",
+    "created": 1784875218982
+  },
+  {
+    "id": "gemini-2.5-flash-tts",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Gemini\u20112.5\u2011Flash\u2011TTS is Google\u2019s low\u2010latency text\u2011to\u2011speech model that converts text input into audio output, supporting",
+    "created": 1758667568690
+  },
+  {
+    "id": "gemini-2.5-pro-tts",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Gemini\u20112.5\u2011Pro\u2011TTS is Google\u2019s highest\u2011quality text\u2011to\u2011speech model preview, designed for complex workflows like podcast",
+    "created": 1758861500162
+  },
+  {
+    "id": "gemini-3-flash",
+    "owned_by": "Google",
+    "description": "Building on the reasoning capabilities of Gemini 3 Pro, Gemini 3 Flash is a powerful but affordable and performant model",
+    "created": 1759803302884
+  },
+  {
+    "id": "gemini-3.1-flash-lite",
+    "owned_by": "Google",
+    "description": "Gemini 3.1 Flash Lite Preview is the fastest and cheapest model in the Gemini 3.1 family. It provides multimodal underst",
+    "created": 1771380296910
+  },
+  {
+    "id": "gemini-3.1-flash-tts",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Gemini 3.1 Flash TTS is Google\u2019s most controllable text-to-speech model yet, designed to turn text into natural-sounding",
+    "created": 1776295398177
+  },
+  {
+    "id": "gemini-3.1-pro",
+    "owned_by": "Google",
+    "description": "Gemini 3.1 Pro is a state-of-the-art model for complex problem-solving, advanced reasoning, creative coding, and ambitio",
+    "created": 1771460884211
+  },
+  {
+    "id": "gemini-3.5-flash",
+    "owned_by": "Google",
+    "description": "Gemini 3.5 Flash is Google\u2019s latest Flash-family AI model, built for frontier intelligence with fast, reliable action. I",
+    "created": 1779214721657
+  },
+  {
+    "id": "gemini-3.5-flash-lite",
+    "owned_by": "Google",
+    "description": "Google\u2019s fastest, most cost-efficient Gemini 3.5 model, built for high-volume work. Analyze text, images, audio, and vid",
+    "created": 1784651151616
+  },
+  {
+    "id": "gemini-3.6-flash",
+    "owned_by": "Google",
+    "description": "Google\u2019s token-efficient workhorse model for coding, knowledge work, and multimodal tasks. Get advanced reasoning at Fla",
+    "created": 1784651381088
+  },
+  {
+    "id": "gemini-3.7-flash",
+    "owned_by": "Google",
+    "description": "Google\u2019s most intelligent workhorse model for coding and agents. Gemini 3.7 Flash delivers fast, powerful reasoning for ",
+    "created": 1786584567164
+  },
+  {
+    "id": "gemini-3.8-flash",
+    "owned_by": "Google",
+    "description": "Google\u2019s fast, cost-efficient workhorse model for coding and agents. Gemini 3.8 Flash delivers strong reasoning at Flash",
+    "created": 1788366093119
+  },
+  {
+    "id": "gemini-omni-1.1-flash",
+    "owned_by": "Google",
+    "description": "Google's Gemini Omni 1.1 Flash brings Gemini's multimodal reasoning to controllable video generation. Generate from text",
+    "created": 1787860044178
+  },
+  {
+    "id": "gemma-3-27b",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles context windows up to 12",
+    "created": 1742186137210
+  },
+  {
+    "id": "gemma-4-26b-a4b",
+    "owned_by": "Novita AI",
+    "description": "Gemma 4 26B A4B is built for developers who need scalable performance without sacrificing core capabilities. Crucially, ",
+    "created": 1775147437939
+  },
+  {
+    "id": "gemma-4-26b-a4b-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Gemma 4 26B A4B is a Google open multimodal model with 256K context, text, image, and video input, tools, and structured",
+    "created": 1778987222768
+  },
+  {
+    "id": "gemma-4-31b",
+    "owned_by": "Google",
+    "description": "Google's most capable open model, delivering frontier-class reasoning and multimodal understanding in a 31 billion param",
+    "created": 1775161622456
+  },
+  {
+    "id": "gemma-4-31b-n",
+    "owned_by": "Novita AI",
+    "description": "Gemma 4 31B is engineered to tackle the most demanding enterprise workloads and complex reasoning tasks. With an expansi",
+    "created": 1775147397334
+  },
+  {
+    "id": "glm-4.6",
+    "owned_by": "Z.ai",
+    "description": "Z.ai GLM 4.6 is a coding-focused model for large codebases, multi-file analysis, and agentic engineering workflows.",
+    "created": 1785182887815
+  },
+  {
+    "id": "glm-4.6v-n",
+    "owned_by": "Novita AI",
+    "description": "GLM-4.6V represents a significant multimodal advancement in the GLM series, achieving state-of-the-art visual understand",
+    "created": 1765278260925
+  },
+  {
+    "id": "glm-4.7",
+    "owned_by": "Z.ai",
+    "description": "Z.ai GLM 4.7 improves coding, tool use, and multi-step reasoning for complex agentic and frontend development tasks.",
+    "created": 1785182887922
+  },
+  {
+    "id": "glm-4.7-flash-n",
+    "owned_by": "Novita AI",
+    "description": "GLM-4.7-Flash, a state-of-the-art model in the 30B class, delivers a compelling balance of high performance and efficien",
+    "created": 1768838511598
+  },
+  {
+    "id": "glm-5.1",
+    "owned_by": "Z.ai",
+    "description": "Z.ai GLM 5.1 is built for long-horizon autonomous coding: planning, implementing, testing, and refining complex engineer",
+    "created": 1785182888119
+  },
+  {
+    "id": "glm-5.2",
+    "owned_by": "Z.ai",
+    "description": "GLM 5.2 is Z.AI's flagship open-weight model for long-horizon coding and agentic engineering.",
+    "created": 1784326173104
+  },
+  {
+    "id": "glm-5.2-n",
+    "owned_by": "Novita AI",
+    "description": "GLM-5.2 is Z.AI's latest flagship model, meticulously engineered for long-horizon autonomous tasks. Capable of working c",
+    "created": 1781631281645
+  },
+  {
+    "id": "glm-5.3",
+    "owned_by": "Novita AI",
+    "description": "GLM-5.3 is Z.ai\u2019s latest flagship model, delivering comprehensive advancements in complex software engineering and agent",
+    "created": 1788076039324
+  },
+  {
+    "id": "glm-5.3-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "GLM 5.3 is Z.ai's flagship coding and agentic model, built on the same base as GLM 5.2 with post-training gains in compl",
+    "created": 1787113819745
+  },
+  {
+    "id": "glm-5.3-flash",
+    "owned_by": "Novita AI",
+    "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. It",
+    "created": 1787764343541
+  },
+  {
+    "id": "glm-5.3-flash-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "GLM 5.3 Flash is Z.ai's natively multimodal flash model, a 320B-A18B mixture-of-experts released under the MIT license t",
+    "created": 1787762742430
+  },
+  {
+    "id": "gpt-3.5-turbo",
+    "owned_by": "OpenAI",
+    "description": "OpenAI\u2019s GPT 3.5 Turbo model is a powerful language generation system designed to provide highly coherent, contextually ",
+    "created": 1694610718926
+  },
+  {
+    "id": "gpt-3.5-turbo-raw",
+    "owned_by": "OpenAI",
+    "description": "Powered by gpt-3.5-turbo without a system prompt.",
+    "created": 1695849978857
+  },
+  {
+    "id": "gpt-4-turbo",
+    "owned_by": "OpenAI",
+    "description": "Powered by OpenAI's GPT-4 Turbo. For most tasks, https://poe.com/GPT-4o will perform better. Supports 128k tokens of con",
+    "created": 1694610718932
+  },
+  {
+    "id": "gpt-4.1",
+    "owned_by": "OpenAI",
+    "description": "OpenAI\u2019s GPT-4.1 significantly improves on past models in terms of its coding skills, long context (1M tokens), and impr",
+    "created": 1744675047923
+  },
+  {
+    "id": "gpt-4.1-mini",
+    "owned_by": "OpenAI",
+    "description": "GPT-4.1 mini is a small, fast & affordable model that matches or beats GPT-4o in many intelligence and vision-related ta",
+    "created": 1744675260112
+  },
+  {
+    "id": "gpt-4.1-nano",
+    "owned_by": "OpenAI",
+    "description": "GPT-4.1 nano is an extremely fast and cheap model, ideal for text/vision summarization/categorization tasks. Supports na",
+    "created": 1744675276376
+  },
+  {
+    "id": "gpt-4o",
+    "owned_by": "OpenAI",
+    "description": "OpenAI's GPT-4o answers user prompts in a natural, engaging & tailored writing with strong overall world knowledge. Uses",
+    "created": 1715641234752
+  },
+  {
+    "id": "gpt-4o-aug",
+    "owned_by": "OpenAI",
+    "description": "OpenAI's most powerful model, GPT-4o, using the August 2024 model snapshot. Stronger than GPT-3.5 in quantitative questi",
+    "created": 1732149774348
+  },
+  {
+    "id": "gpt-4o-mini",
+    "owned_by": "OpenAI",
+    "description": "This intelligent small model from OpenAI is significantly smarter, cheaper, and just as fast as GPT-3.5 Turbo.",
+    "created": 1721338046069
+  },
+  {
+    "id": "gpt-4o-search",
+    "owned_by": "OpenAI",
+    "description": "OpenAI's fine-tuned model for searching the web for real-time information. For less expensive messages, consider https:/",
+    "created": 1741720622451
+  },
+  {
+    "id": "gpt-5",
+    "owned_by": "OpenAI",
+    "description": "OpenAI\u2019s most advanced general model with significantly improved coding skills, long context (400k tokens), and improved",
+    "created": 1754429855700
+  },
+  {
+    "id": "gpt-5-mini",
+    "owned_by": "OpenAI",
+    "description": "GPT-5 mini is a small, fast & affordable model that matches or beats GPT-4.1 in many intelligence and vision-related tas",
+    "created": 1750886324513
+  },
+  {
+    "id": "gpt-5-nano",
+    "owned_by": "OpenAI",
+    "description": "GPT-5 nano is an extremely fast and cheap model, ideal for text/vision summarization/categorization tasks. Supports nati",
+    "created": 1754429832540
+  },
+  {
+    "id": "gpt-5-pro",
+    "owned_by": "OpenAI",
+    "description": "OpenAI\u2019s latest flagship model with significantly improved coding skills, long context (400k tokens), and improved instr",
+    "created": 1759789057270
+  },
+  {
+    "id": "gpt-5.1",
+    "owned_by": "OpenAI",
+    "description": "OpenAI\u2019s flagship general\u2011purpose model, built for advanced reasoning, comprehension, and creativity. It delivers robust",
+    "created": 1762989903319
+  },
+  {
+    "id": "gpt-5.2",
+    "owned_by": "OpenAI",
+    "description": "GPT-5.2 is a state-of-the-art AI model from OpenAI designed for real work across writing, analysis, coding, and problem ",
+    "created": 1765227300074
+  },
+  {
+    "id": "gpt-5.2-pro",
+    "owned_by": "OpenAI",
+    "description": "A powerful reasoning model that is ideal for your most complex, highest difficulty tasks. On x-high reasoning effort, sc",
+    "created": 1765479729564
+  },
+  {
+    "id": "gpt-5.3-codex",
+    "owned_by": "OpenAI",
+    "description": "GPT\u20115.3\u2011Codex excels in software development. It understands complex codebases, provides accurate completions, explains ",
+    "created": 1770761529560
+  },
+  {
+    "id": "gpt-5.4",
+    "owned_by": "OpenAI",
+    "description": "GPT-5.4 is the most capable AI model from OpenAI, built for advanced real-world tasks across coding, computer use, deep ",
+    "created": 1772143119942
+  },
+  {
+    "id": "gpt-5.4-mini",
+    "owned_by": "OpenAI",
+    "description": "GPT\u20115.4 Mini is a fast, affordable general\u2011purpose model designed for production assistants, coding support, document an",
+    "created": 1773276546626
+  },
+  {
+    "id": "gpt-5.4-nano",
+    "owned_by": "OpenAI",
+    "description": "GPT\u20115.4 Nano is the fastest and most cost\u2011efficient model in the GPT\u20115 family, built for high\u2011volume tasks such as summa",
+    "created": 1773272021193
+  },
+  {
+    "id": "gpt-5.4-pro",
+    "owned_by": "OpenAI",
+    "description": "A smarter, more precise version of GPT-5.4 that leverages additional compute to think harder and provide consistently be",
+    "created": 1772735432534
+  },
+  {
+    "id": "gpt-audio",
+    "owned_by": "Bina AI",
+    "description": "OpenAI's gpt-audio model, brought to Poe as a server bot! This model accepts text and audio inputs and can respond with ",
+    "created": 1768927028324
+  },
+  {
+    "id": "gpt-audio-1.5",
+    "owned_by": "Bina AI",
+    "description": "OpenAI's gpt-audio-1.5 model, brought to Poe as a server bot! This model accepts text and audio inputs and can respond w",
+    "created": 1772683680804
+  },
+  {
+    "id": "gpt-audio-mini",
+    "owned_by": "Bina AI",
+    "description": "OpenAI's gpt-audio-mini model, brought to Poe as a server bot! This model accepts text and audio inputs and can respond ",
+    "created": 1768926869174
+  },
+  {
+    "id": "gpt-image-1",
+    "owned_by": "OpenAI",
+    "description": "OpenAI's model that powers image generation in ChatGPT, offering exceptional prompt adherence, level of detail, and qual",
+    "created": 1743434309185
+  },
+  {
+    "id": "gpt-image-1-mini",
+    "owned_by": "OpenAI",
+    "description": "OpenAI's model that powers image generation in ChatGPT, offering exceptional prompt adherence, level of detail, and qual",
+    "created": 1756235580926
+  },
+  {
+    "id": "gpt-image-1.5",
+    "owned_by": "OpenAI",
+    "description": "OpenAI's frontier image generation model in ChatGPT as of December 2025, offering exceptional prompt adherence, world kn",
+    "created": 1765850472161
+  },
+  {
+    "id": "gpt-image-2",
+    "owned_by": "OpenAI",
+    "description": "OpenAI\u2019s state-of-the-art image generation model as of April 21, 2026, designed for fast, high-quality image generation ",
+    "created": 1776802127647
+  },
+  {
+    "id": "gpt-oss-120b",
+    "owned_by": "OpenAI",
+    "description": "GPT-OSS-120B is OpenAI's open-weight general-purpose model with reasoning and tool-use support.",
+    "created": 1784767073373
+  },
+  {
+    "id": "gpt-oss-120b-cs",
+    "owned_by": "CerebrasAI",
+    "description": "World\u2019s fastest inference for GPT OSS 120B with Cerebras. OpenAI's GPT-OSS-120B delivers sophisticated chain-of-thought ",
+    "created": 1754490145525
+  },
+  {
+    "id": "gpt-oss-120b-t",
+    "owned_by": "Together AI",
+    "description": "OpenAI's GPT-OSS-120B delivers sophisticated chain-of-thought reasoning capabilities in a fully open model. Built with c",
+    "created": 1754415494029
+  },
+  {
+    "id": "gpt-oss-20b-n",
+    "owned_by": "Novita AI",
+    "description": "gpt-oss-20b is an open-weight 21B parameter model released by OpenAI under the Apache 2.0 license. It uses a Mixture-of-",
+    "created": 1754470883542
+  },
+  {
+    "id": "gpt-oss-20b-t",
+    "owned_by": "Together AI",
+    "description": "OpenAI's GPT-OSS-20B provides powerful chain-of-thought reasoning in an efficient 20B parameter model. Designed for sing",
+    "created": 1754495737130
+  },
+  {
+    "id": "gpt-researcher",
+    "owned_by": "GPT Researcher",
+    "description": "GPT Researcher is an agent that conducts deep research on any topic and generates a comprehensive report with citations.",
+    "created": 1735901906014
+  },
+  {
+    "id": "gptzero",
+    "owned_by": "EmpirioLabs AI",
+    "description": "GPTZero is a deep-learning-driven platform designed to analyze and flag portions of text that are likely generated by AI",
+    "created": 1761948657951
+  },
+  {
+    "id": "grok-4.20-multi-agent",
+    "owned_by": "XAI",
+    "description": "Realtime Multi-agent Research enables Grok to orchestrate multiple AI agents that work together in real time to perform ",
+    "created": 1773433661072
+  },
+  {
+    "id": "grok-4.3",
+    "owned_by": "XAI",
+    "description": "Grok-4.3 is a reasoning model from xAI designed for agentic workflows, instruction-following tasks, and applications req",
+    "created": 1777658230984
+  },
+  {
+    "id": "grok-4.5",
+    "owned_by": "XAI",
+    "description": "xAI's prior smartest model (before Grok-4.6) with frontier performance on coding, knowledge work, and STEM.",
+    "created": 1783461241901
+  },
+  {
+    "id": "grok-4.6",
+    "owned_by": "XAI",
+    "description": "xAI\u2019s Grok 4.6 model for coding, agents, and knowledge work. For the newer model, use Grok-4.7.",
+    "created": 1786486412907
+  },
+  {
+    "id": "grok-4.7",
+    "owned_by": "XAI",
+    "description": "Grok 4.7 is xAI\u2019s frontier model for coding and professional knowledge work, built to handle longer, harder tasks and ch",
+    "created": 1790012963916
+  },
+  {
+    "id": "grok-imagine-image",
+    "owned_by": "fal",
+    "description": "Create creative and artistic images with Grok Imagine Image. Supports text-to-image and image-editing (single image of j",
+    "created": 1769805492868
+  },
+  {
+    "id": "grok-imagine-image-2",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Grok Imagine Image 2.0 generates images from a text prompt and edits up to five attached images from a plain-language in",
+    "created": 1786558578659
+  },
+  {
+    "id": "grok-imagine-video",
+    "owned_by": "XAI",
+    "description": "Create artistic and creative videos with Grok Imagine Video. Supports text to video, image to video (single jpeg/png/web",
+    "created": 1769805671349
+  },
+  {
+    "id": "grok-imgn-video-1.5",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Grok Imagine Video 1.5 supports text-to-video, image-to-video, and reference-to-video generation with up to seven refere",
+    "created": 1780251248911
+  },
+  {
+    "id": "hailuo-02-pro",
+    "owned_by": "fal",
+    "description": "MiniMax Hailuo-02 Pro Video Generation model: Advanced image-to-video generation model with 1080p resolution. Send a pro",
+    "created": 1753281868828
+  },
+  {
+    "id": "hailuo-02-standard",
+    "owned_by": "fal",
+    "description": "MiniMax Hailuo-02 Video Generation model: Advanced image-to-video generation model with 768p resolution. Send a prompt w",
+    "created": 1750266147410
+  },
+  {
+    "id": "hailuo-ai",
+    "owned_by": "fal",
+    "description": "Best-in-class text and image to video model by MiniMax.",
+    "created": 1729194728486
+  },
+  {
+    "id": "hailuo-director-01",
+    "owned_by": "fal",
+    "description": "Generate video clips more accurately with respect to natural language descriptions and using camera movement instruction",
+    "created": 1749502785341
+  },
+  {
+    "id": "hailuo-music-v1.5",
+    "owned_by": "fal",
+    "description": "Generate music from text prompts using the MiniMax model, which leverages advanced AI techniques to create high-quality,",
+    "created": 1758018191524
+  },
+  {
+    "id": "happyhorse-1.0-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "HappyHorse 1.0 is a video generation model, capable of creating high-fidelity, motion-smooth videos from text, images, o",
+    "created": 1777302726008
+  },
+  {
+    "id": "happyhorse-1.1",
+    "owned_by": "EmpirioLabs AI",
+    "description": "HappyHorse 1.1, from Alibaba, supports text-to-video, image-to-video, and reference-to-video from up to nine images, all",
+    "created": 1782146034033
+  },
+  {
+    "id": "hunyuan-image-3",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Hunyuan Image 3.0 is Tencent\u2019s next\u2011generation open\u2011source text-to-image model that uses a large multimodal Mixture-of-E",
+    "created": 1764454998989
+  },
+  {
+    "id": "hy3",
+    "owned_by": "Tencent",
+    "description": "Tencent Hy3 is a reasoning model for coding, tool use, and complex problem solving.",
+    "created": 1785181432294
+  },
+  {
+    "id": "hy3-n",
+    "owned_by": "Novita AI",
+    "description": "Built for real-world business scenarios, Hy3 features a 295B/21B active MoE architecture, native 256K context support, a",
+    "created": 1783318840628
+  },
+  {
+    "id": "hy4-preview",
+    "owned_by": "Novita AI",
+    "description": "Tencent: Hy4 preview is a mixture-of-experts model from Tencent, with 49B active parameters out of 770B total. It is des",
+    "created": 1789900196429
+  },
+  {
+    "id": "ideogram-v2",
+    "owned_by": "IdeogramAI",
+    "description": "Latest image model from Ideogram, with industry leading capabilities in generating realistic images, graphic design, typ",
+    "created": 1724273571743
+  },
+  {
+    "id": "ideogram-v2a",
+    "owned_by": "IdeogramAI",
+    "description": "Fast, affordable text-to-image model, optimized for graphic design and photography. For faster and more cost-effective g",
+    "created": 1740678539688
+  },
+  {
+    "id": "ideogram-v3",
+    "owned_by": "fal",
+    "description": "Generate high-quality images, posters, and logos with Ideogram V3. Features exceptional typography handling and realisti",
+    "created": 1746189583927
+  },
+  {
+    "id": "inkling",
+    "owned_by": "Thinking Machines",
+    "description": "Inkling is Thinking Machines\u2019 multimodal reasoning model, built for deep analysis, coding, and tool-driven work across t",
+    "created": 1784157368745
+  },
+  {
+    "id": "interpreter",
+    "owned_by": "Poe Tools",
+    "description": "Interpreter for Poe Python",
+    "created": 1715753807980
+  },
+  {
+    "id": "kimi-k2-thinking",
+    "owned_by": "Moonshot AI",
+    "description": "Moonshot AI Kimi K2 Thinking is a reasoning model for long-horizon tool use, agentic search, coding, writing, and comple",
+    "created": 1784856218655
+  },
+  {
+    "id": "kimi-k2.6",
+    "owned_by": "Moonshot AI",
+    "description": "Moonshot AI Kimi K2.6 is a model for long-horizon coding, design-oriented development, and vision-enabled tasks.",
+    "created": 1784856218315
+  },
+  {
+    "id": "kimi-k2.7-code",
+    "owned_by": "Moonshot AI",
+    "description": "Moonshot AI Kimi K2.7 Code is a coding model for agent performance, instruction following, reasoning efficiency, and lon",
+    "created": 1784856218152
+  },
+  {
+    "id": "kimi-k2.7-code-n",
+    "owned_by": "Novita AI",
+    "description": "Kimi K2.7 Code is MoonshotAI's strongest coding & agentic model \u2014 a 1T-parameter MoE (32B activated) , 256K context and ",
+    "created": 1781275041987
+  },
+  {
+    "id": "kimi-k3",
+    "owned_by": "Moonshot AI",
+    "description": "Kimi\u2019s flagship model for long-horizon coding and end-to-end knowledge work, with a 1M-token context window.",
+    "created": 1784317799914
+  },
+  {
+    "id": "kimi-k3-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Kimi K3 is Moonshot AI's flagship reasoning model with a 1M token context, built for software engineering, deep reasonin",
+    "created": 1784217567864
+  },
+  {
+    "id": "kling-1.5-pro",
+    "owned_by": "fal",
+    "description": "Kling-1.5-Pro video generation bot, hosted by fal.ai. For best results, upload an image attachment. \n\nThis bot supports ",
+    "created": 1733347438699
+  },
+  {
+    "id": "kling-2.0-master",
+    "owned_by": "fal",
+    "description": "Generate high-quality videos from text or images using Kling 2.0 Master. Use `--negative_prompt` to send a negative prom",
+    "created": 1744698597290
+  },
+  {
+    "id": "kling-2.1-pro",
+    "owned_by": "fal",
+    "description": "Kling 2.1 Pro is an advanced endpoint for the Kling 2.1 model, offering professional-grade videos with enhanced visual f",
+    "created": 1748544740987
+  },
+  {
+    "id": "kling-2.1-std",
+    "owned_by": "fal",
+    "description": "Kling 2.1 Standard is a cost-efficient endpoint for the Kling 2.1 model, delivering high-quality image-to-video generati",
+    "created": 1748545509401
+  },
+  {
+    "id": "kling-2.5-turbo-pro",
+    "owned_by": "fal",
+    "description": "Generate high-quality videos from text and images using Kling 2.5 Turbo Pro. \n\nOptional parameters:\n- Negative prompt. T",
+    "created": 1758612711916
+  },
+  {
+    "id": "kling-2.5-turbo-std",
+    "owned_by": "fal",
+    "description": "Generate high-quality videos from images using Kling 2.5 Turbo Standard. \n\nOptional parameters:\n- Negative prompt. Type ",
+    "created": 1761145308745
+  },
+  {
+    "id": "kling-2.6-pro",
+    "owned_by": "fal",
+    "description": "Generate high-quality videos with native audio from text and images using Kling 2.6 Pro. \n\nOptional parameters:\n- Negati",
+    "created": 1764786565451
+  },
+  {
+    "id": "kling-3.0-turbo",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Kling 3.0 Turbo is a fast video generation model that produces high-quality videos with synchronized native audio, at 72",
+    "created": 1781802100470
+  },
+  {
+    "id": "kling-avatar-pro",
+    "owned_by": "fal",
+    "description": "Create lifelike avatar videos featuring realistic humans, animals, cartoons, or stylized characters. Simply upload an im",
+    "created": 1758919888726
+  },
+  {
+    "id": "kling-o3",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Kling O3 is a versatile AI video generation model capable of creating high-quality videos in Standard or Pro modes, with",
+    "created": 1771637573229
+  },
+  {
+    "id": "kling-omni",
+    "owned_by": "fal",
+    "description": "Bot for Kling Omni Image-to-Video inference. Send one image for image-to-video generation and two images for first-to-la",
+    "created": 1764600004756
+  },
+  {
+    "id": "kling-pro-effects",
+    "owned_by": "fal",
+    "description": "Generate videos with effects like squishing an object, two people hugging, making heart gestures, etc. using Kling-Pro-E",
+    "created": 1743698583798
+  },
+  {
+    "id": "kling-v3-motion-ctrl",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Kling v3 Motion Control uses Kuaishou's Kling 3.0 model to transfer motion from a reference video onto a character from ",
+    "created": 1773103662749
+  },
+  {
+    "id": "kling-v3-pro",
+    "owned_by": "fal",
+    "description": "Kling v3 Pro Video bot, capable of text to video and image to video. Send a text prompt for text to video, and optionall",
+    "created": 1770843940984
+  },
+  {
+    "id": "ling-3-0-flash",
+    "owned_by": "Novita AI",
+    "description": "Ling-3.0-flash is a 124B-parameter Mixture-of-Experts (MoE) model, with approximately 5.1B parameters activated per toke",
+    "created": 1786694182217
+  },
+  {
+    "id": "ling-3.0-flash-fin",
+    "owned_by": "Novita AI",
+    "description": "Ling-3.0-flash-Fin is a finance-enhanced MoE model built on Ling-3.0-flash, with 124 billion total parameters and approx",
+    "created": 1788852341264
+  },
+  {
+    "id": "ling-3.0-flash-vl",
+    "owned_by": "Novita AI",
+    "description": "Ling-3.0-flash-VL builds on Ling-3.0-flash, further strengthening its language capabilities while adding native visual p",
+    "created": 1788922501504
+  },
+  {
+    "id": "linkup-deep-search",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Linkup Deep Search is an AI-powered search bot that continues to search iteratively if it hasn't found sufficient inform",
+    "created": 1755390159000
+  },
+  {
+    "id": "linkup-standard",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Linkup Standard is an AI-powered search bot that provides detailed overviews and answers sourced from the web, helping y",
+    "created": 1755298530796
+  },
+  {
+    "id": "liveportrait",
+    "owned_by": "fal",
+    "description": "Animates given portraits with the motion's in the video. Powered by fal.ai",
+    "created": 1720556185003
+  },
+  {
+    "id": "llama-3.1-8b-di",
+    "owned_by": "DeepInfra",
+    "description": "The smallest and fastest model from Meta's Llama 3.1 family. This open-source language model excels in multilingual dial",
+    "created": 1740488781419
+  },
+  {
+    "id": "llama-3.1-8b-fp16",
+    "owned_by": "Hyperbolic",
+    "description": "The smallest and fastest member of the Llama 3.1 family, offering exceptional efficiency and rapid response times with 1",
+    "created": 1724034517400
+  },
+  {
+    "id": "llama-3.3-70b-n",
+    "owned_by": "Novita AI",
+    "description": "The Meta Llama 3.3 multilingual large language model (LLM) is a pretrained and instruction tuned generative model in 70B",
+    "created": 1754050595700
+  },
+  {
+    "id": "llama-3.3-70b-t",
+    "owned_by": "Together AI",
+    "description": "Llama 3.3 70B \u2013 with similar performance as Llama 3.1 405B while being faster and much smaller! Llama 3.3 70B is a new o",
+    "created": 1733509126023
+  },
+  {
+    "id": "ltx-2-fast",
+    "owned_by": "fal",
+    "description": "LTX-2 Fast is a video model by Lightricks that delivers exceptional quality and speed. It can generate videos at up to 5",
+    "created": 1761343254536
+  },
+  {
+    "id": "ltx-2-pro",
+    "owned_by": "fal",
+    "description": "LTX-2 Pro is an advanced video generation model by Lightricks designed for professional\u2011grade results. It offers high\u2011qu",
+    "created": 1761343366727
+  },
+  {
+    "id": "luma-photon",
+    "owned_by": "fal",
+    "description": "Luma Photon delivers industry-specific visual excellence, crafting images that align perfectly with professional standar",
+    "created": 1733181326256
+  },
+  {
+    "id": "luma-photon-flash",
+    "owned_by": "fal",
+    "description": "Luma Photon delivers industry-specific visual excellence, crafting images that align perfectly with professional standar",
+    "created": 1733181412355
+  },
+  {
+    "id": "lyria",
+    "owned_by": "Google",
+    "description": "Google DeepMind's Lyria 2 delivers high-quality audio generation, capable of creating diverse soundscapes and musical pi",
+    "created": 1749063911995
+  },
+  {
+    "id": "lyria-3",
+    "owned_by": "Google",
+    "description": "Google DeepMind\u2019s Lyria 3 is an advanced AI music generation model that creates high-fidelity, up to three-minute tracks",
+    "created": 1774462776129
+  },
+  {
+    "id": "manus",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Manus is an autonomous AI agent that executes tasks. It can take a high-level prompt, break it into subtasks, interact w",
+    "created": 1761671380766
+  },
+  {
+    "id": "markitdown",
+    "owned_by": "OpenTools",
+    "description": "Convert anything to Markdown: URLs, PDFs, Word, Excel, images (EXIF metadata), audio (EXIF metadata and transcription), ",
+    "created": 1746488364378
+  },
+  {
+    "id": "mimo-v2-flash",
+    "owned_by": "Novita AI",
+    "description": "Xiaomi MiMo-V2-Flash is a proprietary MoE model developed by Xiaomi, designed for extreme inference efficiency with 309B",
+    "created": 1773985456579
+  },
+  {
+    "id": "mimo-v2.5-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "This model is retiring on 2026-10-20. Please switch to: https://poe.com/MiMo-V2.6-Flash-EL\nMiMo-V2.5 is a multimodal mod",
+    "created": 1777002390726
+  },
+  {
+    "id": "mimo-v2.5-pro",
+    "owned_by": "Xiaomi",
+    "description": "Xiaomi MiMo V2.5 Pro is a reasoning model for agentic workflows, software engineering, and long-horizon tasks.",
+    "created": 1785182855012
+  },
+  {
+    "id": "mimo-v2.6-flash-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "MiMo V2.6 Flash is Xiaomi's low-cost reasoning model for high-frequency and large-scale workloads. It accepts text, imag",
+    "created": 1790221712510
+  },
+  {
+    "id": "mimo-v2.6-pro-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "MiMo V2.6 Pro is Xiaomi's trillion-parameter flagship for agentic work, long-horizon tasks, and research. It accepts tex",
+    "created": 1790221710908
+  },
+  {
+    "id": "mimo-v2.6-pro-ultraspeed-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "MiMo V2.6 Pro UltraSpeed serves Xiaomi's trillion-parameter flagship at substantially higher output speed. It accepts te",
+    "created": 1790221714308
+  },
+  {
+    "id": "minimax-h3-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "MiniMax H3 is a multimodal video generation model that produces 4 to 15 second clips at 768p or 2K, 24 fps, each with a ",
+    "created": 1785757782897
+  },
+  {
+    "id": "minimax-h3-n",
+    "owned_by": "Novita AI",
+    "description": "MiniMax H3 is a general-purpose, omni-modal generative system. It supports unified understanding of multimodal contexts ",
+    "created": 1788772694843
+  },
+  {
+    "id": "minimax-m2.1",
+    "owned_by": "MiniMax",
+    "description": "MiniMax M2.1 is a reasoning model optimized for robust coding, tool use, instruction following, and long-horizon plannin",
+    "created": 1784856217851
+  },
+  {
+    "id": "minimax-m2.5",
+    "owned_by": "MiniMax",
+    "description": "MiniMax M2.5 is a reasoning model for end-to-end development of complex full-stack systems across web, mobile, desktop, ",
+    "created": 1784856217654
+  },
+  {
+    "id": "minimax-m2.7-fw",
+    "owned_by": "Fireworks AI",
+    "description": "Mixture-of-Experts language model. M2.7 is capable of building complex agent harnesses and completing highly elaborate p",
+    "created": 1776304104364
+  },
+  {
+    "id": "minimax-m3",
+    "owned_by": "MiniMax",
+    "description": "MiniMax M3 is MiniMax's open-weight frontier model for coding, agentic tasks, and multimodal (text and image) understand",
+    "created": 1784764701470
+  },
+  {
+    "id": "minimax-m3-t",
+    "owned_by": "Together AI",
+    "description": "MiniMax M3 is MiniMax's frontier open-weight model combining coding and agentic capability, 1M token context, and native",
+    "created": 1781327730087
+  },
+  {
+    "id": "minimax-speech-2.8",
+    "owned_by": "Novita AI",
+    "description": "MiniMax Speech 2.8 is a premium text-to-speech model delivering studio-quality audio with enhanced clarity and naturalne",
+    "created": 1774510258443
+  },
+  {
+    "id": "mistral-7b-v0.3-di",
+    "owned_by": "DeepInfra",
+    "description": "Mistral Instruct 7B v0.3 from Mistral AI.\n\nAll data you provide this bot will not be used in training, and is sent only ",
+    "created": 1740490886743
+  },
+  {
+    "id": "mistral-large-2",
+    "owned_by": "Mistral",
+    "description": "Mistral's latest text generation model (Mistral-Large-2407) with top-tier reasoning capabilities. It can be used for com",
+    "created": 1708971504266
+  },
+  {
+    "id": "mistral-medium",
+    "owned_by": "Mistral",
+    "description": "Mistral AI's medium-sized model. Supports a context window of 32k tokens (around 24,000 words) and is stronger than Mixt",
+    "created": 1703096777397
+  },
+  {
+    "id": "mistral-small-3",
+    "owned_by": "Mistral",
+    "description": "Mistral Small 3 is a pre-trained and instructed model catered to the \u201880%\u2019 of generative AI tasks--those that require ro",
+    "created": 1738360161146
+  },
+  {
+    "id": "mistral-small-3.1",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Mistral Small 3.1 24B Instruct is an upgraded variant of Mistral Small 3 (2501), featuring 24 billion parameters with ad",
+    "created": 1742338142315
+  },
+  {
+    "id": "mistral-small-4",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Mistral Small 4 is a powerful hybrid model capable of acting as both a general instruction model and a reasoning model. ",
+    "created": 1773801727930
+  },
+  {
+    "id": "mixtral8x22b-inst-fw",
+    "owned_by": "Fireworks AI",
+    "description": "Mixtral 8x22B Mixture-of-Experts instruct model from Mistral hosted by Fireworks. ",
+    "created": 1712949013942
+  },
+  {
+    "id": "mochi-preview",
+    "owned_by": "fal",
+    "description": "Open state-of-the-art video generation model with high-fidelity motion and strong prompt adherence. Supports both text-t",
+    "created": 1729817676311
+  },
+  {
+    "id": "moss-video-and-audio",
+    "owned_by": "EmpirioLabs AI",
+    "description": "MOSS Video and Audio (MOVA) is an open-source foundation model developed by OpenMOSS that generates synchronized, high-f",
+    "created": 1771382022972
+  },
+  {
+    "id": "muse-glimmer-30b-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Muse Glimmer 30B is Meta's open agentic model, built for tool use, coding, and multi-step reasoning. It accepts text and",
+    "created": 1786374852794
+  },
+  {
+    "id": "muse-spark-1-1",
+    "owned_by": "Meta",
+    "description": "Muse Spark 1.1 is the first model in Meta Superintelligence Labs' Muse series\u2014and Meta's most powerful model to date. Sm",
+    "created": 1783622304398
+  },
+  {
+    "id": "nano-banana-2",
+    "owned_by": "Google",
+    "description": "Google's latest image model combines Pro-level intelligence with lightning-fast generation. It features advanced world k",
+    "created": 1772107200000
+  },
+  {
+    "id": "nano-banana-2-lite",
+    "owned_by": "Google",
+    "description": "Google's fastest, most efficient Gemini Image model, delivering high-speed generation and editing at the lowest cost yet",
+    "created": 1782842473518
+  },
+  {
+    "id": "nano-banana-pro",
+    "owned_by": "Google",
+    "description": "Nano Banana Pro (Gemini 3 Pro Image Preview) can make detailed, context-rich visuals, precisely edit or restyle input im",
+    "created": 1763518946353
+  },
+  {
+    "id": "nova-lite-1.0",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Amazon Nova Lite is a low\u2011cost multimodal foundation model from Amazon that can process text, images, and video and is o",
+    "created": 1733713614756
+  },
+  {
+    "id": "nova-lite-2",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Amazon Nova 2 Lite is a fast, cost-effective multimodal reasoning model from Amazon that can process text, images, docum",
+    "created": 1764827272207
+  },
+  {
+    "id": "nova-micro-1.0",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Amazon Nova Micro is a text-only foundation model in the Amazon Nova family, designed for ultra\u2011low latency and very low",
+    "created": 1733714662051
+  },
+  {
+    "id": "nova-pro-1.0",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Amazon Nova Pro 1.0 is a highly capable multimodal foundation model from Amazon Nova, offering a strong balance of accur",
+    "created": 1733715164341
+  },
+  {
+    "id": "o1",
+    "owned_by": "OpenAI",
+    "description": "OpenAI's o1 is designed to reason before it responds and provides world-class capabilities on complex tasks (e.g. scienc",
+    "created": 1734482114732
+  },
+  {
+    "id": "o1-pro",
+    "owned_by": "OpenAI",
+    "description": "OpenAI\u2019s o1-pro highly capable reasoning model, tailored for complex, compute- or context-heavy tasks, dedicating additi",
+    "created": 1742413231833
+  },
+  {
+    "id": "o3",
+    "owned_by": "OpenAI",
+    "description": "o3 provides state-of-the-art intelligence on a variety of tasks and domains, including science, math, and coding. This b",
+    "created": 1744826529075
+  },
+  {
+    "id": "o3-mini",
+    "owned_by": "OpenAI",
+    "description": "o3-mini is OpenAI's reasoning model, providing high intelligence on a variety of tasks and domains, including science, m",
+    "created": 1738356284517
+  },
+  {
+    "id": "o3-mini-high",
+    "owned_by": "OpenAI",
+    "description": "o3-mini-high is OpenAI's most recent reasoning model with reasoning_effort set to high, providing frontier intelligence ",
+    "created": 1738356365479
+  },
+  {
+    "id": "o3-pro",
+    "owned_by": "OpenAI",
+    "description": "o3-pro is a well-rounded and powerful model across domains, with more capability than https://poe.com/o3 at the cost of ",
+    "created": 1749588430571
+  },
+  {
+    "id": "o4-mini",
+    "owned_by": "OpenAI",
+    "description": "o4-mini provides high intelligence on a variety of tasks and domains, including science, math, and coding at an affordab",
+    "created": 1744826580331
+  },
+  {
+    "id": "omnihuman",
+    "owned_by": "Bytedance",
+    "description": "OmniHuman, by Bytedance, generates video using an image of a human figure paired with an audio file. It produces vivid, ",
+    "created": 1753875678785
+  },
+  {
+    "id": "openai-gpt-oss-120b",
+    "owned_by": "Fireworks AI",
+    "description": "GPT-OSS-120b is a high-performance, open-weight language model designed for production-grade, general-purpose use cases.",
+    "created": 1754416223840
+  },
+  {
+    "id": "openai-gpt-oss-20b",
+    "owned_by": "Fireworks AI",
+    "description": "GPT-OSS-20B is a compact, open-weight language model optimized for low-latency and resource-constrained environments, in",
+    "created": 1754418551040
+  },
+  {
+    "id": "orpheus-tts",
+    "owned_by": "fal",
+    "description": "Orpheus TTS is a state-of-the-art, Llama-based Speech-LLM designed for high-quality, empathetic text-to-speech generatio",
+    "created": 1743698312235
+  },
+  {
+    "id": "pearl-gemma-4-31b",
+    "owned_by": "Together AI",
+    "description": "Gemma 4 31B-it-Pearl is Pearl Research Labs' instruction-tuned checkpoint of Google's Gemma 4 31B, optimized for the Pea",
+    "created": 1778889155234
+  },
+  {
+    "id": "perplexity-adv-deep-research",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Perplexity Advanced Deep Research is designed for institutional-grade inquiry, leveraging the powerful reasoning of Clau",
+    "created": 1770838387525
+  },
+  {
+    "id": "perplexity-deep-research",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Perplexity Deep Research is a research-focused model designed for multi-step retrieval, synthesis, and reasoning across ",
+    "created": 1740542141787
+  },
+  {
+    "id": "perplexity-pro-search",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Perplexity Pro Search turns Sonar Pro into a full agentic researcher that autonomously chains web searches, and fetches ",
+    "created": 1763705720172
+  },
+  {
+    "id": "perplexity-search",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Utilize Perplexity's technology for real-time web search with filtering by domain, language, date and more.\nNote: This e",
+    "created": 1771723986988
+  },
+  {
+    "id": "perplexity-sonar",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Sonar by Perplexity is a cutting-edge AI model that delivers real-time, web-connected search results with accurate citat",
+    "created": 1737790362317
+  },
+  {
+    "id": "perplexity-sonar-pro",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Sonar Pro by Perplexity is an advanced AI model that enhances real-time, web-connected search capabilities with double t",
+    "created": 1737790959209
+  },
+  {
+    "id": "perplexity-sonar-rsn-pro",
+    "owned_by": "EmpirioLabs AI",
+    "description": "This model operates on the open-sourced uncensored R1-1776 model from Perplexity with web search capabilities. The Perpl",
+    "created": 1739997380566
+  },
+  {
+    "id": "phi-4-di",
+    "owned_by": "DeepInfra",
+    "description": "Microsoft Research Phi-4 is designed to perform well in complex reasoning tasks and can operate efficiently in situation",
+    "created": 1740490334949
+  },
+  {
+    "id": "pika-v1.5-effects",
+    "owned_by": "fal",
+    "description": "Apply surprising, mind blowing effects to your photo with Pika-v1.5 Effects. Attach an image and be amazed by the effect",
+    "created": 1765555623083
+  },
+  {
+    "id": "pixverse-v5",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Pixverse v5 offers advanced creative tools with three main features: \n1. Text-to-Video, which transforms written prompts",
+    "created": 1760645525570
+  },
+  {
+    "id": "pixverse-v5.6",
+    "owned_by": "EmpirioLabs AI",
+    "description": "PixVerse v5.6 is capable of creating high-quality videos from text prompts alone or by animating uploaded images (1 or 2",
+    "created": 1771637794517
+  },
+  {
+    "id": "python",
+    "owned_by": "Poe",
+    "description": "Executes Python code (version 3.11) from the user message and outputs the results. If there are code blocks in the user ",
+    "created": 1724756919380
+  },
+  {
+    "id": "qwen-2.5-7b-t",
+    "owned_by": "Together AI",
+    "description": "Qwen 2.5 7B from Alibaba. Excels in coding, math, instruction following, natural language understanding, and has great m",
+    "created": 1730863674687
+  },
+  {
+    "id": "qwen-audio-3.0-tts",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen Audio 3.0 TTS is Alibaba's speech synthesis model, available here in two tiers with over 1,000 shared voices, 16 la",
+    "created": 1784783804679
+  },
+  {
+    "id": "qwen-edit",
+    "owned_by": "fal",
+    "description": "Image editing model based on Qwen-Image, with superior text editing capabilities.",
+    "created": 1755628345426
+  },
+  {
+    "id": "qwen-image-2",
+    "owned_by": "fal",
+    "description": "Qwen-Image-2 is Alibaba's latest image generation model. This model can edit images (png/jpeg/webp, maximum of 3 images)",
+    "created": 1772745424015
+  },
+  {
+    "id": "qwen-image-2-pro",
+    "owned_by": "fal",
+    "description": "Qwen-Image-2-Pro is Alibaba's latest image generation model. This model can edit images (png/jpeg/webp, maximum of 3 ima",
+    "created": 1772745663512
+  },
+  {
+    "id": "qwen-image-3.0-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen Image 3.0 supports image generation and editing with Base and Pro variants, multilingual typography, multi-image re",
+    "created": 1786186922111
+  },
+  {
+    "id": "qwen3-235b-a22b-di",
+    "owned_by": "DeepInfra",
+    "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixt",
+    "created": 1746004656402
+  },
+  {
+    "id": "qwen3-235b-a22b-n",
+    "owned_by": "Novita AI",
+    "description": "Qwen3-235B-A22B-Instruct-2507 is a multilingual, instruction-tuned mixture-of-experts language model based on the Qwen3-",
+    "created": 1754050170519
+  },
+  {
+    "id": "qwen3-coder-480b-n",
+    "owned_by": "Novita AI",
+    "description": "Qwen3-Coder-480B-A35B-Instruct is a cutting-edge open coding model from Qwen, matching Claude Sonnet\u2019s performance in ag",
+    "created": 1755222889121
+  },
+  {
+    "id": "qwen3-coder-next-n",
+    "owned_by": "Novita AI",
+    "description": "Qwen3-Coder-Next is an open-weight language model specifically engineered for coding agents and local development enviro",
+    "created": 1770157079067
+  },
+  {
+    "id": "qwen3-max-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "This model is retiring on 2026-10-10. Please switch to: https://poe.com/Qwen3.7-Max\nQwen3-Max is a major update to the Q",
+    "created": 1758038838064
+  },
+  {
+    "id": "qwen3-max-n",
+    "owned_by": "Novita AI",
+    "description": "Qwen/qwen3-max, Enhanced with specialized upgrades in agent programming and tool calling. This official release achieves",
+    "created": 1762329665354
+  },
+  {
+    "id": "qwen3-max-preview-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "This model is retiring on 2026-10-10. Please switch to: https://poe.com/Qwen3.7-Max\nQwen3-Max-Preview shows substantial ",
+    "created": 1763943732422
+  },
+  {
+    "id": "qwen3-max-thinking-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "This model is retiring on 2026-10-10. Please switch to: https://poe.com/Qwen3.7-Max\nQwen3-Max-Thinking is a flagship rea",
+    "created": 1769457283480
+  },
+  {
+    "id": "qwen3-next-80b",
+    "owned_by": "Novita AI",
+    "description": "Qwen3-Next uses a highly sparse MoE design: 80B total parameters, but only ~3B activated per inference step. Experiments",
+    "created": 1757556042820
+  },
+  {
+    "id": "qwen3-next-80b-think",
+    "owned_by": "Novita AI",
+    "description": "Qwen3-Next uses a highly sparse MoE design: 80B total parameters, but only ~3B activated per inference step. Experiments",
+    "created": 1757556610505
+  },
+  {
+    "id": "qwen3-vl-235b-a22b-i",
+    "owned_by": "Novita AI",
+    "description": "qwen/qwen3-vl-235b-a22b-instruct powered by Novita AI\n\nFile Support: Text, Markdown, Image, Video and PDF files\nContext ",
+    "created": 1758695977113
+  },
+  {
+    "id": "qwen3-vl-235b-a22b-t",
+    "owned_by": "Novita AI",
+    "description": "qwen/qwen3-vl-235b-a22b-thinking powered by Novita AI\n\nFile Support: Text, Markdown, Image, Video and PDF files\nContext ",
+    "created": 1758695878297
+  },
+  {
+    "id": "qwen3.5-397b-a17b",
+    "owned_by": "Novita AI",
+    "description": "The Qwen3.5 series 397B-A17B native vision-language model is based on a hybrid architecture design that integrates linea",
+    "created": 1771239767882
+  },
+  {
+    "id": "qwen3.5-4b-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.5 4B is a low-cost multimodal reasoning model with 256K context, image and video input, function tools, and struct",
+    "created": 1778987225511
+  },
+  {
+    "id": "qwen3.5-9b-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.5 9B is a compact multimodal reasoning model with 256K context, image and video input, function tools, and structu",
+    "created": 1778987224086
+  },
+  {
+    "id": "qwen3.5-flash-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "The Qwen3.5 native vision-language Flash models are built on a hybrid architecture that integrates a linear attention me",
+    "created": 1771963175057
+  },
+  {
+    "id": "qwen3.5-omni-flash",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.5-Omni Flash is the cost-efficient variant of Qwen's latest omni-modal model, supporting text, image, audio, and v",
+    "created": 1774908896258
+  },
+  {
+    "id": "qwen3.5-omni-plus",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.5-Omni Plus is the flagship variant of Qwen's latest omni-modal model, supporting text, image, audio, and video un",
+    "created": 1774889310984
+  },
+  {
+    "id": "qwen3.5-plus-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.5-Plus is a state-of-the-art multimodal model featuring a hybrid architecture designed for efficient deep thinking",
+    "created": 1771229977166
+  },
+  {
+    "id": "qwen3.6-max-preview",
+    "owned_by": "EmpirioLabs AI",
+    "description": "This model is retiring on 2026-10-10. Please switch to: https://poe.com/Qwen3.7-Max\nThe Max model, the largest and most ",
+    "created": 1776702599455
+  },
+  {
+    "id": "qwen3.6-plus-t",
+    "owned_by": "Together AI",
+    "description": "Qwen3.6-Plus is Qwen's multimodal agentic model built on a hybrid architecture combining efficient linear attention with",
+    "created": 1777585065208
+  },
+  {
+    "id": "qwen3.7-flash-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.7 Flash is a fast vision-language model for text, image, and video input, built for multimodal reasoning, agentic ",
+    "created": 1785265754023
+  },
+  {
+    "id": "qwen3.7-max-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.7 Max is a next\u2011generation flagship model designed for the agent\u2011centric era, with its core strengths lying in the",
+    "created": 1779377367791
+  },
+  {
+    "id": "qwen3.7-max-t",
+    "owned_by": "Together AI",
+    "description": "Qwen3.7-Max is Qwen's flagship proprietary model built for the agent era, combining frontier reasoning with deep, genera",
+    "created": 1779410478256
+  },
+  {
+    "id": "qwen3.8-2.4t-a95b-n",
+    "owned_by": "Novita AI",
+    "description": "Qwen3.8 2.4T A95B is an open-weight sparse mixture-of-experts model from Qwen and the open-weight variant of Qwen3.8 Max",
+    "created": 1787837180512
+  },
+  {
+    "id": "qwen3.8-27b",
+    "owned_by": "Novita AI",
+    "description": "qwen/qwen3.8-27b powered by Novita AI\n\nFile Support: Text, Markdown, Image, Video and PDF files\nContext window: 1M token",
+    "created": 1787836916156
+  },
+  {
+    "id": "qwen3.8-27b-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.8 27B is Alibaba's open multimodal reasoner. It accepts text, image, and video input with a 256K token context, an",
+    "created": 1786735454405
+  },
+  {
+    "id": "qwen3.8-flash-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.8 Flash is Alibaba's fast multimodal Qwen3.8 model, built for coding, agent, and vision workloads. It accepts text",
+    "created": 1787767610876
+  },
+  {
+    "id": "qwen3.8-max-0902-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.8 Max 0902 is the upgraded September 2026 snapshot of Alibaba's flagship Qwen3.8 Max, with stronger coding, steadi",
+    "created": 1788393203521
+  },
+  {
+    "id": "qwen3.8-max-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Qwen3.8 Max is Alibaba's flagship Qwen3.8 model, a trillion-scale mixture-of-experts system built for coding, long-horiz",
+    "created": 1785756694629
+  },
+  {
+    "id": "reka-core",
+    "owned_by": "Reka AI",
+    "description": "Reka's largest and most capable multimodal language model. Works with text, images, and video inputs. 8k context length.",
+    "created": 1713038207102
+  },
+  {
+    "id": "reka-flash",
+    "owned_by": "Reka AI",
+    "description": "Reka's efficient and capable 21B multimodal model optimized for fast workloads and amazing quality. Works with text, ima",
+    "created": 1707892216404
+  },
+  {
+    "id": "reka-research",
+    "owned_by": "Reka AI",
+    "description": "Reka Research is a state-of-the-art agentic AI that answers complex questions by browsing the web. It excels at synthesi",
+    "created": 1750919363394
+  },
+  {
+    "id": "remove-background",
+    "owned_by": "fal",
+    "description": "Remove background from your images",
+    "created": 1714848450172
+  },
+  {
+    "id": "restyler",
+    "owned_by": "fal",
+    "description": "This bot enables rapid transformation of existing images, delivering high-quality style transfers and image modification",
+    "created": 1739302186273
+  },
+  {
+    "id": "retro-diffusion-core",
+    "owned_by": "Retro Diffusion",
+    "description": "Generate true game ready pixel art in seconds at any resolution between 16x16 and 512x512 across the various styles. Cre",
+    "created": 1742484693553
+  },
+  {
+    "id": "runway-gen-4.5",
+    "owned_by": "RunwayML",
+    "description": "Runway Gen 4.5 is an advanced video model that generates cinematic, high\u2011fidelity video from natural language and images",
+    "created": 1769636825513
+  },
+  {
+    "id": "script-bot-creator",
+    "owned_by": "Poe Tools",
+    "description": "Specializes in building workflows that combine bots on Poe. Powered by Claude Code. Guide and tips: https://creator.poe.",
+    "created": 1759738360550
+  },
+  {
+    "id": "seed-2.0-code",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seed 2.0 Code is optimized for enterprise-grade coding scenarios. Building on the strong agentic and VLM capabilities of",
+    "created": 1776829691974
+  },
+  {
+    "id": "seed-2.0-lite",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seed 2.0 Lite is a balanced model designed for high-frequency enterprise workloads, optimizing for both capability and c",
+    "created": 1772817225611
+  },
+  {
+    "id": "seed-2.0-mini",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seed-2.0-Mini from Bytedance targets latency-sensitive, high-concurrency, and cost-sensitive scenarios, emphasizing fast",
+    "created": 1771632981140
+  },
+  {
+    "id": "seed-2.0-pro",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seed 2.0 Pro is a flagship all-purpose general model designed for complex reasoning and long-chain task execution in the",
+    "created": 1774508584107
+  },
+  {
+    "id": "seed-2.1-turbo",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seed 2.1 Turbo is ByteDance's next-generation coding and agent model, with engineering-grade code delivery, long-horizon",
+    "created": 1784020310568
+  },
+  {
+    "id": "seedance-1.0-lite",
+    "owned_by": "Bytedance",
+    "description": "Seedance is a video generation model with text-to-video and image-to-video capabilities. It achieves breakthroughs in se",
+    "created": 1750007728801
+  },
+  {
+    "id": "seedance-1.0-pro",
+    "owned_by": "Bytedance",
+    "description": "Seedance is a video generation model with text-to-video and image-to-video capabilities. It achieves breakthroughs in se",
+    "created": 1750447821693
+  },
+  {
+    "id": "seedance-1.0-pro-fast",
+    "owned_by": "Bytedance",
+    "description": "Seedance Pro Fast is a faster version of Seedance 1.0 Pro that balances speed, quality and cost. Seedance is a video gen",
+    "created": 1761334162620
+  },
+  {
+    "id": "seedance-2-fast",
+    "owned_by": "Bytedance",
+    "description": "Seedance 2.0 Fast supports the text and image inputs but is optimized for speed, making it ideal for rapid iteration, qu",
+    "created": 1775769251552
+  },
+  {
+    "id": "seedance-2.0",
+    "owned_by": "Bytedance",
+    "description": "Seedance 2.0 delivers high\u2011quality video generation across text and image inputs \u2014 built for cinematic scenes, consisten",
+    "created": 1775769075017
+  },
+  {
+    "id": "seedance-2.0-fast-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seedance 2.0 Fast is the speed-optimized version of Seedance 2.0, designed to generate cinematic videos with native audi",
+    "created": 1775794638727
+  },
+  {
+    "id": "seedance-2.0-mini",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seedance 2.0 Mini is the fast, low-cost tier of ByteDance's Seedance 2.0 video model. It generates short cinematic clips",
+    "created": 1782326306211
+  },
+  {
+    "id": "seedance-2.0-pro-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seedance 2.0 Pro is a multimodal AI video generation model built for cinematic, high-quality output from text, images, a",
+    "created": 1775794202611
+  },
+  {
+    "id": "seedance-2.5-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seedance 2.5 is ByteDance's next-generation video model. It generates a coherent clip of up to 30 seconds in a single re",
+    "created": 1786105741004
+  },
+  {
+    "id": "seededit-3.0",
+    "owned_by": "Bytedance",
+    "description": "SeedEdit 3.0 is an image editing model independently developed by ByteDance. It excels in accurately following editing i",
+    "created": 1754502655602
+  },
+  {
+    "id": "seedream-3.0",
+    "owned_by": "Bytedance",
+    "description": "Seedream 3.0 by ByteDance is a bilingual (Chinese and English) text-to-image model that excels at text-to-image generati",
+    "created": 1750007407012
+  },
+  {
+    "id": "seedream-4.0",
+    "owned_by": "Bytedance",
+    "description": "Seedream 4.0 is ByteDance's latest and best text-to-image model, capable of impressive high fidelity image generation, w",
+    "created": 1757430793599
+  },
+  {
+    "id": "seedream-4.5",
+    "owned_by": "Bytedance",
+    "description": "Seedream-4.5 is ByteDance's latest and best text-to-image model, capable of impressive high fidelity image generation, w",
+    "created": 1764771581018
+  },
+  {
+    "id": "seedream-5.0-lite",
+    "owned_by": "Bytedance",
+    "description": "Seedream 5.0 Lite is ByteDance's latest text-to-image model with greater intelligence. Seedream 5.0 Lite can also take i",
+    "created": 1772025732993
+  },
+  {
+    "id": "seedream-5.0-lite-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seedream 5.0 Lite is ByteDance\u2019s unified multimodal image-generation model, designed to think through prompts before ren",
+    "created": 1776720463370
+  },
+  {
+    "id": "seedream-5.0-pro",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Seedream 5.0 Pro creates premium images from text prompts and reference images, with strong detail, composition, and mul",
+    "created": 1783576126928
+  },
+  {
+    "id": "sketch-to-image",
+    "owned_by": "fal",
+    "description": "Takes in sketches and converts them to colored images.",
+    "created": 1736176125104
+  },
+  {
+    "id": "solar-pro-2",
+    "owned_by": "Upstage",
+    "description": "Solar Pro 2 is Upstage's latest frontier-scale LLM. With just 31B parameters, it delivers top-tier performance through w",
+    "created": 1694610718864
+  },
+  {
+    "id": "stable-audio-2.0",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Stable Audio 2.0 generates audio up to 3 minutes long from text prompts, supporting text-to-audio and audio-to-audio tra",
+    "created": 1756880177270
+  },
+  {
+    "id": "stable-audio-2.5",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Stable Audio 2.5 generates high-quality audio up to 3 minutes long from text prompts, supporting text-to-audio, audio-to",
+    "created": 1756869275249
+  },
+  {
+    "id": "stablediffusion3-2b",
+    "owned_by": "fal",
+    "description": "Stable Diffusion v3 Medium - by fal.ai",
+    "created": 1718216691252
+  },
+  {
+    "id": "stablediffusion3.5-l",
+    "owned_by": "fal",
+    "description": "Stability.ai's StableDiffusion3.5 Large, hosted by @fal, is the Stable Diffusion family's most powerful image generation",
+    "created": 1729613306476
+  },
+  {
+    "id": "step-3.7-flash-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "StepFun multimodal reasoning model with image and video input, tool calling, adjustable reasoning effort, and 256K conte",
+    "created": 1783593520818
+  },
+  {
+    "id": "step-5-preview-el",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Step 5 Preview is StepFun's frontier reasoning model. It accepts text, image, and video input with a 1M token context, a",
+    "created": 1789882969897
+  },
+  {
+    "id": "svi-2.0-pro",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Stable Video Infinity 2.0 Pro, powered by WAN 2.2, generates seamlessly extending, theoretically infinite-length videos ",
+    "created": 1767577823164
+  },
+  {
+    "id": "tako",
+    "owned_by": "TryTako",
+    "description": "Tako is a bot that transforms your questions about stocks, sports, economics or politics into interactive, shareable kno",
+    "created": 1723756137465
+  },
+  {
+    "id": "trellis-3d",
+    "owned_by": "fal",
+    "description": "Generate 3D models from your images using Trellis, a native 3D generative model enabling versatile and high-quality 3D a",
+    "created": 1743054517902
+  },
+  {
+    "id": "veo-3-vfast",
+    "owned_by": "fal",
+    "description": "Veo-3 Fast is a faster and more cost effective version of Google's Veo 3. \n\nOptional parameters:\nSet the aspect ratio of",
+    "created": 1752140109634
+  },
+  {
+    "id": "veo-3.1",
+    "owned_by": "Google",
+    "description": "Google\u2019s Veo 3.1 is an updated version of the Veo family of models that features richer native audio, from natural conve",
+    "created": 1760537766690
+  },
+  {
+    "id": "veo-3.1-fast",
+    "owned_by": "Google",
+    "description": "Google\u2019s Veo 3.1 Fast is an updated version of the Veo family of models that's optimized for speed and cost, but still f",
+    "created": 1760540647924
+  },
+  {
+    "id": "veo-3.1-lite",
+    "owned_by": "Google",
+    "description": "Google\u2019s Veo 3.1 Lite is the most cost-efficient model in the Veo 3.1 family, delivering high-quality video generation w",
+    "created": 1774976562653
+  },
+  {
+    "id": "veo-v3.1",
+    "owned_by": "fal",
+    "description": "Google's Veo-3.1 is an improved version of Veo 3.\n\nOptional parameters:\nSet the aspect ratio of the generated image (one",
+    "created": 1760568057558
+  },
+  {
+    "id": "veo-v3.1-fast",
+    "owned_by": "fal",
+    "description": "Google's Veo 3.1 Fast is a fast version of Veo 3.1.\n\nOptional parameters:\nSet the aspect ratio of the generated image (o",
+    "created": 1760650990090
+  },
+  {
+    "id": "vidu",
+    "owned_by": "fal",
+    "description": "The Vidu Video Generation Bot creates videos using images and text prompts. You can generate videos in four modes: \n(1) ",
+    "created": 1756292711841
+  },
+  {
+    "id": "wan-2.5",
+    "owned_by": "fal",
+    "description": "Wan-2.5 Video Generation bot. Has text-to-video and image-to-video capabilities. Optionally, send an audio file (mp3) to",
+    "created": 1758919750787
+  },
+  {
+    "id": "wan-2.6",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Wan 2.6 is Alibaba\u2019s multimodal video generation model built for cinematic, multi-shot storytelling\u2014creating high-fideli",
+    "created": 1765907288740
+  },
+  {
+    "id": "wan-2.7",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Wan 2.7 is Alibaba's latest multimodal video generation model, capable of creating high-fidelity videos from text, image",
+    "created": 1775194323304
+  },
+  {
+    "id": "wan-3.0",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Wan 3.0 generates video clips of 2 to 30 seconds with synchronized native audio, with Standard and Prime (faster) tiers.",
+    "created": 1787551470546
+  },
+  {
+    "id": "wan-animate",
+    "owned_by": "fal",
+    "description": "Wan Animate takes in an image and a video to generate another video where a character in the image replaces a character ",
+    "created": 1758552514026
+  },
+  {
+    "id": "wan2.7-image",
+    "owned_by": "EmpirioLabs AI",
+    "description": "Wan2.7 Image is Alibaba's Wan 2.7 series image generation and editing model, supporting text-to-image, image editing, in",
+    "created": 1775077688892
+  },
+  {
+    "id": "whisper-v3-large-t",
+    "owned_by": "Together AI",
+    "description": "Whisper v3 Large is a state-of-the-art automatic speech recognition and translation model developed by OpenAI, offering ",
+    "created": 1756410173218
+  },
+  {
+    "id": "xiaomimimo-mimo-v2-5",
+    "owned_by": "Novita AI",
+    "description": "Xiaomi's native omni-modal model (text / image / video / audio understanding) with Pro-level agentic performance at ~hal",
+    "created": 1787639190096
+  },
+  {
+    "id": "z-image-lightning",
+    "owned_by": "fal",
+    "description": "Super-fast endpoint for Z-Image Turbo, hosted by fal.ai. Excels at portrait photos and realistic images.\n\nNotes:\nBot doe",
+    "created": 1765570829013
+  }
+]

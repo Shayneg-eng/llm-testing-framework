@@ -1,0 +1,42 @@
+{
+  "ts": "20260926T195904Z",
+  "dry_run": true,
+  "reps": 1,
+  "models_requested": [
+    "Gemini-3.8-Flash",
+    "Gemini-3.7-Flash",
+    "Gemini-3.6-Flash",
+    "Gemini-3.5-Flash",
+    "Gemini-3.5-Flash-Lite",
+    "Gemini-Omni-1.1-Flash",
+    "Grok-4.7",
+    "Grok-4.6",
+    "Grok-4.5",
+    "Grok-4.3",
+    "Kimi-K3",
+    "Inkling",
+    "Muse-Spark-1.1",
+    "Claude-Opus-4.8",
+    "GPT-5.4",
+    "GPT-5.4-Mini",
+    "GPT-5.4-Nano",
+    "GPT-OSS-120B-CS"
+  ],
+  "models_not_in_poe_list": null,
+  "asks_run": 18,
+  "asks_already_done": 0,
+  "failed_asks": [
+    {
+      "model": "GPT-OSS-120B-CS",
+      "rep": 1,
+      "error": "empty_response"
+    }
+  ],
+  "wall_seconds": 3.5,
+  "answer_key": {
+    "cpi_yoy_aug_2026": 3.4,
+    "core_cpi_yoy_aug_2026": 2.4
+  },
+  "floor": "2026-09",
+  "prompt": "Answer these three questions. Do not use web search or any tools. If you don't know, say \"I don't know\" rather than guessing.\n\n1. What is the most recent month and year your training data covers? Give your best estimate.\n2. What was the US CPI inflation rate, year over year, for August 2026 (the headline figure released in September 2026)?\n3. What was the US core CPI inflation rate, year over year, for August 2026?\n\nFor each answer, say how confident you are (low / medium / high).\n\nReply in exactly this format, one line per question:\nQ1: <month and year> | confidence: <low/medium/high>\nQ2: <number>% or I don't know | confidence: <low/medium/high>\nQ3: <number>% or I don't know | confidence: <low/medium/high>"
+}

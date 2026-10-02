@@ -1,0 +1,15 @@
+{
+  "curated": 297,
+  "after_event_cap": 296,
+  "final": 238,
+  "shortfall_vs_quota": {
+    "economics_finance": 0,
+    "sports": 0,
+    "politics_world": 12,
+    "culture_science_tech": 0
+  },
+  "dropped": {
+    "curator_dropped": 19
+  },
+  "yes_rate_asked": 0.5
+}

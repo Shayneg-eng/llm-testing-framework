@@ -1,0 +1,85 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 16,
+  "replicate": 2,
+  "start_node": 2,
+  "start_state": 5,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      2,
+      5
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      0,
+      6
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need simulate. Nodes 0-3 have Target functions: given State (0-7) produce next node using formulas mod 4.\n\nNode 0: (State XOR 3) mod 4\nNode 1: (State + 2) mod 4\nNode 2: (State XOR 1) mod 4\nNode 3: (State * 3) mod 4\n\nValues: Node0=5, Node1=7, Node2=4, Node3=6.\n\nInitial: Current_Node = 2, State =5.\n\nWe need 16 steps. Let's compute.\n\nWe'll track State (0-7) after step 1 each iteration, then compute Next_Node.\n\nI'll make table.\n\nStep 0: Node=2, State=5.\n\nStep1:\n1. State = (5 + Value of node2 which is 4) mod8 = 9 mod8 =1.\n2. Next_Node = Node2.Target(State=1) = (State XOR 1) mod4 = (1 XOR1)=0 mod4=0.\n3. Current_Node =0. End Step1: Node=0, State=1 (state remains after step1 update).\n\nStep2:\nState = (1 + Value of node0=5) mod8 =6.\nNext_Node = Node0.Target(State=6) = (6 XOR3)=? 6 binary 110, 3 is 011 => XOR =101 =5. 5 mod4 =1.\nCurrent_Node=1. State now 6.\n\nStep3:\nState = (6 + Value node1=7) mod8 =13 mod8 =5.\nNext_Node = Node1.Target(State=5) = (5+2) mod4 =7 mod4 =3.\nCurrent_Node=3. State=5.\n\nStep4:\nState = (5 + Value node3=6) mod8 =11 mod8 =3.\nNext_Node = Node3.Target(State=3) = (3*3)=9 mod4 =1.\nCurrent_Node=1. State=3.\n\nStep5:\nState = (3 + Value node1=7)=10 mod8=2.\nNext_Node = Node1.Target(State=2) = (2+2)=4 mod4=0.\nCurrent_Node=0. State=2.\n\nStep6:\nState = (2 + Value node0=5)=7 mod8=7.\nNext_Node = Node0.Target(State=7) = (7 XOR3)=? 7 (111) XOR 3 (011) =100 =4. 4 mod4 =0.\nCurrent_Node=0. State=7.\n\nStep7:\nState = (7 +5)=12 mod8=4.\nNext_Node = Node0.Target(State=4) = (4 XOR3)=? 100 xor 011 =111 =7 mod4 =3.\nCurrent_Node=3. State=4.\n\nStep8:\nState = (4 +6)=10 mod8=2.\nNext_Node = Node3.Target(State=2) = (2*3)=6 mod4=2.\nCurrent_Node=2. State=2.\n\nStep9:\nState = (2 +4)=6.\nNext_Node = Node2.Target(State=6) = (6 XOR1)=? 110 xor001 =111=7 mod4 =3.\nCurrent_Node=3. State=6.\n\nStep10:\nState = (6 +6)=12 mod8=4.\nNext_Node = Node3.Target(State=4) = (4*3)=12 mod4=0.\nCurrent_Node=0. State=4.\n\nStep11:\nState = (4 +5)=9 mod8=1.\nNext_Node = Node0.Target(State=1) = (1 XOR3)=2 mod4=2.\nCurrent_Node=2. State=1.\n\nStep12:\nState = (1 +4)=5.\nNext_Node = Node2.Target(State=5) = (5 XOR1)=? 101 xor001 =100 =4 mod4=0.\nCurrent_Node=0. State=5.\n\nStep13:\nState = (5 +5)=10 mod8=2.\nNext_Node = Node0.Target(State=2) = (2 XOR3)=? 010 xor011 =001 =1 mod4=1.\nCurrent_Node=1. State=2.\n\nStep14:\nState = (2 +7)=9 mod8=1.\nNext_Node = Node1.Target(State=1) = (1+2)=3 mod4=3.\nCurrent_Node=3. State=1.\n\nStep15:\nState = (1 +6)=7.\nNext_Node = Node3.Target(State=7) = (7*3)=21 mod4=1 (since 20 is divisible by4, 21 mod4 =1).\nCurrent_Node=1. State=7.\n\nStep16:\nState = (7 +7)=14 mod8=6.\nNext_Node = Node1.Target(State=6) = (6+2)=8 mod4=0.\nCurrent_Node=0. State=6.\n\nAfter 16 transitions, final node = 0.\n\nWe need output just \"0\".",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 1,
+  "replicate": 5,
+  "start_node": 2,
+  "start_state": 7,
+  "ground_truth_node": 2,
+  "trace": [
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to simulate one transition.\n\nGiven Node 2: Value=4, Target(State) = (State XOR 1) mod 4.\n\nStarting State =7.\n\nStep1: State = (State + Value) mod 8 = (7+4) mod8 = 11 mod8 = 3.\n\nStep2: Next_Node = Target(State) using updated State=3. Compute (State XOR 1) mod4 = (3 XOR 1)=2 (since 3(011) XOR1(001)=010=2). mod4 =>2.\n\nSo Next_Node=2.\n\nStep3: Current_Node = Next_Node => node 2.\n\nThus final node is 2.\n\nWe should respond with just '2'.\n\n",
+  "raw_response": "2",
+  "model_answer": 2,
+  "correct": true,
+  "error": null
+}

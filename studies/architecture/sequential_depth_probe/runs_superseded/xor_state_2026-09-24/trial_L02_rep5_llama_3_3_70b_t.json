@@ -1,0 +1,30 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "Llama-3.3-70B-T",
+  "length": 2,
+  "replicate": 5,
+  "start_node": 0,
+  "start_state": 4,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      0,
+      4
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      0,
+      5
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": null,
+  "reasoning_effort_requested": "low",
+  "raw_response": "2",
+  "model_answer": 2,
+  "correct": false,
+  "error": null
+}

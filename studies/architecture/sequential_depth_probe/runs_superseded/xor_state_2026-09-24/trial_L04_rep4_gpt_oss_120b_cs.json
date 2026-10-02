@@ -1,0 +1,37 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 4,
+  "replicate": 4,
+  "start_node": 1,
+  "start_state": 7,
+  "ground_truth_node": 2,
+  "trace": [
+    [
+      1,
+      7
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      2,
+      6
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to compute final node after 4 transitions. Let's parse: There are 4 nodes (0-3). Each node has a Value and a Target function mapping a State (0-7) to next node.\n\nGiven Starting Node = 1, Starting State = 7. Number of transitions = 4.\n\nTransition rule each step:\n\n1. State = (State + Current_Node.Value) mod 8\n2. Next_Node = Current_Node.Target(State)   # uses updated state\n3. Current_Node = Next_Node\n\nWe need to compute after 4 steps.\n\nDefine functions:\n\nNode 0: Target(State) = (State XOR 3) mod 4. Value =5\nNode 1: Target(State) = (State + 2) mod 4. Value =7\nNode 2: Target(State) = (State XOR 1) mod 4. Value =4\nNode 3: Target(State) = (State * 3) mod 4. Value =6\n\nState is between 0-7.\n\nWe will simulate.\n\nStep0: Current_Node =1, State=7.\n\nStep1:\n\n- Value of node1 =7.\n- State = (7 + 7) mod 8 = 14 mod 8 = 6.\n- Next_Node = Node1.Target(State) = (State + 2) mod 4 = (6 + 2) mod 4 = 8 mod 4 = 0.\n- Current_Node = 0.\n\nNow step2:\n\nCurrent_Node=0, State=6.\n\n- Value node0 =5.\n- State = (6+5) mod8 =11 mod8 =3.\n- Next_Node = Node0.Target(State) = (State XOR 3) mod4. Compute State XOR 3: 3 XOR 3 =0. 0 mod4 =0.\n- Current_Node =0.\n\nStep3:\n\nCurrent_Node=0, State=3.\n\n- Value node0 =5.\n- State = (3+5) mod8 =8 mod8 =0.\n- Next_Node = Node0.Target(State) = (State XOR 3) mod4. 0 XOR 3 =3. 3 mod4 =3.\n- Current_Node =3.\n\nStep4:\n\nCurrent_Node=3, State=0.\n\n- Value node3 =6.\n- State = (0+6) mod8 =6.\n- Next_Node = Node3.Target(State) = (State * 3) mod4. Compute 6*3 =18 mod4 = 18 mod4 = 2 (since 4*4=16, remainder 2).\n- Current_Node =2.\n\nSo after 4 transitions, final node =2.\n\nReturn just \"2\".",
+  "raw_response": "2",
+  "model_answer": 2,
+  "correct": true,
+  "error": null
+}

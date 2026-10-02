@@ -1,0 +1,47 @@
+[
+  {
+    "id": "claude-opus-4.7",
+    "owned_by": "fake",
+    "description": ""
+  },
+  {
+    "id": "claude-opus-4.8",
+    "owned_by": "fake",
+    "description": ""
+  },
+  {
+    "id": "claude-sonnet-4.6",
+    "owned_by": "fake",
+    "description": ""
+  },
+  {
+    "id": "gemini-3.7-flash",
+    "owned_by": "fake",
+    "description": ""
+  },
+  {
+    "id": "gpt-5.3-codex",
+    "owned_by": "fake",
+    "description": ""
+  },
+  {
+    "id": "gpt-5.4",
+    "owned_by": "fake",
+    "description": ""
+  },
+  {
+    "id": "gpt-5.4-mini",
+    "owned_by": "fake",
+    "description": ""
+  },
+  {
+    "id": "grok-4.3",
+    "owned_by": "fake",
+    "description": ""
+  },
+  {
+    "id": "kimi-k3",
+    "owned_by": "fake",
+    "description": ""
+  }
+]

@@ -1,0 +1,35 @@
+model,verdict,reps_ok,reps_target,cutoff_claims,claimed_ym,claims_past_floor,cpi_answers,core_answers,cpi_correct,core_correct,confidences,finish_reasons,errors
+Claude-Opus-4.8,BEFORE_FLOOR_LIKELY,1,1,Early 2025 (around January–March 2025) | confidence: medium,2025-03,False,DK,DK,0,0,high/high,stop,
+GPT-5.4,BEFORE_FLOOR_LIKELY,1,1,June 2024 | confidence: medium,2024-06,False,DK,DK,0,0,high/high,stop,
+GPT-5.4-Mini,BEFORE_FLOOR_LIKELY,1,1,June 2024 | confidence: high,2024-06,False,DK,DK,0,0,low/low,stop,
+GPT-5.4-Nano,BEFORE_FLOOR_LIKELY,1,1,I don't know | confidence: low,-,False,DK,DK,0,0,low/low,stop,
+GPT-OSS-120B-CS,BEFORE_FLOOR_LIKELY,1,1,June 2024 | confidence: high,2024-06,False,DK,DK,0,0,low/low,stop,
+Gemini-3.5-Flash,BEFORE_FLOOR_LIKELY,1,1,January 2025 | confidence: high,2025-01,False,DK,DK,0,0,high/high,stop,
+Gemini-3.5-Flash-Lite,BEFORE_FLOOR_LIKELY,1,1,December 2024 | confidence: medium,2024-12,False,DK,DK,0,0,high/high,stop,
+Gemini-3.6-Flash,BEFORE_FLOOR_LIKELY,1,1,March 2026 | confidence: high,2026-03,False,DK,DK,0,0,high/high,stop,
+Gemini-3.7-Flash,BEFORE_FLOOR_LIKELY,1,1,March 2026 | confidence: high,2026-03,False,DK,DK,0,0,high/high,stop,
+Gemini-3.8-Flash,BEFORE_FLOOR_LIKELY,1,1,March 2026 | confidence: high,2026-03,False,DK,DK,0,0,high/high,stop,
+Gemini-Omni-1.1-Flash,BEFORE_FLOOR_LIKELY,1,1,January 2025 | confidence: high,2025-01,False,DK,DK,0,0,high/high,stop,
+Grok-4.3,BEFORE_FLOOR_LIKELY,1,1,December 2023 | confidence: low,2023-12,False,DK,DK,0,0,low/low,stop,
+Grok-4.5,BEFORE_FLOOR_LIKELY,1,1,October 2023 | confidence: medium,2023-10,False,DK,DK,0,0,high/high,stop,
+Grok-4.6,BEFORE_FLOOR_LIKELY,1,1,October 2023 | confidence: medium,2023-10,False,DK,DK,0,0,high/high,stop,
+Grok-4.7,BEFORE_FLOOR_LIKELY,1,1,I don't know | confidence: high,-,False,DK,DK,0,0,high/high,stop,
+Inkling,BEFORE_FLOOR_LIKELY,1,1,January 2026 | confidence: medium,2026-01,False,DK,DK,0,0,high/high,stop,
+Kimi-K3,BEFORE_FLOOR_LIKELY,1,1,I don't know | confidence: low,-,False,DK,DK,0,0,high/high,stop,
+Muse-Spark-1.1,BEFORE_FLOOR_LIKELY,1,1,January 2026 | confidence: high,2026-01,False,DK,DK,0,0,high/high,stop,
+Claude-Fable-5,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Fable-5` not found.', 'type': 'not_found_error', 'error_id': '4bddaf1d828660ea7fd98ed0cedad6fd'}}"
+Claude-Fable-5.1,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Fable-5.1` not found.', 'type': 'not_found_error', 'error_id': '928e19be87b373ab61873b4d2cfd56fc'}}"
+Claude-Opus-5,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Opus-5` not found.', 'type': 'not_found_error', 'error_id': '9f007ecdbc8f3ee013561868c627c5bc'}}"
+Claude-Opus-5.5,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Opus-5.5` not found.', 'type': 'not_found_error', 'error_id': '292ad111c5615263e632139ef2904218'}}"
+Claude-Sonnet-5,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `Claude-Sonnet-5` not found.', 'type': 'not_found_error', 'error_id': 'eba7a13c3622cf560222ad17158431f5'}}"
+GPT-5.5,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.5` not found.', 'type': 'not_found_error', 'error_id': '62f9ed84a876a9b3fd435bb404d7b800'}}"
+GPT-5.5-Pro,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.5-Pro` not found.', 'type': 'not_found_error', 'error_id': 'f5dff176aa76e3b9fe438cb7cb7ac416'}}"
+GPT-5.6-Luna,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.6-Luna` not found.', 'type': 'not_found_error', 'error_id': 'b1c6bbc12c7ae8aefb4a2fb596941810'}}"
+GPT-5.6-Sol,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.6-Sol` not found.', 'type': 'not_found_error', 'error_id': 'a7f05e5ad79d31bcc9faec35fa1849f3'}}"
+GPT-5.6-Terra,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-5.6-Terra` not found.', 'type': 'not_found_error', 'error_id': '6cd7c153d1f4d745763d7b62f00e58d3'}}"
+GPT-6-Astra,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-6-Astra` not found.', 'type': 'not_found_error', 'error_id': 'acf77e0c50861d8ce31fd8ce5892401f'}}"
+GPT-6-Luna,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-6-Luna` not found.', 'type': 'not_found_error', 'error_id': 'c10e4e6872468f54a70e402b79cecde6'}}"
+GPT-6-Sol,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"NotFoundError: Error code: 404 - {'error': {'message': 'Model `GPT-6-Sol` not found.', 'type': 'not_found_error', 'error_id': '0190906f0f90c9b5d2083482e7c37bb1'}}"
+Gemini-Omni-Flash,NO_RESPONSE,0,1,-,-,False,-,-,0,0,None/None,None,"InternalServerError: 500 Internal Server Error
+
+Server got itself in trouble"

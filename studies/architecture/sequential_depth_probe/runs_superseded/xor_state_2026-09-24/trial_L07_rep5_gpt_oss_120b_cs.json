@@ -1,0 +1,49 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 7,
+  "replicate": 5,
+  "start_node": 3,
+  "start_state": 5,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      3,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      0,
+      4
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to simulate deterministic FSM. Nodes 0-3 with given values and target functions depending on State (0-7). Note that target returns a node index (0-3). Use state updates mod 8.\n\nWe start at Node 3, State=5. Apply rule 7 times.\n\nLet's define functions:\n\nNode 0: Target(State) = (State XOR 3) mod 4\nNode 1: Target(State) = (State + 2) mod 4\nNode 2: Target(State) = (State XOR 1) mod 4\nNode 3: Target(State) = (State * 3) mod 4\n\nValues:\n\nV0=5, V1=7, V2=4, V3=6\n\nWe will simulate step by step.\n\nWe'll keep (Current Node, State) each step before transition.\n\nWe apply steps: first update State = (State + Value(current node)) mod 8, then compute Next Node = Target(State) (using new state), then set Current Node = Next Node. The State stays as the updated state (no further changes). Continue.\n\nLet's do.\n\nInitialize: Node = 3, State = 5.\n\nStep 1:\n- Value of node 3 = 6.\n- State = (5 + 6) mod 8 = 11 mod 8 = 3.\n- Compute Target for node 3: (State * 3) mod 4 = (3 * 3) mod 4 = 9 mod 4 = 1.\n- Next_Node = 1. Set Current_Node = 1.\nNow after step1: Node=1, State=3.\n\nStep2:\n- Node 1 value =7.\n- State = (3 + 7) mod 8 = 10 mod 8 = 2.\n- Target for node1: (State + 2) mod 4 = (2+2) mod4 =4 mod4=0.\n- Next_Node =0. Set Node=0.\nNow Node=0, State=2.\n\nStep3:\n- Node0 value =5.\n- State = (2+5) mod8 =7 mod8=7.\n- Target node0: (State XOR 3) mod4. First compute State XOR 3. State=7 (binary 111), 3 = 011, XOR = 100 = 4. 4 mod4 =0.\n- Next_Node =0. Node remains 0.\nNow Node=0, State=7.\n\nStep4:\n- Node0 value =5.\n- State = (7+5) mod8 =12 mod8 =4.\n- Target node0: State XOR 3: State=4 (100), 3 (011) XOR =111 =7. 7 mod4 =3.\n- Next_Node =3. Node=3.\nNow Node=3, State=4.\n\nStep5:\n- Node3 value =6.\n- State = (4+6) mod8 =10 mod8 =2.\n- Target node3: (State *3) mod4: 2*3=6 mod4=2.\n- Next_Node =2. Node=2.\nNow Node=2, State=2.\n\nStep6:\n- Node2 value =4.\n- State = (2+4) mod8 =6.\n- Target node2: (State XOR 1) mod4. State=6 (110), XOR 1 (001) =111 =7. 7 mod4=3.\n- Next_Node =3. Node=3.\nNow Node=3, State=6.\n\nStep7:\n- Node3 value =6.\n- State = (6+6) mod8 =12 mod8 =4.\n- Target node3: (State *3) mod4: 4*3=12 mod4=0.\n- Next_Node =0. Node=0.\nAfter 7 steps, final node =0.\n\nThus output digit '0'.",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

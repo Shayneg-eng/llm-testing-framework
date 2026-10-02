@@ -1,0 +1,1189 @@
+{
+  "n_replicates": 5,
+  "cells": {
+    "atk-stateful_def-stateful": {
+      "trial_1": {
+        "1": {
+          "word_count": {
+            "n": 5,
+            "mean": 106.8,
+            "sd": 18.088670487352022
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 2.138943278342219,
+            "sd": 2.0082161446779585
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "2": {
+          "word_count": {
+            "n": 5,
+            "mean": 118.6,
+            "sd": 16.816658407662327
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 2.555631615667219,
+            "sd": 5.437171051444373
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.2
+          },
+          "replicates_present": 5
+        },
+        "3": {
+          "word_count": {
+            "n": 5,
+            "mean": 127.8,
+            "sd": 9.093954035511725
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 5.522123488019204,
+            "sd": 1.3068405504923666
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "4": {
+          "word_count": {
+            "n": 5,
+            "mean": 121.2,
+            "sd": 13.367871932360812
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.79027848358052,
+            "sd": 2.1899010064776183
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "5": {
+          "word_count": {
+            "n": 5,
+            "mean": 125,
+            "sd": 9.797958971132712
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 0.981955369840521,
+            "sd": 3.5553732087902254
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        }
+      },
+      "trial_2": {
+        "1": {
+          "word_count": {
+            "n": 5,
+            "mean": 109.4,
+            "sd": 21.12581359380036
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.547274490403854,
+            "sd": 1.8961529766802263
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "2": {
+          "word_count": {
+            "n": 5,
+            "mean": 125,
+            "sd": 9.38083151964686
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.8676447216589294,
+            "sd": 2.8305798879695105
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "3": {
+          "word_count": {
+            "n": 5,
+            "mean": 129.4,
+            "sd": 9.989994994993742
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.3570117218857782,
+            "sd": 4.795781771506251
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "4": {
+          "word_count": {
+            "n": 5,
+            "mean": 124.8,
+            "sd": 17.92205345377588
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.5848182651625837,
+            "sd": 4.270570376511393
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "5": {
+          "word_count": {
+            "n": 5,
+            "mean": 125.8,
+            "sd": 8.5848704125339
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": -0.22694532274947843,
+            "sd": 3.462757381882817
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        }
+      }
+    },
+    "atk-stateful_def-stateless": {
+      "trial_1": {
+        "1": {
+          "word_count": {
+            "n": 5,
+            "mean": 115,
+            "sd": 17.435595774162696
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.122922537434607,
+            "sd": 4.18269132962321
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "2": {
+          "word_count": {
+            "n": 5,
+            "mean": 112.4,
+            "sd": 12.177848742696716
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 2.8428213100875386,
+            "sd": 2.9229754176363683
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "3": {
+          "word_count": {
+            "n": 5,
+            "mean": 106,
+            "sd": 11.683321445547923
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.006942690481494,
+            "sd": 2.7278471752128546
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.2
+          },
+          "replicates_present": 5
+        },
+        "4": {
+          "word_count": {
+            "n": 5,
+            "mean": 118.8,
+            "sd": 12.377398757412642
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.2052228718977542,
+            "sd": 3.062597530786653
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "5": {
+          "word_count": {
+            "n": 5,
+            "mean": 108.8,
+            "sd": 14.429137188342205
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.8922992881583602,
+            "sd": 3.2271055077512503
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        }
+      },
+      "trial_2": {
+        "1": {
+          "word_count": {
+            "n": 5,
+            "mean": 100.8,
+            "sd": 16.17714437099453
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 4.5531953264655085,
+            "sd": 1.9534093683976967
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "2": {
+          "word_count": {
+            "n": 5,
+            "mean": 103.6,
+            "sd": 25.899806949087477
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.9303451717317988,
+            "sd": 4.672144553678688
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "3": {
+          "word_count": {
+            "n": 5,
+            "mean": 106.4,
+            "sd": 13.813037319865606
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.7135461886821342,
+            "sd": 2.032279410863183
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "4": {
+          "word_count": {
+            "n": 5,
+            "mean": 119.8,
+            "sd": 15.546703830716014
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.771846337466251,
+            "sd": 1.577340491048752
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "5": {
+          "word_count": {
+            "n": 5,
+            "mean": 102.8,
+            "sd": 8.87130204648675
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.7627527218509065,
+            "sd": 2.0928929871077475
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        }
+      }
+    },
+    "atk-stateless_def-stateful": {
+      "trial_1": {
+        "1": {
+          "word_count": {
+            "n": 5,
+            "mean": 114,
+            "sd": 17.10263137648707
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": -0.7214222398166178,
+            "sd": 2.998842258307744
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "2": {
+          "word_count": {
+            "n": 5,
+            "mean": 123.2,
+            "sd": 9.959919678390985
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.3668939733162953,
+            "sd": 4.595716876558794
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "3": {
+          "word_count": {
+            "n": 5,
+            "mean": 117,
+            "sd": 12.469963913339926
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 2.8159136526368673,
+            "sd": 3.1191434278500645
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "4": {
+          "word_count": {
+            "n": 5,
+            "mean": 122.8,
+            "sd": 4.764451699828638
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.1049022182241925,
+            "sd": 5.599754869475723
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "5": {
+          "word_count": {
+            "n": 5,
+            "mean": 122.4,
+            "sd": 9.60728889958036
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.8826394742973498,
+            "sd": 5.514812131811582
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        }
+      },
+      "trial_2": {
+        "1": {
+          "word_count": {
+            "n": 5,
+            "mean": 117.8,
+            "sd": 14.635573101180562
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 2.8455997192653313,
+            "sd": 2.471721733474813
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "2": {
+          "word_count": {
+            "n": 5,
+            "mean": 123,
+            "sd": 9.137833441248533
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.019053093181778,
+            "sd": 2.8881875819194267
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "3": {
+          "word_count": {
+            "n": 5,
+            "mean": 123.2,
+            "sd": 7.791020472312982
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": -1.5152922162732294,
+            "sd": 5.050034941182336
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "4": {
+          "word_count": {
+            "n": 5,
+            "mean": 125.4,
+            "sd": 8.561541917201597
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 0.2720381066571333,
+            "sd": 3.1715573448196404
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "5": {
+          "word_count": {
+            "n": 5,
+            "mean": 127.2,
+            "sd": 9.391485505499118
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 4.105612589890272,
+            "sd": 3.239073852294968
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        }
+      }
+    },
+    "atk-stateless_def-stateless": {
+      "trial_1": {
+        "1": {
+          "word_count": {
+            "n": 5,
+            "mean": 119.4,
+            "sd": 14.328293687665674
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 0.9419978439589599,
+            "sd": 3.6037018477550964
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "2": {
+          "word_count": {
+            "n": 5,
+            "mean": 114.2,
+            "sd": 16.39207125411551
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 0.33786039879985036,
+            "sd": 3.6337725277568027
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "3": {
+          "word_count": {
+            "n": 5,
+            "mean": 113,
+            "sd": 15.968719422671311
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 0.692014385143366,
+            "sd": 2.477895667529035
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "4": {
+          "word_count": {
+            "n": 5,
+            "mean": 104.8,
+            "sd": 8.5848704125339
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 0.006981408392817645,
+            "sd": 4.291672882793556
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "5": {
+          "word_count": {
+            "n": 5,
+            "mean": 113.2,
+            "sd": 15.287249589118378
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": -0.15387539119123686,
+            "sd": 3.277023511548223
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.4
+          },
+          "replicates_present": 5
+        }
+      },
+      "trial_2": {
+        "1": {
+          "word_count": {
+            "n": 5,
+            "mean": 94.6,
+            "sd": 19.243180610283737
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 2.893965880994352,
+            "sd": 3.100577128846155
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "2": {
+          "word_count": {
+            "n": 5,
+            "mean": 112.6,
+            "sd": 14.690132742763081
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 1.8321385392668024,
+            "sd": 1.4092174831756468
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "3": {
+          "word_count": {
+            "n": 5,
+            "mean": 119.4,
+            "sd": 15.339491516996253
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.297752367482286,
+            "sd": 1.4587474481081715
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "4": {
+          "word_count": {
+            "n": 5,
+            "mean": 105.6,
+            "sd": 14.587666023048376
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 3.6454485196275592,
+            "sd": 3.6183467193082817
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        },
+        "5": {
+          "word_count": {
+            "n": 5,
+            "mean": 104.6,
+            "sd": 16.786899654194638
+          },
+          "drift_score": {
+            "n": 5,
+            "mean": 2.083439212100949,
+            "sd": 2.9386872129716837
+          },
+          "cap_exceeded_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "stagnation_rate": {
+            "n": 0,
+            "rate": null
+          },
+          "refusal_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "duplicate_block_rate": {
+            "n": 5,
+            "rate": 0.0
+          },
+          "replicates_present": 5
+        }
+      }
+    }
+  }
+}

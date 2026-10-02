@@ -1,0 +1,34 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "Grok-4.5",
+  "length": 3,
+  "replicate": 4,
+  "start_node": 3,
+  "start_state": 6,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      3,
+      6
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      0,
+      5
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "This is a finite-state-machine simulation problem.\n\nStarting from Node 3, State 6, the first transition updates State to 4.",
+  "reasoning_effort_requested": "low",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}

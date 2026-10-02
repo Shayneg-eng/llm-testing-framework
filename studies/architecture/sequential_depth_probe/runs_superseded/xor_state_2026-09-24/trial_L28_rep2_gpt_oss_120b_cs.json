@@ -1,0 +1,133 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 28,
+  "replicate": 2,
+  "start_node": 2,
+  "start_state": 3,
+  "ground_truth_node": 2,
+  "trace": [
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to simulate 28 steps. Nodes have values and target functions based on state (0-7). State updates modulo 8. Nodes numbered 0-3.\n\nDefine Node info:\n0: Value 5, Target = (State XOR 3) mod 4.\n1: Value 7, Target = (State + 2) mod 4.\n2: Value 4, Target = (State XOR 1) mod 4.\n3: Value 6, Target = (State * 3) mod 4.\n\nState is 0-7 (3-bit) but we then mod 8 after addition. XOR and multiplication may produce values up to maybe >7 but target uses mod4 after XOR etc. But target only needs state modulo something? For XOR, state XOR const (0-7) yields 0-7. Then mod4 yields 0-3. For multiplication, state *3 may be up to 21; mod4 reduces.\n\nWe'll simulate. Let's do manually maybe find cycles. Let's denote current node N, state S (0-7). Transition step: S = (S + V_N) mod8. Then N = f_N(S) where f_N depends on N.\n\nWe have 28 steps; we can simulate quickly maybe using reasoning.\n\nWe'll create table.\n\nStart: N=2, S=3.\n\nStep1:\nAdd V2=4 => S = (3+4)=7 mod8 -> S=7.\nTarget for node2: (S XOR 1) mod4. 7 XOR1 = 6 (since 7 (111) XOR1(001)=110=6). 6 mod4 = 2.\nNext N =2. So remains node2.\nState after step =7 (unchanged). So after step1 N=2,S=7.\n\nStep2:\nAdd V2=4 => S = (7+4)=11 mod8 =3.\nTarget: S xor1 = 3 xor1 =2. 2 mod4 =2. N stays 2. S=3.\n\nWe see a loop maybe between S=7 and 3? Let's continue.\n\nStep3:\nS = (3+4)=7. Target same as step1 -> N=2. So pattern repeats every 2 steps: S toggles between 7 and 3, N stays 2. So after even steps, S=3; after odd steps, S=7. Node stays 2 always.\n\nThus after 28 steps (which is even), final S=3, N=2. So final node =2.\n\nCheck if any step could break due to XOR causing different? We computed correctly. For S=7, XOR1 =6 mod4 =2. For S=3, XOR1 =2 mod4 =2. Yes always 2.\n\nThus final node digit 2.",
+  "raw_response": "2",
+  "model_answer": 2,
+  "correct": true,
+  "error": null
+}

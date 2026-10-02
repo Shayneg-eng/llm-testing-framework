@@ -1,0 +1,29 @@
+{
+  "study": "sequential_depth_probe",
+  "model": "GPT-OSS-120B-CS",
+  "length": 2,
+  "replicate": 1,
+  "start_node": 1,
+  "start_state": 0,
+  "ground_truth_node": 0,
+  "trace": [
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      0,
+      6
+    ]
+  ],
+  "finish_reason": "stop",
+  "reasoning_trace": "We need to simulate. Starting Node=1, State=0. Node 1 Value=7, Target = (State+2) mod4.\n\nStep1:\nState = (0+7) mod8 =7.\nNext_Node = (State+2) mod4 = (7+2)=9 mod4 =1.\nCurrent_Node becomes 1.\n\nStep2:\nNow Node=1 again, Value=7.\nState = (previous State 7 +7) mod8 =14 mod8 =6.\nNext_Node = (State+2) mod4 = (6+2)=8 mod4 =0.\nCurrent_Node becomes 0.\n\nAfter 2 steps final node=0. Output single digit \"0\".",
+  "raw_response": "0",
+  "model_answer": 0,
+  "correct": true,
+  "error": null
+}
